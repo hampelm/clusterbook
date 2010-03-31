@@ -7,8 +7,13 @@ admin.autodiscover()
 urlpatterns = patterns('',
     (r'^admin/doc/', include('django.contrib.admindocs.urls')),
     (r'^admin/(.*)', admin.site.root),
-    
+
     (r'^site_media/(?P<path>.*)$', 'django.views.static.serve', {
         'document_root': settings.MEDIA_ROOT
     }),
+
+    (r'^$', 'django.views.generic.simple.redirect_to', { 'url': '/core/'}),
+
+    (r'^core/', include('core.urls')),
+
 )

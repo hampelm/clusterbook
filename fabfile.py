@@ -239,6 +239,7 @@ def create_local_database(func=local):
     """
     func('echo "CREATE USER %(project_name)s WITH PASSWORD \'%(database_password)s\';" | psql postgres -U postgres' % env)
     func('createdb -O %(project_name)s %(project_name)s -T template_postgis -U postgres' % env)
+    func('echo "GRANT ALL PRIVILEGES ON %(project_name)s TO %(project_name)s;" | psql postgres -U postgres' % env)
     
 def destroy_database(func=run):
     """

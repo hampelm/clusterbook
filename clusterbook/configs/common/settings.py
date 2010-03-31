@@ -14,7 +14,6 @@ TEMPLATE_DEBUG = DEBUG
 ADMINS = (
     # ('Your Name', 'your_email@domain.com'),
 )
-
 MANAGERS = ADMINS
 
 # Database
@@ -25,9 +24,9 @@ DATABASE_ENGINE = 'postgresql_psycopg2'
 DATABASE_HOST = 'localhost'
 DATABASE_PORT = '5432'
 DATABASE_NAME = 'clusterbook'
-DATABASE_USER = 'clusterbook'
+DATABASE_USER = 'postgres'
 DATABASE_HOST = 'localhost'
-DATABASE_PASSWORD = 'foo'
+DATABASE_PASSWORD = 'tener'
 
 # Local time
 TIME_ZONE = 'America/Chicago'
