@@ -37,9 +37,9 @@ def staging():
     Work on staging environment
     """
     env.settings = 'staging'
-    env.hosts = ['db.foo.example.com'] 
+    env.hosts = ['ec2-184-73-102-90.compute-1.amazonaws.com'] 
     env.user = 'newsapps'
-    env.s3_bucket = 'media.foo.example.com'
+    env.s3_bucket = 'd3-test-1'
     
 """
 Branches
@@ -233,6 +233,13 @@ def create_database(func=run):
     func('echo "CREATE USER %(project_name)s WITH PASSWORD \'%(database_password)s\';" | psql postgres' % env)
     func('createdb -O %(project_name)s %(project_name)s -T template_postgis' % env)
     
+def create_local_database(func=local):
+    """
+    Creates the user and database for this project.
+    """
+    func('echo "CREATE USER %(project_name)s WITH PASSWORD \'%(database_password)s\';" | psql postgres -U postgres' % env)
+    func('createdb -O %(project_name)s %(project_name)s -T template_postgis -U postgres' % env)
+    
 def destroy_database(func=run):
     """
     Destroys the user and database for this project.
@@ -242,6 +249,17 @@ def destroy_database(func=run):
     with settings(warn_only=True):
         func('dropdb %(project_name)s' % env)
         func('dropuser %(project_name)s' % env)
+        
+def destroy_local_database(func=local):
+    """
+    Destroys the user and database for this project.
+
+    Will not cause the fab to fail if they do not exist.
+    """
+    with settings(warn_only=True):
+        func('dropdb %(project_name)s -U postgres' % env)
+        func('dropuser %(project_name)s -U postgres' % env)
+
         
 def load_data():
     """
@@ -313,7 +331,7 @@ def bootstrap():
     """
     Local development bootstrap: you should only run this once.
     """    
-    create_database(local)
+    create_local_database(local)
     local("sh ./manage syncdb --noinput")
    # local("sh ./manage load_shapefiles")
 
@@ -321,4 +339,4 @@ def shiva_local():
     """
     Undo any local setup.  This will *destroy* your local database, so use with caution.
     """    
-    destroy_database(local)
+    destroy_local_database()

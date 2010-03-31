@@ -25,6 +25,9 @@ DATABASE_ENGINE = 'postgresql_psycopg2'
 DATABASE_HOST = 'localhost'
 DATABASE_PORT = '5432'
 DATABASE_NAME = 'clusterbook'
+DATABASE_USER = 'clusterbook'
+DATABASE_HOST = 'localhost'
+DATABASE_PASSWORD = 'foo'
 
 # Local time
 TIME_ZONE = 'America/Chicago'
@@ -52,7 +55,7 @@ MEDIA_URL = ''
 ADMIN_MEDIA_PREFIX = '/media/'
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'mattisgreat.com'
+SECRET_KEY = 'foobar'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -86,6 +89,8 @@ INSTALLED_APPS = (
     'django.contrib.humanize',
     'django.contrib.gis',
     'django.contrib.sitemaps',
+    'core',
+    
 )
 
 # Predefined domain
