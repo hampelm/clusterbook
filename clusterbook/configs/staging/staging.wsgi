@@ -9,8 +9,9 @@ prev_sys_path = list(sys.path)
 
 site.addsitedir(os.path.join(
     os.path.abspath(os.path.join(os.path.dirname(__file__), "../../../../env")),
-    "lib/python2.5/site-packages"
+    "lib/python2.6/site-packages"
 ))
+
 
 # Reorder sys.path so new directories at the front.
 new_sys_path = [] 
