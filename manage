@@ -1,0 +1,2 @@
+#!/bin/sh
+python ./clusterbook/configs/${DEPLOYMENT_TARGET:="common"}/manage.py $*
