@@ -44,7 +44,13 @@ def cluster_map(request, cluster, map_id):
     
     
     # get the files assoicated with this cluster / map colletion
-    files = MapFile.objects.filter(cluster=cluster, map_num=map_id)
+    files = MapFile.objects.filter(
+        cluster=cluster,
+        map_num=map_id, 
+        appendix=False
+    )
+    files.order_by('year', 'quarter')
+    latest = files[0]
     
     # so, if there is only one, we don't have to do anything special.
     # if there is more than one map, we need to separate older maps, 
@@ -56,8 +62,8 @@ def cluster_map(request, cluster, map_id):
     response['map_title'] = map_title
     response['clusters'] = clusters
     response['cluster'] = cluster
-    response['older_maps'] = older_maps
-    response['latest'] = latest
+   # response['older_maps'] = older_maps
+   # response['latest'] = latest
 
     return render_to_response('cluster_map.html', response)
     

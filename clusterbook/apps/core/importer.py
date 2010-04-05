@@ -44,7 +44,14 @@ def get_details(fname):
         'year': None,
         'quarter': None,        
     }
-    
+    null_results = {
+        'cluster': None,
+        'map': None,
+        'is_appendix': False,
+        'is_color': False,
+        'year': None,
+        'quarter': None,        
+    }
     
     # Find the cluster number (1 or two digits following a cap C)
     # matches 10 in C10M82
@@ -66,10 +73,31 @@ def get_details(fname):
         results['is_appendix'] = True
         
     # Is it in color? (looks for 'color' in filename)
-    appendix_match = re.search(r'Color', fname)
-    if appendix_match is not None:
+    color_match = re.search(r'Color', fname)
+    if color_match is not None:
         results['is_color'] = True    
-    
+        
+        
+    # Is this file associated with a particular year or quarter?
+    date_match = re.search(r'(M)([\d]+)([abcd])', fname)
+    if date_match is not None:
+        # extracts the c in C1M18c_09.pdf
+        # and stores it as 3, for the third quarter
+        quarter_ltr = date_match.group(3)
+        ltr_quarter_pair = {'a': 1, 'b': 2, 'c': 3, 'd': 4 }
+        results['quarter'] = ltr_quarter_pair[quarter_ltr]
+        
+        # looks for the 09 in C1M18c_09.pdf
+        # and stores it as 9
+        year_match = re.search(r'(M)([\d]+)[abcd]_([\d]+)', fname)
+        if year_match is not None:
+            year = year_match.group(3)
+            results['year'] = int(year)
+            
+        if results['year'] is None:
+            return null_results
+
+
     return results
     
     
@@ -78,12 +106,12 @@ def import_pdfs():
     # Reads the CSV key
     # this file maps the first column (map #) to the second column (map name)
     num_to_title = {}
-    key_reader = csv.reader(open(path_to_key), delimiter=',', quotechar='|')
+    key_reader = csv.reader(open(PATH_TO_KEY), delimiter=',', quotechar='|')
     for row in key_reader:
         num_to_title[row[0]] = row[1]
         
     # walk through every file in the import directory
-    for subdir, dirs, files in os.walk(path_to_pdfs):
+    for subdir, dirs, files in os.walk(PATH_TO_PDFS):
         for pdf_name in files:
             
             # get the map and cluster number, etc. for each.
@@ -98,7 +126,7 @@ def import_pdfs():
                 slug = fake_slug(num_to_title[str(pdf_details['map'])])
                 
                 # read in the file from the file path
-                pdf_path = os.path.join(path_to_pdfs, pdf_name)
+                pdf_path = os.path.join(PATH_TO_PDFS, pdf_name)
                 in_file = open(pdf_path, 'r')
                 # create a Django file object
                 file_object = File(in_file) 
@@ -109,6 +137,8 @@ def import_pdfs():
                    the_file = file_object,
                    cluster = pdf_details['cluster'],
                    map_num = pdf_details['map'],
+                   year = pdf_details['year'],
+                   quarter = pdf_details['quarter']
                 )
                                 
                 f.save()   

@@ -9,6 +9,11 @@ class MapFile(models.Model):
     cluster = models.IntegerField(max_length = 2, null=True)
     map_num = models.IntegerField(max_length = 3, null=True)
     
+    # a method for keeping track of the most recent file
+    latest = models.NullBooleanField(null=True) 
+    year = models.IntegerField(max_length = 2, null=True) # eg 08 09 ...
+    quarter = models.IntegerField(max_length = 1, null=True) # eg 1, 2, 3, 4
+    
     is_appendix = models.NullBooleanField(null=True) 
     is_color = models.NullBooleanField(null=True) 
     

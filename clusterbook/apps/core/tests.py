@@ -36,6 +36,36 @@ class ImportTest(TestCase):
         results = importer.get_details(fname)
         self.failUnlessEqual(good_results, results)
         
+    def test_no_year(self):
+        fname = "C1M18c.pdf"
+
+        good_results = {
+            'cluster': None,
+            'map': None,
+            'is_appendix': False,
+            'is_color': False,
+            'year': None,
+            'quarter': None,        
+        }
+        results = importer.get_details(fname)
+        self.failUnlessEqual(good_results, results)
+        
+    def test_year(self):
+        fname = "C1M18c_09.pdf"
+
+        good_results = {
+            'cluster': 1,
+            'map': 18,
+            'is_appendix': False,
+            'is_color': False,
+            'year': 9,
+            'quarter': 3,        
+        }
+        results = importer.get_details(fname)
+        self.failUnlessEqual(good_results, results)
+    
+        
+        
         
         
         
