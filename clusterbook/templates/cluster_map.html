@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+
+{% block title %}Cluster Book{% endblock %}
+
+{% block content %}
+
+<div id="col-a">
+<h1>Cluster {{cluster}}</h1>
+
+<table id="map-list">
+	<thead>
+		<tr>
+			<th colspan="3">Map</th>
+		</tr>
+	</thead>
+	<tbody>
+	{% for m in maps %}
+		<tr class="{% cycle odd,even %}">
+			<td>{% if m.map_id  %}{{m.map_id}}{% endif %}</td>
+			{% if m.map_id  %}
+			<td><a href="/cluster/{{cluster}}/map/{{m.map_id}}">{{ m.title }}</a></td>
+			{% else %}
+			<td><a href="/cluster/{{cluster}}/map/{{m.slug}}">{{ m.title }}</a></td>
+			{% endif %}
+		</tr>
+	{% endfor %}
+</table>
+</div>
+
+<div id="col-b">
+<h1>{{map_title}}</h1>
+<span><a href="/assets/{{latest.the_file}}" class="button">Download Latest</a></span>
+
+<h2>Map details</h2>
+<p>Etc.</p>
+
+<h2>Appendices</h2>
+
+{% if older_maps %}
+<h2>Older maps</h2>
+<ul>
+{% for f in files %}
+<li>{{f}}</li>
+{% endfor %}
+</ul>
+{% endif %}
+	
+</div>
+
+{% endblock %}
+

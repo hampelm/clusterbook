@@ -12,8 +12,9 @@ urlpatterns = patterns('',
         'document_root': settings.MEDIA_ROOT
     }),
 
-    (r'^$', 'django.views.generic.simple.redirect_to', { 'url': '/core/'}),
-
-    (r'^core/', include('core.urls')),
-
+ #   (r'^$', 'django.views.generic.simple.redirect_to', { 'url': '/core/'}),
+    
+    (r'^', include('core.urls')),
+    
+#    include('core.urls')
 )

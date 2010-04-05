@@ -6,11 +6,24 @@
 <title>{% block title %}{% endblock %}</title>
 <link rel="stylesheet" href="/assets/css/reset.css" type="text/css" charset="utf-8"/>
 <link rel="stylesheet" href="/assets/css/main.css" type="text/css" charset="utf-8"/>
+<style type="text/css" media="screen">
+	#cluster-nav #ch-{{cluster}} {
+		background:#fff;
+	}
+</style>
+
 </head>
 
 <body>
 <div id="page">
 <div id="container">
+	
+<div id="cluster-nav">
+{% for c in clusters %}
+<div class="cluster-head" id="ch-{{c.cluster_id}}"><a href="/cluster/{{ c.cluster_id}}">{{ c.cluster_id }}</a></div>
+{% endfor %}
+</div>
+	
 {% block content %}{% endblock %}
 </div>
 </div>

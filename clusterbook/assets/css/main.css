@@ -11,10 +11,96 @@ body {
     clear: both;
     overflow: hidden;
 }
+
 #container {
     width: 880px;
-    padding:20px;
+    padding:20px 10px 20px 20px;
     background: white;
     overflow:hidden;
     font-size:1em;
+}
+
+#col-a {
+    width:342px;
+    margin-right:10px;
+    float:left;
+}
+
+#col-b {
+    float:right;
+    width:498px;
+}
+
+
+/* ..................................................
+    Navigation                                      */
+
+#cluster-nav { 
+    overflow:auto;
+}
+
+#cluster-nav div {
+    background:#eee;
+    width:166px;
+    float:left;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+
+#cluster-nav a {
+    display:block;
+    height:100px;
+}
+
+
+/* ..................................................
+    Text styles                                     */
+
+a { 
+    color:#069;
+}
+
+h1 { 
+    font-size:1.6em; 
+}
+
+h2 { 
+    font-size:1.3em;
+    margin-top:1em; 
+}
+
+/* ..................................................
+    Table styles                                     */
+
+.even { 
+    background:#f1eee7;
+}
+
+th, td { 
+    padding:4px 6px;
+}
+
+th { 
+    font-weight:bold;
+}
+
+#map-list {
+}
+
+
+/* ..................................................
+    Misc.                                           */
+
+.button {
+	font-family: Verdana, Arial, sans-serif;
+    display: inline-block;
+    background: #459300;
+    border: 1px solid #459300 !important;
+    padding: 4px 7px 4px 7px !important;
+    color: #fff !important;
+    font-size: 11px !important;
+    cursor: pointer;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+	border-radius: 4px;
 }

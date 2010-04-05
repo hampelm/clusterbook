@@ -4,6 +4,25 @@
 {% block title %}Cluster Book{% endblock %}
 
 {% block content %}
-	There are {{ count }} files.
+
+<table>
+<thead>
+	<tr>
+		<th id="map_num_head">#</th>
+		<th>Map</th>
+		{% for c in clusters %}
+		<th width="6%">{{ c.cluster_id}}</th>{% endfor %}
+	</tr>	
+</thead>
+
+<tbody>
+	{% for m in maps %}
+	<tr>
+	<td>{% if m.map_id  %}{{m.map_id}}{% endif %}</td>
+	<td>{{m.title}}</td>
+	</tr>
+	{% endfor %}
+</tbody>
+</table>
 {% endblock %}
 

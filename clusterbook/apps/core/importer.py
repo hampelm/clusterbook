@@ -8,6 +8,10 @@ import csv
 
 from django.core.files import File
 
+PATH_TO_PDFS = os.path.join(settings.SITE_ROOT, '../data/files/')
+PATH_TO_KEY = os.path.join(settings.SITE_ROOT, '../data/files/key.csv')
+
+
 def fake_slug(string):
     '''
     returns a fake slug for URL handling
@@ -56,7 +60,6 @@ def get_details(fname):
         map_num = match.group(2)
         results['map'] = int(map_num)
         
-        
     # Is it an appendix? (looks for "appendix" in filename)
     appendix_match = re.search(r'Appendix', fname)
     if appendix_match is not None:
@@ -71,8 +74,6 @@ def get_details(fname):
     
     
 def import_pdfs():
-    path_to_pdfs = os.path.join(settings.SITE_ROOT, '../data/files/')
-    path_to_key = os.path.join(settings.SITE_ROOT, '../data/files/key.csv')
     
     # Reads the CSV key
     # this file maps the first column (map #) to the second column (map name)
@@ -116,5 +117,41 @@ def import_pdfs():
                 # The file is not a PDF we should import
                 print "Did not save " + pdf_name
     
+    return
+    
+    
+def import_clusterinfo():
+    clusters = Cluster.objects.all()
+    for c in clusters:
+        c.delete()
+    maps = MapType.objects.all()
+    for m in maps:
+        m.delete()
+    
+    # Create the 10 clusters.
+    for i in range(10):
+        c = Cluster(
+            cluster_id = i+1,
+            title = "Cluster " + str(i+1),
+        )
+        c.save()
+    
+    # create the 99+ map types
+        
+    key_reader = csv.reader(open(PATH_TO_KEY), delimiter=',', quotechar='|')
+    for row in key_reader:
+        
+        # some maps are not numbered
+        if row[0] is not '':
+            map_id = row[0]
+        else:
+            map_id = None
+            
+        m = MapType(
+            map_id = map_id,
+            title = row[1],
+        )
+        m.save()
+        
     return
     
