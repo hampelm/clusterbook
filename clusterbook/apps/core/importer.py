@@ -3,7 +3,10 @@ from core.models import *
 import string, os, time
 import re
 import settings
+from settings import MEDIA_ROOT
 import csv
+
+from django.core.files import File
 
 def fake_slug(string):
     '''
@@ -16,6 +19,13 @@ def fake_slug(string):
 def fake_deslug(slug):
     slug = slug.replace("_", " ")
     return slug
+    
+    
+def handle_uploaded_file(f):
+    destination = open(os.path.join(MEDIA_ROOT, f), 'wb+')
+    for chunk in f.chunks():
+        destination.write(chunk)
+    destination.close()
     
 
 def get_details(fname):
@@ -49,13 +59,11 @@ def get_details(fname):
         
     # Is it an appendix? (looks for "appendix" in filename)
     appendix_match = re.search(r'Appendix', fname)
-    
     if appendix_match is not None:
         results['is_appendix'] = True
         
     # Is it in color? (looks for 'color' in filename)
     appendix_match = re.search(r'Color', fname)
-    
     if appendix_match is not None:
         results['is_color'] = True    
     
@@ -67,27 +75,46 @@ def import_pdfs():
     path_to_key = os.path.join(settings.SITE_ROOT, '../data/files/key.csv')
     
     # Reads the CSV key
-    # maps the first column (map #) to the second column (map name)
+    # this file maps the first column (map #) to the second column (map name)
     num_to_title = {}
     key_reader = csv.reader(open(path_to_key), delimiter=',', quotechar='|')
     for row in key_reader:
         num_to_title[row[0]] = row[1]
         
-        
+    # walk through every file in the import directory
     for subdir, dirs, files in os.walk(path_to_pdfs):
-        for pdf in files:
-            results = get_details(pdf)
+        for pdf_name in files:
             
+            # get the map and cluster number, etc. for each.
+            pdf_details = get_details(pdf_name)
             
-            
-            f = File(
-               title = num_to_title[results[map_num]]
-               slug = fake_slug(num_to_title[results[map_num]])
-               
-               cluster = results[cluster]
-               map_num = results[map_num]
-               the_file = pdf                
-            )
-            
-            f.save()
-
+            # make sure the file is relevant (not a metafile)
+            if pdf_details['map'] is not None:
+                
+                print "trying " + pdf_name
+                
+                # create a slug from the filename
+                slug = fake_slug(num_to_title[str(pdf_details['map'])])
+                
+                # read in the file from the file path
+                pdf_path = os.path.join(path_to_pdfs, pdf_name)
+                in_file = open(pdf_path, 'r')
+                # create a Django file object
+                file_object = File(in_file) 
+                                
+                f = MapFile(
+                   title = num_to_title[str(pdf_details['map'])],
+                   slug = slug,
+                   the_file = file_object,
+                   cluster = pdf_details['cluster'],
+                   map_num = pdf_details['map'],
+                )
+                                
+                f.save()   
+                                
+            else:
+                # The file is not a PDF we should import
+                print "Did not save " + pdf_name
+    
+    return
+    
