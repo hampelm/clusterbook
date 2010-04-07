@@ -2586,3 +2586,37 @@ Traceback (most recent call last):
   File "/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 1483, in rollback
     pth.rollback()
 AttributeError: 'str' object has no attribute 'rollback'
+------------------------------------------------------------
+/Users/matth/.virtualenvs/clusterbook/bin/pip run on Mon Apr  5 15:56:36 2010
+Downloading/unpacking requirements.txt
+  Getting page http://pypi.python.org/simple/requirements.txt
+  Could not fetch URL http://pypi.python.org/simple/requirements.txt: HTTP Error 404: Not Found
+  Will skip URL http://pypi.python.org/simple/requirements.txt when looking for download links for requirements.txt
+  Getting page http://pypi.python.org/simple/
+Exception:
+Traceback (most recent call last):
+  File "/Users/matth/.virtualenvs/clusterbook/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/basecommand.py", line 115, in main
+    self.run(options, args)
+  File "/Users/matth/.virtualenvs/clusterbook/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/commands/install.py", line 155, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/Users/matth/.virtualenvs/clusterbook/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/req.py", line 823, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/Users/matth/.virtualenvs/clusterbook/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 57, in find_requirement
+    url_name = self._find_url_name(Link(self.index_urls[0]), url_name, req) or req.url_name
+  File "/Users/matth/.virtualenvs/clusterbook/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 165, in _find_url_name
+    page = self._get_page(index_url, req)
+  File "/Users/matth/.virtualenvs/clusterbook/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 282, in _get_page
+    return HTMLPage.get_page(link, req, cache=self.cache)
+  File "/Users/matth/.virtualenvs/clusterbook/lib/python2.6/site-packages/pip-0.6.3-py2.6.egg/pip/index.py", line 366, in get_page
+    inst = cls(resp.read(), real_url, headers)
+  File "/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/socket.py", line 327, in read
+    data = self._sock.recv(rbufsize)
+  File "/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/httplib.py", line 517, in read
+    return self._read_chunked(amt)
+  File "/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/httplib.py", line 573, in _read_chunked
+    value += self._safe_read(amt)
+  File "/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/httplib.py", line 617, in _safe_read
+    chunk = self.fp.read(min(amt, MAXAMOUNT))
+  File "/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/socket.py", line 351, in read
+    data = self._sock.recv(left)
+KeyboardInterrupt

@@ -6,6 +6,10 @@
 <title>{% block title %}{% endblock %}</title>
 <link rel="stylesheet" href="/assets/css/reset.css" type="text/css" charset="utf-8"/>
 <link rel="stylesheet" href="/assets/css/main.css" type="text/css" charset="utf-8"/>
+
+{% block head %}
+{% endblock %}
+
 <style type="text/css" media="screen">
 	#cluster-nav #ch-{{cluster}} {
 		background:#fff;
@@ -14,7 +18,7 @@
 
 </head>
 
-<body>
+<body onload="init();">
 <div id="page">
 <div id="container">
 	

@@ -1,5 +1,3 @@
-from core.models import *
-
 import string, os, time
 import re
 import settings
@@ -7,10 +5,19 @@ from settings import MEDIA_ROOT
 import csv
 
 from django.core.files import File
+from django.contrib.gis.gdal import *
+from django.contrib.gis.geos import * 
+        # really don't need to import et. but I am lazy today.
 
+from core.models import *
+
+
+# the folder the PDFs are in
 PATH_TO_PDFS = os.path.join(settings.SITE_ROOT, '../data/files/')
+# a mapping of map number (1...100-ish) to map name
 PATH_TO_KEY = os.path.join(settings.SITE_ROOT, '../data/files/key.csv')
-
+# shapefile describing cluster boundaries
+PATH_TO_CLUSTERS = os.path.join(settings.SITE_ROOT, '../data/clusters/Planning Clusters.shp')
 
 def fake_slug(string):
     '''
@@ -71,11 +78,15 @@ def get_details(fname):
     appendix_match = re.search(r'Appendix', fname)
     if appendix_match is not None:
         results['is_appendix'] = True
+    else: 
+        results['is_appendix'] = False
         
     # Is it in color? (looks for 'color' in filename)
     color_match = re.search(r'Color', fname)
     if color_match is not None:
         results['is_color'] = True    
+    else: 
+        results['is_color'] = False
         
         
     # Is this file associated with a particular year or quarter?
@@ -92,7 +103,7 @@ def get_details(fname):
         year_match = re.search(r'(M)([\d]+)[abcd]_([\d]+)', fname)
         if year_match is not None:
             year = year_match.group(3)
-            results['year'] = int(year)
+            results['year'] = int(year) + 2000
             
         if results['year'] is None:
             return null_results
@@ -138,7 +149,9 @@ def import_pdfs():
                    cluster = pdf_details['cluster'],
                    map_num = pdf_details['map'],
                    year = pdf_details['year'],
-                   quarter = pdf_details['quarter']
+                   quarter = pdf_details['quarter'],
+                   is_appendix = pdf_details['is_appendix'],
+                   is_color = pdf_details['is_color'],
                 )
                                 
                 f.save()   
@@ -171,7 +184,7 @@ def import_clusterinfo():
     key_reader = csv.reader(open(PATH_TO_KEY), delimiter=',', quotechar='|')
     for row in key_reader:
         
-        # some maps are not numbered
+        # some maps are not numbered, this gives them a null id
         if row[0] is not '':
             map_id = row[0]
         else:
@@ -179,9 +192,38 @@ def import_clusterinfo():
             
         m = MapType(
             map_id = map_id,
+            slug = fake_slug(row[1]),
             title = row[1],
         )
         m.save()
         
     return
+
+def import_cluster_shapes():
+    ds = DataSource(PATH_TO_CLUSTERS)
+    lyr = ds[0]
+    for feat in lyr:
+        cluster_num = int(feat.get('CLUSTER'))
+        cluster_to_update = Cluster.objects.get(cluster_id=cluster_num)
+                
+        # get the WKT fror each cluster and read it in to the appropriate
+        #  class type
+        poly_wkt = feat.geom.wkt
+        wkt_reader = WKTReader()
+        poly = wkt_reader.read(poly_wkt)
+        
+        # sanity check -- should be:
+        # <class 'django.contrib.gis.geos.polygon.Polygon'>
+        # or MultiPolygon
+        print type(poly)
+         
+        mp = "foo"
+        try:
+            mp = MultiPolygon(poly)
+        except: 
+            mp = poly
+       
+        cluster_to_update.mpoly = mp 
+        cluster_to_update.save()
+     
     
