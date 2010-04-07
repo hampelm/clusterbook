@@ -4,12 +4,23 @@
     <Style id="transBluePoly">
       <LineStyle>
         <width>1</width>
-        <color>ffbfa173</color>
+        <color>ff1D4D82</color>
       </LineStyle>
       <PolyStyle>
         <color>7dbfa173</color>
       </PolyStyle>
     </Style>
+
+    <Style id="hilight">
+      <LineStyle>
+        <width>1</width>
+        <color>ffFBE75F</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>7dFBE75F</color>
+      </PolyStyle>
+    </Style>
+
 
 {% for cluster in clusters %}
 <Placemark>
@@ -19,5 +30,15 @@
     {{ cluster.mpoly.kml|safe }}
 </Placemark>
 {% endfor %}
+
+{% for cluster in hilight %}
+<Placemark>
+    <name>{{ cluster.title }}</name>
+    <description></description>
+    <styleUrl>#hilight</styleUrl>
+    {{ cluster.mpoly.kml|safe }}
+</Placemark>
+{% endfor %}
+
 </Document>
 </kml>

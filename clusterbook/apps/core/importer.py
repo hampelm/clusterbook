@@ -17,7 +17,7 @@ PATH_TO_PDFS = os.path.join(settings.SITE_ROOT, '../data/files/')
 # a mapping of map number (1...100-ish) to map name
 PATH_TO_KEY = os.path.join(settings.SITE_ROOT, '../data/files/key.csv')
 # shapefile describing cluster boundaries
-PATH_TO_CLUSTERS = os.path.join(settings.SITE_ROOT, '../data/clusters/Planning Clusters.shp')
+PATH_TO_CLUSTERS = os.path.join(settings.SITE_ROOT, '../data/clusters/cluster_4326.shp')
 
 def fake_slug(string):
     '''
@@ -215,7 +215,7 @@ def import_cluster_shapes():
         # sanity check -- should be:
         # <class 'django.contrib.gis.geos.polygon.Polygon'>
         # or MultiPolygon
-        print type(poly)
+        print feat.geom.kml
          
         mp = "foo"
         try:

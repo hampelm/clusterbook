@@ -4,6 +4,10 @@ from django.template.defaultfilters import stringfilter
 from django.http import HttpResponse, Http404, HttpResponseRedirect
 from django import forms
 
+from django.contrib.gis.geos import Point
+from django.contrib.gis.measure import Distance
+from django.contrib.gis.shortcuts import render_to_kml
+
 from models import MapFile, MapType, Cluster
 
 
@@ -26,6 +30,7 @@ def cluster(request, cluster):
     
     maps = MapType.objects.all().order_by('map_id')
     clusters = Cluster.objects.all()
+    
   #  maps_in_cluster = MapFile.objects.filter(cluster=cluster).order_by('map_num')    
         
     response['maps'] = maps
@@ -90,21 +95,24 @@ def cluster_all_kml(request):
     '''
     Returns KML with all clusters
     '''
-    ca = models.CommunityArea.objects.get(area_number=area_number)
-    return render_to_kml('core/community_area.kml', {'comm_area': ca })
+    clusters = Cluster.objects.all()
+
+    return render_to_kml('kml/clusters.kml', {'clusters': clusters })
     
     
-def cluster_hilight_kml(request, cluster_to_highlight):
+def cluster_hilight_kml(request, cluster):
     '''
     Returns KML with all clusters, but one highlighted.
     '''
-    ca = models.CommunityArea.objects.get(area_number=area_number)
-    return render_to_kml('core/community_area.kml', {'comm_area': ca })
+    clusters = Cluster.objects.all()
+    hilight = Cluster.objects.filter(cluster_id = cluster)
+    return render_to_kml('kml/hilight.kml', 
+            {'clusters': clusters , 'hilight': hilight })
 
 def cluster_single_kml(request, cluster):
     '''
     Returns KML of a single cluster
     '''
-    ca = models.CommunityArea.objects.get(area_number=area_number)
-    return render_to_kml('core/community_area.kml', {'comm_area': ca })
+    clusters = Cluster.objects.filter(cluster_id = cluster)
+    return render_to_kml('kml/clusters.kml', {'clusters': clusters })
     
