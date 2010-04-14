@@ -128,6 +128,14 @@ def install_apache_conf():
 """
 Commands - deployment
 """
+def repair(func=run):
+    run(('tar xvfz %(path)s/repository/%(project_name)s/assets/assets.tar.gz') % env)
+    
+    gzip_assets()
+    deploy_to_s3()
+    maintenance_down()
+
+
 def deploy():
     """
     Deploy the latest version of the site to the server and restart Apache2.
@@ -168,7 +176,7 @@ def gzf_local_assets():
     """
     local('tar -pczf assets.tar.gz clusterbook/assets/')
     
-def upload_local_assets():
+def upload_local_assets(func=run):
     '''
     copies the local assets to the remote server's directory
     then unzips them.
@@ -176,7 +184,7 @@ def upload_local_assets():
     local(('scp -i ~/.ec2/D3_linux.pem assets.tar.gz newsapps@%(hosts)s:%(path)s/repository/%(project_name)s/assets') % env)
     
     # -i ~/ssh/map newsapps@ec2-184-73-121-214.compute-1.amazonaws.com
-    run(('tar xvfz %(path)s/repository/%(project_name)s/assets/assets.tar.gz') % env)
+    func(('tar xvfz %(path)s/repository/%(project_name)s/assets/assets.tar.gz') % env)
     
 
 def deploy_to_s3():
