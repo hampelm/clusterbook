@@ -37,7 +37,7 @@ def staging():
     Work on staging environment
     """
     env.settings = 'staging'
-    env.hosts = ['ec2-72-44-61-30.compute-1.amazonaws.com'] 
+    env.hosts = ['ec2-184-73-121-214.compute-1.amazonaws.com'] 
     env.user = 'newsapps'
     env.s3_bucket = 'd3-test-1'
     
@@ -141,6 +141,7 @@ def deploy():
         maintenance_up()
         
     checkout_latest()
+    upload_local_assets()
     gzip_assets()
     deploy_to_s3()
     maintenance_down()
@@ -158,6 +159,25 @@ def gzip_assets():
     in the gzip directory with the same filename.
     """
     run('cd %(repo_path)s; python gzip_assets.py' % env)
+    
+    
+def gzf_local_assets():
+    """
+    gzf every file in the _local_ assets directory and places the new file
+    in the root directory with the same filename.
+    """
+    local('tar -pczf assets.tar.gz clusterbook/assets/')
+    
+def upload_local_assets():
+    '''
+    copies the local assets to the remote server's directory
+    then unzips them.
+    '''
+    local(('scp -i ~/.ec2/D3_linux.pem assets.tar.gz newsapps@%(hosts)s:%(path)s/repository/%(project_name)s/assets') % env)
+    
+    # -i ~/ssh/map newsapps@ec2-184-73-121-214.compute-1.amazonaws.com
+    run(('tar xvfz %(path)s/repository/%(project_name)s/assets/assets.tar.gz') % env)
+    
 
 def deploy_to_s3():
     """
@@ -268,6 +288,11 @@ def load_data():
     """
     run('psql -q %(project_name)s < %(path)s/repository/data/psql/dump.sql' % env)
     run('psql -q %(project_name)s < %(path)s/repository/data/psql/finish_init.sql' % env)
+    
+    
+def dump_db():
+    local(('pg_dump clusterbook -U postgres > data/psql/export.sql'))
+
     
 def pgpool_down():
     """
