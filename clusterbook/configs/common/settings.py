@@ -104,7 +104,7 @@ DEFAULT_FROM_EMAIL = 'do.not.reply@bar.example.com'
 
 # Caching
 CACHE_MIDDLEWARE_KEY_PREFIX='clusterbook'
-CACHE_MIDDLEWARE_SECONDS=90 * 60 # 90 minutes
+CACHE_MIDDLEWARE_SECONDS=1 # was: 90 * 60 # 90 minutes
 CACHE_BACKEND="dummy:///"
 
 # Logging

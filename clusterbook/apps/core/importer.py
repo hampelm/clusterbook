@@ -3,6 +3,7 @@ import re
 import settings
 from settings import MEDIA_ROOT
 import csv
+import Image
 
 from django.core.files import File
 from django.contrib.gis.gdal import *
@@ -226,4 +227,108 @@ def import_cluster_shapes():
         cluster_to_update.mpoly = mp 
         cluster_to_update.save()
      
+     
+     
+def generate_images():
+    # gs -sDEVICE=pngalpha -sOutputFile=foo.png -r144 C1M1.pdf
     
+    maps = MapType.objects.all().order_by('map_id')
+    clusters = Cluster.objects.all()
+    
+    for c in clusters:
+        for m in maps:    
+            the_files = MapFile.objects.filter(
+                cluster=c.cluster_id,
+                map_num=m.map_id, 
+                is_appendix=False,
+                is_color = False
+            ).order_by('-year', '-quarter')
+            
+            if the_files.count() > 0:
+              #  eg. pdfs/C9M46.pdf
+                the_file = the_files[0]
+                path = str(the_file.the_file)
+                pdf_name = path.split("/")[1]
+                
+                pdf_path = os.path.join(PATH_TO_PDFS, pdf_name)
+                         
+                no_ext = pdf_name.split(".")[0]
+                png_name = no_ext + ".png"
+                png_path = os.path.join(PATH_TO_PDFS, png_name)
+                
+                
+                gs_call = "gs -sDEVICE=pngalpha -sOutputFile=" + png_path + " -r144 " + pdf_path
+                gs_call = 'gs -dNOPAUSE -dBATCH -sDEVICE=png16m -r144 -sOutputFile='+png_path+' -c "save pop currentglobal true setglobal false/product where{pop product(Ghostscript)search{pop pop pop revision 600 ge{pop true}if}{pop}ifelse}if{/pdfdict where{pop pdfdict begin/pdfshowpage_setpage[pdfdict/pdfshowpage_setpage get{dup type/nametype eq{dup/OutputFile eq{pop/AntiRotationHack}{dup/MediaBox eq revision 650 ge and{/THB.CropHack{1 index/CropBox pget{2 index exch/MediaBox exch put}if}def/THB.CropHack cvx}if}ifelse}if}forall]cvx def end}if}if setglobal" -f '+pdf_path
+                
+                os.system(gs_call)
+                
+                # make it smaller
+                basewidth = 775
+                try:
+                   img = Image.open(png_path)
+                   wpercent = (basewidth/float(img.size[0]))
+                   hsize = int((float(img.size[1])*float(wpercent)))
+                   img = img.resize((basewidth,hsize), Image.ANTIALIAS)
+                   img.save(png_path)
+                   
+                   in_file = open(png_path, 'r')
+                   f = File(in_file)
+                   the_file.image = f
+                   the_file.save()
+                except:
+                    # foo
+                    foo = 2
+                
+                
+def generate_thumbs():
+    maps = MapType.objects.all().order_by('map_id')
+    clusters = Cluster.objects.all()
+    
+    for c in clusters:
+        for m in maps:    
+            the_files = MapFile.objects.filter(
+                cluster=c.cluster_id,
+                map_num=m.map_id, 
+                is_appendix=False,
+                is_color = False
+            ).order_by('-year', '-quarter')
+            
+            if the_files.count() > 0:
+              #  eg. pdfs/C9M46.pdf
+                the_file = the_files[0]
+                path = str(the_file.the_file)
+                pdf_name = path.split("/")[1]
+
+                pdf_path = os.path.join(PATH_TO_PDFS, pdf_name)
+
+                no_ext = pdf_name.split(".")[0]
+                png_name = no_ext + ".png"
+                png_path = os.path.join(PATH_TO_PDFS, png_name)
+                new_name = no_ext + "_t.png"
+                new_path = os.path.join(PATH_TO_PDFS, new_name)
+                
+                basewidth = 518
+                try:
+                   img = Image.open(png_path)
+                   wpercent = (basewidth/float(img.size[0]))
+                   hsize = int((float(img.size[1])*float(wpercent)))
+                   img = img.resize((basewidth,hsize), Image.ANTIALIAS)
+                   img.save(new_path)
+           
+                   in_file = open(new_path, 'r')
+                   f = File(in_file)
+                   the_file.thumbnail = f
+                   the_file.save()
+                except:
+                    # foo
+                    foo = 2
+                
+            
+    
+    
+    
+
+                
+                
+                
+  #  os.system(command)

@@ -33,23 +33,31 @@
 
 {% block head %}
 
-<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAA8E1c1-rPGKc2CBMpfB181RQCULP4XOMyhPd8d_NrQQEO8sT8XBRf1rJ17f4tMfExvM9_vY718ffevg" type="text/javascript"></script>
+<script src='http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA8E1c1-rPGKc2CBMpfB181RQCULP4XOMyhPd8d_NrQQEO8sT8XBRf1rJ17f4tMfExvM9_vY718ffevg'></script> 
+<script src="http://openlayers.org/api/OpenLayers.js"></script> 
 <script type="text/javascript"> 
+    var map;
 
-var map;
-var geoXml; 
-var toggleState = 1;
+    function init() {
+        map = new OpenLayers.Map('map');
+      //  map.addControl(new OpenLayers.Control.LayerSwitcher());
+        
+        var gphy = new OpenLayers.Layer.Google(
+            "Google Physical",
+            {type: G_PHYSICAL_MAP}
+        );		
 
-function init() {
-  if (GBrowserIsCompatible()) {
-    geoXml = new GGeoXml("/kml/all");
-    map = new GMap2(document.getElementById("map")); 
-    map.setCenter(new GLatLng(42.3763, -83.143158), 10); 
-    map.setUIToDefault();
-    map.addOverlay(geoXml);
-  }
-} 
 
+	//	var clusters = new OpenLayers.Layer.GML("Clusters", "/kml/all.kml");
+		
+		var clusters = new OpenLayers.Layer.GML("KML", "/kml/single/{{cluster}}.kml", {
+		   format: OpenLayers.Format.KML
+		})
+		
+
+        map.addLayers([gphy, clusters]);
+        map.setCenter(new OpenLayers.LonLat(-83.143158, 42.3763), 11);
+    }
 </script> 
 
 	
