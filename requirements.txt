@@ -5,4 +5,3 @@ django-debug-toolbar
 psycopg2
 python-memcached
 pil
-PythonMagickWand==0.1

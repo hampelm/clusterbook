@@ -286,7 +286,7 @@ def load_data():
     """
     Loads data from the repository into PostgreSQL.
     """
-    run('psql -q %(project_name)s < %(path)s/repository/data/psql/dump.sql' % env)
+    run('psql -q %(project_name)s < %(path)s/repository/data/psql/export.sql' % env)
     run('psql -q %(project_name)s < %(path)s/repository/data/psql/finish_init.sql' % env)
     
     
