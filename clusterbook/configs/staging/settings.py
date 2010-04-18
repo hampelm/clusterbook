@@ -1,6 +1,6 @@
 from clusterbook.configs.common.settings import *
 
-DEBUG = False
+DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 # Database
