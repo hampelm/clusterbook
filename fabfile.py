@@ -349,7 +349,7 @@ def shiva_the_destroyer():
         pgpool_up()
         sudo('rm %(apache_config_path)s' % env)
         reboot()
-        run('s3cmd del --recursive s3://%(s3_bucket)s/%(project_name)s' % env)
+       # run('s3cmd del --recursive s3://%(s3_bucket)s/%(project_name)s' % env)
 
 """
 Utility functions (not to be called directly)

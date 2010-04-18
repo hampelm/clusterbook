@@ -4,7 +4,7 @@ DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 # Database
-DATABASE_HOST = 'db.foo.example.com'
+DATABASE_HOST = 'localhost'
 DATABASE_PORT = '5433'
 DATABASE_USER = 'clusterbook'
 DATABASE_PASSWORD = 'foo'
