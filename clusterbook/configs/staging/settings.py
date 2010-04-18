@@ -12,7 +12,7 @@ DATABASE_PASSWORD = 'foo'
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
 # Examples: "http://media.lawrence.com", "http://example.com/media/"
-MEDIA_URL = 'http://media.foo.example.com/clusterbook/'
+MEDIA_URL = 'http://clusterbook.s3.amazonaws.com/'
 
 # Predefined domain
 MY_SITE_DOMAIN = 'clusterbook.foo.example.com'

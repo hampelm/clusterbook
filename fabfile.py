@@ -37,9 +37,9 @@ def staging():
     Work on staging environment
     """
     env.settings = 'staging'
-    env.hosts = ['ec2-184-73-121-214.compute-1.amazonaws.com'] 
+    env.hosts = ['ec2-184-73-101-206.compute-1.amazonaws.com'] 
     env.user = 'newsapps'
-    env.s3_bucket = 'd3-test-1'
+    env.s3_bucket = 'clusterbook'
     
 """
 Branches
@@ -149,9 +149,9 @@ def deploy():
         maintenance_up()
         
     checkout_latest()
-    upload_local_assets()
-    gzip_assets()
-    deploy_to_s3()
+   # upload_local_assets()
+   # gzip_assets()
+   # deploy_to_s3()
     maintenance_down()
     
 def maintenance_up():

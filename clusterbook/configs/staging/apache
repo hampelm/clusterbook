@@ -1,6 +1,6 @@
 <VirtualHost *:80>
     ServerName clusterbook.foo.example.com
-    ServerAlias ec2-184-73-121-214.compute-1.amazonaws.com
+    ServerAlias ec2-184-73-101-206.compute-1.amazonaws.com
 
     WSGIScriptAlias / /home/newsapps/sites/clusterbook/repository/clusterbook/configs/staging/staging.wsgi
     
