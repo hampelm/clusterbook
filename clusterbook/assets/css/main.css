@@ -50,8 +50,8 @@ body {
 
 #cluster-nav a {
     display:block;
-    height:100px;
-    width:50px;
+    padding:25px;
+    
 }
 
 
