@@ -14,14 +14,14 @@ from models import MapFile, MapType, Cluster
 from helpers import *
 
 def get_maps():
-    maps =  get_maps()
+    maps = MapType.objects.filter(map_id__isnull=False).order_by('map_id')
     return maps
 
 def home(request):
     response = {}
     
     count = MapFile.objects.all().count()
-    maps =  get_maps()
+    maps = get_maps()
     clusters = Cluster.objects.all()
     
     response['maps'] = maps
@@ -50,7 +50,7 @@ def cluster_map(request, cluster, map_id):
         
     response = {}
 
-    maps =get_maps()
+    maps = get_maps()
     clusters = Cluster.objects.all()
     
     try:

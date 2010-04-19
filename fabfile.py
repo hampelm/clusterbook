@@ -62,9 +62,20 @@ def branch(branch_name):
     """
     env.branch = branch_name
     
+    
+    
 """
 Commands - setup
 """
+def update_database():
+    require('settings', provided_by=[production, staging])
+    require('branch', provided_by=[stable, master, branch])
+    
+    destroy_database()
+    create_database()
+    load_data()
+
+
 def setup():
     """
     Setup a fresh virtualenv, install everything we need, and fire up the database.
