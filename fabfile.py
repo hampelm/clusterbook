@@ -152,6 +152,7 @@ def deploy():
    # upload_local_assets()
    # gzip_assets()
    # deploy_to_s3()
+    deploy_css()
     maintenance_down()
     
 def maintenance_up():
@@ -185,6 +186,11 @@ def upload_local_assets(func=run):
     
     # -i ~/ssh/map newsapps@ec2-184-73-121-214.compute-1.amazonaws.com
     func(('tar xvfz %(path)s/repository/%(project_name)s/assets/assets.tar.gz') % env)
+    
+
+def deploy_css():
+    run(('s3cmd -P --guess-mime-type --rexclude-from=%(path)s/repository/s3exclude sync %(path)s/repository/assets/css s3://%(s3_bucket)s/css') % env)
+    
     
 
 def deploy_to_s3():

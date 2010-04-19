@@ -42,7 +42,7 @@ body {
 
 #cluster-nav div {
     background:#eee;
-    width:166px;
+    width:50px;
     float:left;
     margin-right:10px;
     margin-bottom:10px;
@@ -51,6 +51,7 @@ body {
 #cluster-nav a {
     display:block;
     height:100px;
+    width:50px;
 }
 
 

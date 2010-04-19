@@ -23,7 +23,7 @@
 <div id="container">
 	
 <div id="cluster-nav">
-{% for c in clusters %}
+{% for c in clusters|dictsort:"cluster_id" %}
 <div class="cluster-head" id="ch-{{c.cluster_id}}"><a href="/cluster/{{ c.cluster_id}}">{{ c.cluster_id }}</a></div>
 {% endfor %}
 </div>
