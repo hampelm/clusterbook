@@ -13,13 +13,15 @@ from django.contrib.gis.shortcuts import render_to_kml
 from models import MapFile, MapType, Cluster
 from helpers import *
 
-
+def get_maps():
+    maps =  get_maps()
+    return maps
 
 def home(request):
     response = {}
     
     count = MapFile.objects.all().count()
-    maps = MapType.objects.all()
+    maps =  get_maps()
     clusters = Cluster.objects.all()
     
     response['maps'] = maps
@@ -32,7 +34,7 @@ def home(request):
 def cluster(request, cluster):
     response = {}
     
-    maps = MapType.objects.all().order_by('map_id')
+    maps = get_maps()
     clusters = Cluster.objects.all()
     
   #  maps_in_cluster = MapFile.objects.filter(cluster=cluster).order_by('map_num')    
@@ -48,18 +50,8 @@ def cluster_map(request, cluster, map_id):
         
     response = {}
 
-    maps = MapType.objects.filter(map_id__isnull=False).order_by('map_id')
-    
-    for m in maps:
-        m.slug = fake_slug(m.title)
-        print fake_slug(m.title)
-        
-        m.save()
-    
-    
+    maps =get_maps()
     clusters = Cluster.objects.all()
-    
-    map_title = MapType.objects.all()
     
     try:
         map_id = int(map_id)
