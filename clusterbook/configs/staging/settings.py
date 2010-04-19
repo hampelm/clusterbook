@@ -25,7 +25,7 @@ EMAIL_PORT = 25
 CACHE_BACKEND = 'memcached://127.0.0.1:11211/'
 
 # S3
-AWS_S3_URL = 's3://media.foo.example.com/clusterbook/'
+AWS_S3_URL = 's3://clusterbook/'
 
 # Trib IPs for security
 INTERNAL_IPS = ()
