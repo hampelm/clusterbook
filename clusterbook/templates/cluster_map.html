@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-
+{% load core %}
 
 {% block title %}Cluster Book{% endblock %}
 
@@ -38,7 +38,9 @@
 
 {% if latest.thumbnail %}
 	<h2>Preview</h2>
-	<img src="/assets/{{latest.thumbnail}}" alt=""/>
+	
+	<img src="{{latest.thumbnail.url}}" height="{{latest.thumbnail.height}}" alt=""/>
+	
 {% endif %}
 
 {% if appendices %}
