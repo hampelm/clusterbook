@@ -325,7 +325,11 @@ def generate_thumbs():
                 
             
     
+def resample_thumbs():
+    gs_call = "gs -sDEVICE=pngalpha -sOutputFile=" + png_path + " -r72 " + pdf_path
     
+    return False
+       
     
 
                 

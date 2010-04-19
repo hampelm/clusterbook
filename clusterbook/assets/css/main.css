@@ -18,6 +18,9 @@ body {
     background: white;
     overflow:hidden;
     font-size:1em;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border:4px solid white;
 }
 
 #col-a {
