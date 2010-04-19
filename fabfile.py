@@ -294,14 +294,14 @@ def destroy_local_database(func=local):
     with settings(warn_only=True):
         func('dropdb %(project_name)s -U postgres' % env)
         func('dropuser %(project_name)s -U postgres' % env)
-
         
-def load_data():
+        
+def load_data(func=run):
     """
     Loads data from the repository into PostgreSQL.
     """
-    run('psql -q %(project_name)s < %(path)s/repository/data/psql/export.sql' % env)
-    run('psql -q %(project_name)s < %(path)s/repository/data/psql/finish_init.sql' % env)
+    func('psql -q %(project_name)s < %(path)s/repository/data/psql/export.sql' % env)
+    func('psql -q %(project_name)s < %(path)s/repository/data/psql/finish_init.sql' % env)
     
     
 def dump_db():

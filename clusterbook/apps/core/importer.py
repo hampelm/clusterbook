@@ -20,6 +20,9 @@ PATH_TO_KEY = os.path.join(settings.SITE_ROOT, '../data/files/key.csv')
 # shapefile describing cluster boundaries
 PATH_TO_CLUSTERS = os.path.join(settings.SITE_ROOT, '../data/clusters/cluster_4326.shp')
 
+PATH_TO_THUMBS = os.path.join(settings.SITE_ROOT, 'assets/images/thumbs/')
+
+
 def fake_slug(string):
     '''
     returns a fake slug for URL handling
@@ -352,25 +355,27 @@ def resample_thumbs():
                 png_path = os.path.join(PATH_TO_PDFS, png_name)
                 
                 new_name = no_ext + "_t.png"
-                new_path = os.path.join(PATH_TO_PDFS + 'thumbs/', new_name)
+                new_path = os.path.join(PATH_TO_THUMBS, new_name)
                 
                 try:
-                   img = Image.open(new_path)
+                   # img = Image.open(new_path)
+                    
+                    jpg_name = no_ext + "_t.jpg"
+                    jpg_path = os.path.join(PATH_TO_THUMBS, jpg_name)
+                    
+                    in_file = open(jpg_path, 'r')
+                    f = File(in_file)
+                    m.thumbnail = f
+                    m.save()
+                    print m.thumbnail                
             
-                   img.convert("L")   # converts to 8-bit pixels, black and white
-                     
-                   
-                   
+               #     img.convert("L")   # converts to 8-bit pixels, black and white
+                   # print "finished " + new_path
+                    #img.save(jpg_path, "JPEG")
+                    
                 except:
-                    # foo
-                    foo = 2
-    
-    
-    return False
-       
-    
-
-                
+                    print "Error:", sys.exc_info()[0]
+            
                 
                 
   #  os.system(command)
