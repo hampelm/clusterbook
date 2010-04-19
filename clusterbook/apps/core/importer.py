@@ -326,7 +326,45 @@ def generate_thumbs():
             
     
 def resample_thumbs():
-    gs_call = "gs -sDEVICE=pngalpha -sOutputFile=" + png_path + " -r72 " + pdf_path
+    
+    maps = MapType.objects.all().order_by('map_id')
+    clusters = Cluster.objects.all()
+    
+    for c in clusters:
+        for m in maps:    
+            the_files = MapFile.objects.filter(
+                cluster=c.cluster_id,
+                map_num=m.map_id, 
+                is_appendix=False,
+                is_color = False
+            ).order_by('-year', '-quarter')
+            
+            if the_files.count() > 0:
+              #  eg. pdfs/C9M46.pdf
+                the_file = the_files[0]
+                path = str(the_file.the_file)
+                pdf_name = path.split("/")[1]
+
+                pdf_path = os.path.join(PATH_TO_PDFS, pdf_name)
+
+                no_ext = pdf_name.split(".")[0]
+                png_name = no_ext + ".png"
+                png_path = os.path.join(PATH_TO_PDFS, png_name)
+                
+                new_name = no_ext + "_t.png"
+                new_path = os.path.join(PATH_TO_PDFS + 'thumbs/', new_name)
+                
+                try:
+                   img = Image.open(new_path)
+            
+                   img.convert("L")   # converts to 8-bit pixels, black and white
+                     
+                   
+                   
+                except:
+                    # foo
+                    foo = 2
+    
     
     return False
        

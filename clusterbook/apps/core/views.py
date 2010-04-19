@@ -1,3 +1,5 @@
+from types import *
+
 from django.shortcuts import render_to_response
 from django.template import Context
 from django.template.defaultfilters import stringfilter
@@ -9,6 +11,8 @@ from django.contrib.gis.measure import Distance
 from django.contrib.gis.shortcuts import render_to_kml
 
 from models import MapFile, MapType, Cluster
+from helpers import *
+
 
 
 def home(request):
@@ -44,29 +48,67 @@ def cluster_map(request, cluster, map_id):
         
     response = {}
 
-    maps = MapType.objects.all().order_by('map_id')
+    maps = MapType.objects.filter(map_id__isnull=False).order_by('map_id')
+    
+    for m in maps:
+        m.slug = fake_slug(m.title)
+        print fake_slug(m.title)
+        
+        m.save()
+    
+    
     clusters = Cluster.objects.all()
-
-    map_title = MapType.objects.get(map_id=map_id).title
     
+    map_title = MapType.objects.all()
     
+    try:
+        map_id = int(map_id)
+    except:
+        pass
+    
+    if type(map_id) is IntType:
+        map_title = MapType.objects.get(map_id=map_id).title
+        
+        # poor coding style -- should not be duped
+        appendices = MapFile.objects.filter(
+            cluster=cluster,
+            map_num=map_id, 
+            is_appendix=True
+        )
+        color = MapFile.objects.filter(
+            cluster=cluster,
+            map_num=map_id, 
+            is_color=True
+        )
+        files = MapFile.objects.filter(
+            cluster=cluster,
+            map_num=map_id, 
+            is_appendix=False,
+            is_color = False
+        ).order_by('-year', '-quarter')
+        
+    else:
+        map_title = MapType.objects.get(slug=map_id).title
+        appendices = MapFile.objects.filter(
+            cluster=cluster,
+            slug=map_id, 
+            is_appendix=True
+        )
+        color = MapFile.objects.filter(
+            cluster=cluster,
+            slug=map_id, 
+            is_color=True
+        )
+        files = MapFile.objects.filter(
+            cluster=cluster,
+            slug=map_id, 
+            is_appendix=False,
+            is_color = False
+        ).order_by('-year', '-quarter')
+        
+        
     # get the files assoicated with this cluster / map colletion
-    appendices = MapFile.objects.filter(
-        cluster=cluster,
-        map_num=map_id, 
-        is_appendix=True
-    )
-    color = MapFile.objects.filter(
-        cluster=cluster,
-        map_num=map_id, 
-        is_color=True
-    )
-    files = MapFile.objects.filter(
-        cluster=cluster,
-        map_num=map_id, 
-        is_appendix=False,
-        is_color = False
-    ).order_by('-year', '-quarter')
+    
     
     # the newest map is the first after sorting:
     latest = files[0]
