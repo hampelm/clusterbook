@@ -12341,11 +12341,11 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 53	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2007	2	f	f	2010-04-05 16:00:38.067111-04	pdfs/C10M21b_07.pdf			\N	\N	\N
 54	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2008	2	f	f	2010-04-05 16:00:38.118005-04	pdfs/C10M21b_08.pdf			\N	\N	\N
 55	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2009	2	f	f	2010-04-05 16:00:38.147566-04	pdfs/C10M21b_09.pdf			\N	\N	\N
-4	City & State Ownership	City_&_State_Ownership	\N	10	15	\N	\N	\N	f	f	2010-04-08 15:06:08.281409-04	pdfs/C10M15.pdf	images/thumbs/C10M15_t.png	images/C10M15.png	\N	\N	\N
-5	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	10	16	\N	\N	\N	f	f	2010-04-08 15:06:08.592424-04	pdfs/C10M16.pdf	images/thumbs/C10M16_t.png	images/C10M16.png	\N	\N	\N
-18	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	10	17	\N	2009	4	f	f	2010-04-08 15:06:08.878143-04	pdfs/C10M17d_09.pdf	images/thumbs/C10M17d_09_t.png	images/C10M17d_09.png	\N	\N	\N
-49	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	10	20	\N	2009	4	f	f	2010-04-08 15:06:09.523333-04	pdfs/C10M20d_09.pdf	images/thumbs/C10M20d_09_t.png	images/C10M20d_09.png	\N	\N	\N
-37	Zoning	Zoning	\N	10	2	\N	\N	\N	f	f	2010-04-08 15:06:05.266239-04	pdfs/C10M2.pdf	images/thumbs/C10M2_t.png	images/C10M2.png	\N	\N	\N
+18	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	10	17	\N	2009	4	f	f	2010-04-22 12:58:03.750961-04	pdfs/C10M17d_09.pdf	images/thumbs/C10M17d_09_t.jpg	images/C10M17d_09.png	\N	\N	\N
+49	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	10	20	\N	2009	4	f	f	2010-04-22 12:58:03.827878-04	pdfs/C10M20d_09.pdf	images/thumbs/C10M20d_09_t.jpg	images/C10M20d_09.png	\N	\N	\N
+37	Zoning	Zoning	\N	10	2	\N	\N	\N	f	f	2010-04-22 12:58:03.121318-04	pdfs/C10M2.pdf	images/thumbs/C10M2_t.jpg	images/C10M2.png	\N	\N	\N
+4	City & State Ownership	City_&_State_Ownership	\N	10	15	\N	\N	\N	f	f	2010-04-22 12:58:03.685748-04	pdfs/C10M15.pdf	images/thumbs/C10M15_t.jpg	images/C10M15.png	\N	\N	\N
+5	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	10	16	\N	\N	\N	f	f	2010-04-22 12:58:03.703417-04	pdfs/C10M16.pdf	images/thumbs/C10M16_t.jpg	images/C10M16.png	\N	\N	\N
 56	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2007	3	f	f	2010-04-05 16:00:38.243375-04	pdfs/C10M21c_07.pdf			\N	\N	\N
 57	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2008	3	f	f	2010-04-05 16:00:38.288169-04	pdfs/C10M21c_08.pdf			\N	\N	\N
 58	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2009	3	f	f	2010-04-05 16:00:38.314642-04	pdfs/C10M21c_09.pdf			\N	\N	\N
@@ -12372,29 +12372,29 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 106	2005 Land Use (Color)	2005_Land_Use_(Color)	\N	10	50	\N	\N	\N	f	f	2010-04-05 16:00:47.643603-04	pdfs/C10M50.pdf			\N	\N	\N
 107	2005 Aerail Photo (Color)	2005_Aerail_Photo_(Color)	\N	10	51	\N	\N	\N	f	f	2010-04-05 16:00:47.724181-04	pdfs/C10M51.pdf			\N	\N	\N
 108	Zip Codes	Zip_Codes	\N	10	52	\N	\N	\N	f	f	2010-04-05 16:00:49.46772-04	pdfs/C10M52.pdf			\N	\N	\N
-105	Bus Routes	Bus_Routes	\N	10	5	\N	\N	\N	f	f	2010-04-08 15:06:06.115788-04	pdfs/C10M5.pdf	images/thumbs/C10M5_t.png	images/C10M5.png	\N	\N	\N
-61	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2009	4	f	f	2010-04-08 15:06:09.803097-04	pdfs/C10M21d_09.pdf	images/thumbs/C10M21d_09_t.png	images/C10M21d_09.png	\N	\N	\N
-74	Change in Housing Units	Change_in_Housing_Units	\N	10	23	\N	\N	\N	f	f	2010-04-08 15:06:10.390757-04	pdfs/C10M23.pdf	images/thumbs/C10M23_t.png	images/C10M23.png	\N	\N	\N
-75	Change in Population	Change_in_Population	\N	10	24	\N	\N	\N	f	f	2010-04-08 15:06:10.67515-04	pdfs/C10M24.pdf	images/thumbs/C10M24_t.png	images/C10M24.png	\N	\N	\N
-78	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	10	27	\N	\N	\N	f	f	2010-04-08 15:06:11.225141-04	pdfs/C10M27.pdf	images/thumbs/C10M27_t.png	images/C10M27.png	\N	\N	\N
-79	Median Rent	Median_Rent	\N	10	28	\N	\N	\N	f	f	2010-04-08 15:06:11.476342-04	pdfs/C10M28.pdf	images/thumbs/C10M28_t.png	images/C10M28.png	\N	\N	\N
-80	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	10	29	\N	\N	\N	f	f	2010-04-08 15:06:11.788774-04	pdfs/C10M29.pdf	images/thumbs/C10M29_t.png	images/C10M29.png	\N	\N	\N
-83	Households without Vehicles	Households_without_Vehicles	\N	10	30	\N	\N	\N	f	f	2010-04-08 15:06:12.063598-04	pdfs/C10M30.pdf	images/thumbs/C10M30_t.png	images/C10M30.png	\N	\N	\N
-84	Median Income	Median_Income	\N	10	31	\N	\N	\N	f	f	2010-04-08 15:06:12.306199-04	pdfs/C10M31.pdf	images/thumbs/C10M31_t.png	images/C10M31.png	\N	\N	\N
-86	Foreign Born Population	Foreign_Born_Population	\N	10	33	\N	\N	\N	f	f	2010-04-08 15:06:12.865044-04	pdfs/C10M33.pdf	images/thumbs/C10M33_t.png	images/C10M33.png	\N	\N	\N
-87	Employment Sites	Employment_Sites	\N	10	34	\N	\N	\N	f	f	2010-04-08 15:06:13.144912-04	pdfs/C10M34.pdf	images/thumbs/C10M34_t.png	images/C10M34.png	\N	\N	\N
-89	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	10	36	\N	\N	\N	f	f	2010-04-08 15:06:13.713622-04	pdfs/C10M36.pdf	images/thumbs/C10M36_t.png	images/C10M36.png	\N	\N	\N
-90	DPS Sites	DPS_Sites	\N	10	37	\N	\N	\N	f	f	2010-04-08 15:06:14.036103-04	pdfs/C10M37.pdf	images/thumbs/C10M37_t.png	images/C10M37.png	\N	\N	\N
-91	Other Schools	Other_Schools	\N	10	38	\N	\N	\N	f	f	2010-04-08 15:06:14.304036-04	pdfs/C10M38.pdf	images/thumbs/C10M38_t.png	images/C10M38.png	\N	\N	\N
-94	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	10	40	\N	\N	\N	f	f	2010-04-08 15:06:14.910395-04	pdfs/C10M40.pdf	images/thumbs/C10M40_t.png	images/C10M40.png	\N	\N	\N
-95	Elderly Population	Elderly_Population	\N	10	41	\N	\N	\N	f	f	2010-04-08 15:06:15.226462-04	pdfs/C10M41.pdf	images/thumbs/C10M41_t.png	images/C10M41.png	\N	\N	\N
-96	Greenways	Greenways	\N	10	42	\N	\N	\N	f	f	2010-04-08 15:06:15.520515-04	pdfs/C10M42.pdf	images/thumbs/C10M42_t.png	images/C10M42.png	\N	\N	\N
-97	Truck Routes	Truck_Routes	\N	10	43	\N	\N	\N	f	f	2010-04-08 15:06:15.779344-04	pdfs/C10M43.pdf	images/thumbs/C10M43_t.png	images/C10M43.png	\N	\N	\N
-99	Low/Moderate Income	Low/Moderate_Income	\N	10	45	\N	\N	\N	f	f	2010-04-08 15:06:16.415784-04	pdfs/C10M45.pdf	images/thumbs/C10M45_t.png	images/C10M45.png	\N	\N	\N
-109	Births	Births	\N	10	53	\N	\N	\N	f	f	2010-04-08 15:06:16.721008-04	pdfs/C10M53.pdf	images/thumbs/C10M53_t.png	images/C10M53.png	\N	\N	\N
-111	Crime	Crime	\N	10	55	\N	\N	\N	f	f	2010-04-08 15:06:17.279984-04	pdfs/C10M55.pdf	images/thumbs/C10M55_t.png	images/C10M55.png	\N	\N	\N
-112	Dangerous Buildings	Dangerous_Buildings	\N	10	56	\N	\N	\N	f	f	2010-04-08 15:06:17.547609-04	pdfs/C10M56.pdf	images/thumbs/C10M56_t.png	images/C10M56.png	\N	\N	\N
-113	Fires	Fires	\N	10	57	\N	\N	\N	f	f	2010-04-08 15:06:17.813128-04	pdfs/C10M57.pdf	images/thumbs/C10M57_t.png	images/C10M57.png	\N	\N	\N
+74	Change in Housing Units	Change_in_Housing_Units	\N	10	23	\N	\N	\N	f	f	2010-04-22 12:58:03.892115-04	pdfs/C10M23.pdf	images/thumbs/C10M23_t.jpg	images/C10M23.png	\N	\N	\N
+75	Change in Population	Change_in_Population	\N	10	24	\N	\N	\N	f	f	2010-04-22 12:58:03.950276-04	pdfs/C10M24.pdf	images/thumbs/C10M24_t.jpg	images/C10M24.png	\N	\N	\N
+78	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	10	27	\N	\N	\N	f	f	2010-04-22 12:58:04.031585-04	pdfs/C10M27.pdf	images/thumbs/C10M27_t.jpg	images/C10M27.png	\N	\N	\N
+79	Median Rent	Median_Rent	\N	10	28	\N	\N	\N	f	f	2010-04-22 12:58:04.094177-04	pdfs/C10M28.pdf	images/thumbs/C10M28_t.jpg	images/C10M28.png	\N	\N	\N
+80	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	10	29	\N	\N	\N	f	f	2010-04-22 12:58:04.112444-04	pdfs/C10M29.pdf	images/thumbs/C10M29_t.jpg	images/C10M29.png	\N	\N	\N
+83	Households without Vehicles	Households_without_Vehicles	\N	10	30	\N	\N	\N	f	f	2010-04-22 12:58:04.133231-04	pdfs/C10M30.pdf	images/thumbs/C10M30_t.jpg	images/C10M30.png	\N	\N	\N
+84	Median Income	Median_Income	\N	10	31	\N	\N	\N	f	f	2010-04-22 12:58:04.148808-04	pdfs/C10M31.pdf	images/thumbs/C10M31_t.jpg	images/C10M31.png	\N	\N	\N
+86	Foreign Born Population	Foreign_Born_Population	\N	10	33	\N	\N	\N	f	f	2010-04-22 12:58:04.192375-04	pdfs/C10M33.pdf	images/thumbs/C10M33_t.jpg	images/C10M33.png	\N	\N	\N
+87	Employment Sites	Employment_Sites	\N	10	34	\N	\N	\N	f	f	2010-04-22 12:58:04.209207-04	pdfs/C10M34.pdf	images/thumbs/C10M34_t.jpg	images/C10M34.png	\N	\N	\N
+89	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	10	36	\N	\N	\N	f	f	2010-04-22 12:58:04.30358-04	pdfs/C10M36.pdf	images/thumbs/C10M36_t.jpg	images/C10M36.png	\N	\N	\N
+90	DPS Sites	DPS_Sites	\N	10	37	\N	\N	\N	f	f	2010-04-22 12:58:04.324854-04	pdfs/C10M37.pdf	images/thumbs/C10M37_t.jpg	images/C10M37.png	\N	\N	\N
+91	Other Schools	Other_Schools	\N	10	38	\N	\N	\N	f	f	2010-04-22 12:58:04.340183-04	pdfs/C10M38.pdf	images/thumbs/C10M38_t.jpg	images/C10M38.png	\N	\N	\N
+94	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	10	40	\N	\N	\N	f	f	2010-04-22 12:58:04.376554-04	pdfs/C10M40.pdf	images/thumbs/C10M40_t.jpg	images/C10M40.png	\N	\N	\N
+95	Elderly Population	Elderly_Population	\N	10	41	\N	\N	\N	f	f	2010-04-22 12:58:04.392608-04	pdfs/C10M41.pdf	images/thumbs/C10M41_t.jpg	images/C10M41.png	\N	\N	\N
+96	Greenways	Greenways	\N	10	42	\N	\N	\N	f	f	2010-04-22 12:58:04.41204-04	pdfs/C10M42.pdf	images/thumbs/C10M42_t.jpg	images/C10M42.png	\N	\N	\N
+97	Truck Routes	Truck_Routes	\N	10	43	\N	\N	\N	f	f	2010-04-22 12:58:04.427694-04	pdfs/C10M43.pdf	images/thumbs/C10M43_t.jpg	images/C10M43.png	\N	\N	\N
+99	Low/Moderate Income	Low/Moderate_Income	\N	10	45	\N	\N	\N	f	f	2010-04-22 12:58:04.462061-04	pdfs/C10M45.pdf	images/thumbs/C10M45_t.jpg	images/C10M45.png	\N	\N	\N
+109	Births	Births	\N	10	53	\N	\N	\N	f	f	2010-04-22 12:58:04.542981-04	pdfs/C10M53.pdf	images/thumbs/C10M53_t.jpg	images/C10M53.png	\N	\N	\N
+111	Crime	Crime	\N	10	55	\N	\N	\N	f	f	2010-04-22 12:58:04.598889-04	pdfs/C10M55.pdf	images/thumbs/C10M55_t.jpg	images/C10M55.png	\N	\N	\N
+112	Dangerous Buildings	Dangerous_Buildings	\N	10	56	\N	\N	\N	f	f	2010-04-22 12:58:04.632135-04	pdfs/C10M56.pdf	images/thumbs/C10M56_t.jpg	images/C10M56.png	\N	\N	\N
+113	Fires	Fires	\N	10	57	\N	\N	\N	f	f	2010-04-22 12:58:04.652378-04	pdfs/C10M57.pdf	images/thumbs/C10M57_t.jpg	images/C10M57.png	\N	\N	\N
+105	Bus Routes	Bus_Routes	\N	10	5	\N	\N	\N	f	f	2010-04-22 12:58:03.339821-04	pdfs/C10M5.pdf	images/thumbs/C10M5_t.jpg	images/C10M5.png	\N	\N	\N
+61	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	10	21	\N	2009	4	f	f	2010-04-22 12:58:03.859687-04	pdfs/C10M21d_09.pdf	images/thumbs/C10M21d_09_t.jpg	images/C10M21d_09.png	\N	\N	\N
 115	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	10	58	\N	\N	\N	t	f	2010-04-05 16:00:50.031366-04	pdfs/C10M58AppendixC.pdf			\N	\N	\N
 131	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	10	71	\N	\N	\N	t	f	2010-04-05 16:00:51.569357-04	pdfs/C10M71AppendixD.pdf			\N	\N	\N
 133	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	10	72	\N	\N	\N	t	f	2010-04-05 16:00:51.79311-04	pdfs/C10M72AppendixE.pdf			\N	\N	\N
@@ -12409,38 +12409,38 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 171	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	1	17	\N	2007	3	f	f	2010-04-05 16:00:55.933308-04	pdfs/C1M17c_07.pdf			\N	\N	\N
 172	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	1	17	\N	2008	3	f	f	2010-04-05 16:00:56.008006-04	pdfs/C1M17c_08.pdf			\N	\N	\N
 173	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	1	17	\N	2009	3	f	f	2010-04-05 16:00:56.120016-04	pdfs/C1M17c_09.pdf			\N	\N	\N
-163	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	1	16	\N	\N	\N	f	f	2010-04-19 16:02:06.462428-04	pdfs/C1M16.pdf	images/thumbs/C1M16_t_.png	images/C1M16_.png	\N	\N	\N
-157	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	1	10	\N	\N	\N	f	f	2010-04-19 16:02:04.033205-04	pdfs/C1M10.pdf	images/thumbs/C1M10_t_.png	images/C1M10___.png	\N	\N	\N
-117	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	10	6	\N	\N	\N	f	f	2010-04-08 15:06:06.409085-04	pdfs/C10M6.pdf	images/thumbs/C10M6_t.png	images/C10M6.png	\N	\N	\N
-128	Insitutional Uses	Insitutional_Uses	\N	10	7	\N	\N	\N	f	f	2010-04-08 15:06:06.688833-04	pdfs/C10M7.pdf	images/thumbs/C10M7_t.png	images/C10M7.png	\N	\N	\N
-141	Historic Sites	Historic_Sites	\N	10	8	\N	\N	\N	f	f	2010-04-08 15:06:06.999728-04	pdfs/C10M8.pdf	images/thumbs/C10M8_t.png	images/C10M8.png	\N	\N	\N
-162	City & State Ownership	City_&_State_Ownership	\N	1	15	\N	\N	\N	f	f	2010-04-19 16:02:06.16224-04	pdfs/C1M15.pdf	images/thumbs/C1M15_t_.png	images/C1M15_.png	\N	\N	\N
-116	Sales	Sales	\N	10	59	\N	\N	\N	f	f	2010-04-08 15:06:18.348972-04	pdfs/C10M59.pdf	images/thumbs/C10M59_t.png	images/C10M59.png	\N	\N	\N
-119	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	10	61	\N	\N	\N	f	f	2010-04-08 15:06:18.914434-04	pdfs/C10M61.pdf	images/thumbs/C10M61_t.png	images/C10M61.png	\N	\N	\N
-121	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	10	63	\N	\N	\N	f	f	2010-04-08 15:06:19.467908-04	pdfs/C10M63.pdf	images/thumbs/C10M63_t.png	images/C10M63.png	\N	\N	\N
-122	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	10	64	\N	\N	\N	f	f	2010-04-08 15:06:19.859038-04	pdfs/C10M64.pdf	images/thumbs/C10M64_t.png	images/C10M64.png	\N	\N	\N
-123	Licensed Businesses	Licensed_Businesses	\N	10	65	\N	\N	\N	f	f	2010-04-08 15:06:20.170965-04	pdfs/C10M65.pdf	images/thumbs/C10M65_t.png	images/C10M65.png	\N	\N	\N
-125	Human Services Programs	Human_Services_Programs	\N	10	67	\N	\N	\N	f	f	2010-04-08 15:06:20.875111-04	pdfs/C10M67.pdf	images/thumbs/C10M67_t.png	images/C10M67.png	\N	\N	\N
-126	Head Start	Head_Start	\N	10	68	\N	\N	\N	f	f	2010-04-08 15:06:21.198615-04	pdfs/C10M68.pdf	images/thumbs/C10M68_t.png	images/C10M68.png	\N	\N	\N
-127	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	10	69	\N	\N	\N	f	f	2010-04-08 15:06:21.54918-04	pdfs/C10M69.pdf	images/thumbs/C10M69_t.png	images/C10M69.png	\N	\N	\N
-129	Parks Master Plan Update	Parks_Master_Plan_Update	\N	10	70	\N	\N	\N	f	f	2010-04-08 15:06:21.917857-04	pdfs/C10M70.pdf	images/thumbs/C10M70_t.png	images/C10M70.png	\N	\N	\N
-134	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	10	73	\N	\N	\N	f	f	2010-04-08 15:06:23.103059-04	pdfs/C10M73.pdf	images/thumbs/C10M73_t.png	images/C10M73.png	\N	\N	\N
-135	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	10	74	\N	\N	\N	f	f	2010-04-08 15:06:23.428656-04	pdfs/C10M74.pdf	images/thumbs/C10M74_t.png	images/C10M74.png	\N	\N	\N
-136	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	10	75	\N	\N	\N	f	f	2010-04-08 15:06:23.679232-04	pdfs/C10M75.pdf	images/thumbs/C10M75_t.png	images/C10M75.png	\N	\N	\N
-137	120% Area Mean Income	120%_Area_Mean_Income	\N	10	76	\N	\N	\N	f	f	2010-04-08 15:06:23.939898-04	pdfs/C10M76.pdf	images/thumbs/C10M76_t.png	images/C10M76.png	\N	\N	\N
-138	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	10	77	\N	\N	\N	f	f	2010-04-08 15:06:24.220475-04	pdfs/C10M77.pdf	images/thumbs/C10M77_t.png	images/C10M77.png	\N	\N	\N
-139	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	10	78	\N	\N	\N	f	f	2010-04-08 15:06:24.618147-04	pdfs/C10M78.pdf	images/thumbs/C10M78_t.png	images/C10M78.png	\N	\N	\N
-140	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	10	79	\N	\N	\N	f	f	2010-04-08 15:06:24.877164-04	pdfs/C10M79.pdf	images/thumbs/C10M79_t.png	images/C10M79.png	\N	\N	\N
-142	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	10	80	\N	\N	\N	f	f	2010-04-08 15:06:25.162429-04	pdfs/C10M80.pdf	images/thumbs/C10M80_t.png	images/C10M80.png	\N	\N	\N
-145	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	10	83	\N	\N	\N	f	f	2010-04-08 15:06:26.014332-04	pdfs/C10M83.pdf	images/thumbs/C10M83_t.png	images/C10M83.png	\N	\N	\N
-146	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	10	84	\N	\N	\N	f	f	2010-04-08 15:06:26.28333-04	pdfs/C10M84.pdf	images/thumbs/C10M84_t.png	images/C10M84.png	\N	\N	\N
-147	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	10	85	\N	\N	\N	f	f	2010-04-08 15:06:26.604622-04	pdfs/C10M85.pdf	images/thumbs/C10M85_t.png	images/C10M85.png	\N	\N	\N
-148	2009 Street Paving	2009_Street_Paving	\N	10	86	\N	\N	\N	f	f	2010-04-08 15:06:26.88593-04	pdfs/C10M86.pdf	images/thumbs/C10M86_t.png	images/C10M86.png	\N	\N	\N
-149	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	10	87	\N	\N	\N	f	f	2010-04-08 15:06:27.176568-04	pdfs/C10M87.pdf	images/thumbs/C10M87_t.png	images/C10M87.png	\N	\N	\N
-150	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	10	88	\N	\N	\N	f	f	2010-04-08 15:06:27.496754-04	pdfs/C10M88.pdf	images/thumbs/C10M88_t.png	images/C10M88.png	\N	\N	\N
-151	Zoning (Color)	Zoning_(Color)	\N	10	89	\N	\N	\N	f	f	2010-04-08 15:06:27.759168-04	pdfs/C10M89.pdf	images/thumbs/C10M89_t.png	images/C10M89.png	\N	\N	\N
-159	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	1	12	\N	\N	\N	f	f	2010-04-19 16:02:04.592447-04	pdfs/C1M12.pdf	images/thumbs/C1M12_t_.png	images/C1M12_.png	\N	\N	\N
-161	ONCR	ONCR	\N	1	14	\N	\N	\N	f	f	2010-04-19 16:02:05.860423-04	pdfs/C1M14.pdf	images/thumbs/C1M14_t_.png	images/C1M14_.png	\N	\N	\N
+128	Insitutional Uses	Insitutional_Uses	\N	10	7	\N	\N	\N	f	f	2010-04-22 12:58:03.451425-04	pdfs/C10M7.pdf	images/thumbs/C10M7_t.jpg	images/C10M7.png	\N	\N	\N
+159	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	1	12	\N	\N	\N	f	f	2010-04-22 12:57:41.115422-04	pdfs/C1M12.pdf	images/thumbs/C1M12_t.jpg	images/C1M12_.png	\N	\N	\N
+161	ONCR	ONCR	\N	1	14	\N	\N	\N	f	f	2010-04-22 12:57:41.167509-04	pdfs/C1M14.pdf	images/thumbs/C1M14_t.jpg	images/C1M14_.png	\N	\N	\N
+141	Historic Sites	Historic_Sites	\N	10	8	\N	\N	\N	f	f	2010-04-22 12:58:03.523818-04	pdfs/C10M8.pdf	images/thumbs/C10M8_t.jpg	images/C10M8.png	\N	\N	\N
+116	Sales	Sales	\N	10	59	\N	\N	\N	f	f	2010-04-22 12:58:04.695772-04	pdfs/C10M59.pdf	images/thumbs/C10M59_t.jpg	images/C10M59.png	\N	\N	\N
+119	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	10	61	\N	\N	\N	f	f	2010-04-22 12:58:04.741427-04	pdfs/C10M61.pdf	images/thumbs/C10M61_t.jpg	images/C10M61.png	\N	\N	\N
+117	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	10	6	\N	\N	\N	f	f	2010-04-22 12:58:03.396458-04	pdfs/C10M6.pdf	images/thumbs/C10M6_t.jpg	images/C10M6.png	\N	\N	\N
+121	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	10	63	\N	\N	\N	f	f	2010-04-22 12:58:04.779036-04	pdfs/C10M63.pdf	images/thumbs/C10M63_t.jpg	images/C10M63.png	\N	\N	\N
+122	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	10	64	\N	\N	\N	f	f	2010-04-22 12:58:04.796331-04	pdfs/C10M64.pdf	images/thumbs/C10M64_t.jpg	images/C10M64.png	\N	\N	\N
+123	Licensed Businesses	Licensed_Businesses	\N	10	65	\N	\N	\N	f	f	2010-04-22 12:58:04.816268-04	pdfs/C10M65.pdf	images/thumbs/C10M65_t.jpg	images/C10M65.png	\N	\N	\N
+125	Human Services Programs	Human_Services_Programs	\N	10	67	\N	\N	\N	f	f	2010-04-22 12:58:04.945542-04	pdfs/C10M67.pdf	images/thumbs/C10M67_t.jpg	images/C10M67.png	\N	\N	\N
+126	Head Start	Head_Start	\N	10	68	\N	\N	\N	f	f	2010-04-22 12:58:04.963779-04	pdfs/C10M68.pdf	images/thumbs/C10M68_t.jpg	images/C10M68.png	\N	\N	\N
+127	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	10	69	\N	\N	\N	f	f	2010-04-22 12:58:04.986892-04	pdfs/C10M69.pdf	images/thumbs/C10M69_t.jpg	images/C10M69.png	\N	\N	\N
+129	Parks Master Plan Update	Parks_Master_Plan_Update	\N	10	70	\N	\N	\N	f	f	2010-04-22 12:58:05.005775-04	pdfs/C10M70.pdf	images/thumbs/C10M70_t.jpg	images/C10M70.png	\N	\N	\N
+134	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	10	73	\N	\N	\N	f	f	2010-04-22 12:58:05.128587-04	pdfs/C10M73.pdf	images/thumbs/C10M73_t.jpg	images/C10M73.png	\N	\N	\N
+135	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	10	74	\N	\N	\N	f	f	2010-04-22 12:58:05.161453-04	pdfs/C10M74.pdf	images/thumbs/C10M74_t.jpg	images/C10M74.png	\N	\N	\N
+136	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	10	75	\N	\N	\N	f	f	2010-04-22 12:58:05.177588-04	pdfs/C10M75.pdf	images/thumbs/C10M75_t.jpg	images/C10M75.png	\N	\N	\N
+137	120% Area Mean Income	120%_Area_Mean_Income	\N	10	76	\N	\N	\N	f	f	2010-04-22 12:58:05.195326-04	pdfs/C10M76.pdf	images/thumbs/C10M76_t.jpg	images/C10M76.png	\N	\N	\N
+138	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	10	77	\N	\N	\N	f	f	2010-04-22 12:58:05.217426-04	pdfs/C10M77.pdf	images/thumbs/C10M77_t.jpg	images/C10M77.png	\N	\N	\N
+139	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	10	78	\N	\N	\N	f	f	2010-04-22 12:58:05.233052-04	pdfs/C10M78.pdf	images/thumbs/C10M78_t.jpg	images/C10M78.png	\N	\N	\N
+140	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	10	79	\N	\N	\N	f	f	2010-04-22 12:58:05.250245-04	pdfs/C10M79.pdf	images/thumbs/C10M79_t.jpg	images/C10M79.png	\N	\N	\N
+142	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	10	80	\N	\N	\N	f	f	2010-04-22 12:58:05.268208-04	pdfs/C10M80.pdf	images/thumbs/C10M80_t.jpg	images/C10M80.png	\N	\N	\N
+145	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	10	83	\N	\N	\N	f	f	2010-04-22 12:58:05.390978-04	pdfs/C10M83.pdf	images/thumbs/C10M83_t.jpg	images/C10M83.png	\N	\N	\N
+146	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	10	84	\N	\N	\N	f	f	2010-04-22 12:58:05.446458-04	pdfs/C10M84.pdf	images/thumbs/C10M84_t.jpg	images/C10M84.png	\N	\N	\N
+147	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	10	85	\N	\N	\N	f	f	2010-04-22 12:58:05.462084-04	pdfs/C10M85.pdf	images/thumbs/C10M85_t.jpg	images/C10M85.png	\N	\N	\N
+148	2009 Street Paving	2009_Street_Paving	\N	10	86	\N	\N	\N	f	f	2010-04-22 12:58:05.483409-04	pdfs/C10M86.pdf	images/thumbs/C10M86_t.jpg	images/C10M86.png	\N	\N	\N
+149	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	10	87	\N	\N	\N	f	f	2010-04-22 12:58:05.545401-04	pdfs/C10M87.pdf	images/thumbs/C10M87_t.jpg	images/C10M87.png	\N	\N	\N
+150	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	10	88	\N	\N	\N	f	f	2010-04-22 12:58:05.561901-04	pdfs/C10M88.pdf	images/thumbs/C10M88_t.jpg	images/C10M88.png	\N	\N	\N
+151	Zoning (Color)	Zoning_(Color)	\N	10	89	\N	\N	\N	f	f	2010-04-22 12:58:05.585798-04	pdfs/C10M89.pdf	images/thumbs/C10M89_t.jpg	images/C10M89.png	\N	\N	\N
+157	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	1	10	\N	\N	\N	f	f	2010-04-22 12:57:41.079348-04	pdfs/C1M10.pdf	images/thumbs/C1M10_t.jpg	images/C1M10___.png	\N	\N	\N
+162	City & State Ownership	City_&_State_Ownership	\N	1	15	\N	\N	\N	f	f	2010-04-22 12:57:41.185194-04	pdfs/C1M15.pdf	images/thumbs/C1M15_t.jpg	images/C1M15_.png	\N	\N	\N
+163	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	1	16	\N	\N	\N	f	f	2010-04-22 12:57:41.200255-04	pdfs/C1M16.pdf	images/thumbs/C1M16_t.jpg	images/C1M16_.png	\N	\N	\N
 174	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	1	17	\N	2007	4	f	f	2010-04-05 16:00:56.215613-04	pdfs/C1M17d_07.pdf			\N	\N	\N
 175	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	1	17	\N	2008	4	f	f	2010-04-05 16:00:56.293542-04	pdfs/C1M17d_08.pdf			\N	\N	\N
 177	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	1	18	\N	\N	\N	f	f	2010-04-05 16:00:56.433113-04	pdfs/C1M18.pdf			\N	\N	\N
@@ -12489,8 +12489,8 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 224	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2008	2	f	f	2010-04-05 16:01:00.037847-04	pdfs/C1M22b_08.pdf			\N	\N	\N
 225	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2009	2	f	f	2010-04-05 16:01:00.206323-04	pdfs/C1M22b_09.pdf			\N	\N	\N
 226	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2007	3	f	f	2010-04-05 16:01:00.319177-04	pdfs/C1M22c_07.pdf			\N	\N	\N
-194	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	1	19	\N	2009	4	f	f	2010-04-19 16:02:07.144432-04	pdfs/C1M19d_09.pdf	images/thumbs/C1M19d_09_t_.png	images/C1M19d_09.png	\N	\N	\N
-207	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	1	20	\N	2009	4	f	f	2010-04-19 16:02:07.471961-04	pdfs/C1M20d_09.pdf	images/thumbs/C1M20d_09_t_.png	images/C1M20d_09.png	\N	\N	\N
+194	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	1	19	\N	2009	4	f	f	2010-04-22 12:57:41.24174-04	pdfs/C1M19d_09.pdf	images/thumbs/C1M19d_09_t.jpg	images/C1M19d_09.png	\N	\N	\N
+207	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	1	20	\N	2009	4	f	f	2010-04-22 12:57:41.257023-04	pdfs/C1M20d_09.pdf	images/thumbs/C1M20d_09_t.jpg	images/C1M20d_09.png	\N	\N	\N
 227	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2008	3	f	f	2010-04-05 16:01:00.518432-04	pdfs/C1M22c_08.pdf			\N	\N	\N
 228	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2009	3	f	f	2010-04-05 16:01:00.666618-04	pdfs/C1M22c_09.pdf			\N	\N	\N
 229	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2007	4	f	f	2010-04-05 16:01:00.737975-04	pdfs/C1M22d_07.pdf			\N	\N	\N
@@ -12506,41 +12506,41 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 266	Zip Codes	Zip_Codes	\N	1	52	\N	\N	\N	f	f	2010-04-05 16:01:04.269403-04	pdfs/C1M52.pdf			\N	\N	\N
 273	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	1	58	\N	\N	\N	t	f	2010-04-05 16:01:04.763588-04	pdfs/C1M58AppendixC.pdf			\N	\N	\N
 289	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	1	71	\N	\N	\N	t	f	2010-04-05 16:01:05.936724-04	pdfs/C1M71AppendixD.pdf			\N	\N	\N
-235	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	1	26	\N	\N	\N	f	f	2010-04-19 16:02:09.242235-04	pdfs/C1M26.pdf	images/thumbs/C1M26_t_.png	images/C1M26.png	\N	\N	\N
-233	Change in Population	Change_in_Population	\N	1	24	\N	\N	\N	f	f	2010-04-19 16:02:08.650872-04	pdfs/C1M24.pdf	images/thumbs/C1M24_t_.png	images/C1M24.png	\N	\N	\N
-234	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	1	25	\N	\N	\N	f	f	2010-04-19 16:02:08.910331-04	pdfs/C1M25.pdf	images/thumbs/C1M25_t_.png	images/C1M25.png	\N	\N	\N
-237	Median Rent	Median_Rent	\N	1	28	\N	\N	\N	f	f	2010-04-19 16:02:09.919276-04	pdfs/C1M28.pdf	images/thumbs/C1M28_t_.png	images/C1M28.png	\N	\N	\N
-238	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	1	29	\N	\N	\N	f	f	2010-04-19 16:02:10.197342-04	pdfs/C1M29.pdf	images/thumbs/C1M29_t_.png	images/C1M29.png	\N	\N	\N
-241	Households without Vehicles	Households_without_Vehicles	\N	1	30	\N	\N	\N	f	f	2010-04-19 16:02:10.607714-04	pdfs/C1M30.pdf	images/thumbs/C1M30_t_.png	images/C1M30.png	\N	\N	\N
-242	Median Income	Median_Income	\N	1	31	\N	\N	\N	f	f	2010-04-19 16:02:10.865202-04	pdfs/C1M31.pdf	images/thumbs/C1M31_t_.png	images/C1M31.png	\N	\N	\N
-243	Youth Population Change	Youth_Population_Change	\N	1	32	\N	\N	\N	f	f	2010-04-19 16:02:11.143866-04	pdfs/C1M32.pdf	images/thumbs/C1M32_t_.png	images/C1M32.png	\N	\N	\N
-245	Employment Sites	Employment_Sites	\N	1	34	\N	\N	\N	f	f	2010-04-19 16:02:11.731442-04	pdfs/C1M34.pdf	images/thumbs/C1M34_t_.png	images/C1M34.png	\N	\N	\N
-247	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	1	36	\N	\N	\N	f	f	2010-04-19 16:02:12.304439-04	pdfs/C1M36.pdf	images/thumbs/C1M36_t_.png	images/C1M36.png	\N	\N	\N
-248	DPS Sites	DPS_Sites	\N	1	37	\N	\N	\N	f	f	2010-04-19 16:02:12.580509-04	pdfs/C1M37.pdf	images/thumbs/C1M37_t_.png	images/C1M37.png	\N	\N	\N
-249	Other Schools	Other_Schools	\N	1	38	\N	\N	\N	f	f	2010-04-19 16:02:12.920716-04	pdfs/C1M38.pdf	images/thumbs/C1M38_t_.png	images/C1M38.png	\N	\N	\N
-252	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	1	40	\N	\N	\N	f	f	2010-04-19 16:02:13.522777-04	pdfs/C1M40.pdf	images/thumbs/C1M40_t_.png	images/C1M40.png	\N	\N	\N
-253	Elderly Population	Elderly_Population	\N	1	41	\N	\N	\N	f	f	2010-04-19 16:02:13.805445-04	pdfs/C1M41.pdf	images/thumbs/C1M41_t_.png	images/C1M41.png	\N	\N	\N
-254	Greenways	Greenways	\N	1	42	\N	\N	\N	f	f	2010-04-19 16:02:14.102857-04	pdfs/C1M42.pdf	images/thumbs/C1M42_t_.png	images/C1M42.png	\N	\N	\N
-255	Truck Routes	Truck_Routes	\N	1	43	\N	\N	\N	f	f	2010-04-19 16:02:14.36437-04	pdfs/C1M43.pdf	images/thumbs/C1M43_t_.png	images/C1M43.png	\N	\N	\N
-257	Low/Moderate Income	Low/Moderate_Income	\N	1	45	\N	\N	\N	f	f	2010-04-19 16:02:15.118428-04	pdfs/C1M45.pdf	images/thumbs/C1M45_t_.png	images/C1M45.png	\N	\N	\N
-267	Births	Births	\N	1	53	\N	\N	\N	f	f	2010-04-19 15:57:10.094196-04	pdfs/C1M53.pdf	images/thumbs/C1M53_t_.png	images/C1M53.png	\N	\N	\N
-268	Deaths	Deaths	\N	1	54	\N	\N	\N	f	f	2010-04-19 15:57:10.656382-04	pdfs/C1M54.pdf	images/thumbs/C1M54_t_.png	images/C1M54.png	\N	\N	\N
-269	Crime	Crime	\N	1	55	\N	\N	\N	f	f	2010-04-19 15:57:10.90907-04	pdfs/C1M55.pdf	images/thumbs/C1M55_t_.png	images/C1M55.png	\N	\N	\N
-271	Fires	Fires	\N	1	57	\N	\N	\N	f	f	2010-04-19 15:57:11.445714-04	pdfs/C1M57.pdf	images/thumbs/C1M57_t_.png	images/C1M57.png	\N	\N	\N
-272	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	1	58	\N	\N	\N	f	f	2010-04-19 15:57:11.731136-04	pdfs/C1M58.pdf	images/thumbs/C1M58_t_.png	images/C1M58.png	\N	\N	\N
-274	Sales	Sales	\N	1	59	\N	\N	\N	f	f	2010-04-19 15:57:12.031842-04	pdfs/C1M59.pdf	images/thumbs/C1M59_t_.png	images/C1M59.png	\N	\N	\N
-276	Registered Voters	Registered_Voters	\N	1	60	\N	\N	\N	f	f	2010-04-19 15:57:12.308348-04	pdfs/C1M60.pdf	images/thumbs/C1M60_t_.png	images/C1M60.png	\N	\N	\N
-279	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	1	63	\N	\N	\N	f	f	2010-04-19 15:57:13.160779-04	pdfs/C1M63.pdf	images/thumbs/C1M63_t_.png	images/C1M63.png	\N	\N	\N
-280	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	1	64	\N	\N	\N	f	f	2010-04-19 15:57:13.420282-04	pdfs/C1M64.pdf	images/thumbs/C1M64_t_.png	images/C1M64.png	\N	\N	\N
-281	Licensed Businesses	Licensed_Businesses	\N	1	65	\N	\N	\N	f	f	2010-04-19 15:57:13.694055-04	pdfs/C1M65.pdf	images/thumbs/C1M65_t_.png	images/C1M65.png	\N	\N	\N
-282	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	1	66	\N	\N	\N	f	f	2010-04-19 15:57:13.998937-04	pdfs/C1M66.pdf	images/thumbs/C1M66_t_.png	images/C1M66.png	\N	\N	\N
-283	Human Services Programs	Human_Services_Programs	\N	1	67	\N	\N	\N	f	f	2010-04-19 15:57:14.251561-04	pdfs/C1M67.pdf	images/thumbs/C1M67_t_.png	images/C1M67.png	\N	\N	\N
-284	Head Start	Head_Start	\N	1	68	\N	\N	\N	f	f	2010-04-19 15:57:14.52663-04	pdfs/C1M68.pdf	images/thumbs/C1M68_t_.png	images/C1M68.png	\N	\N	\N
-288	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	1	71	\N	\N	\N	f	f	2010-04-19 15:57:15.612257-04	pdfs/C1M71.pdf	images/thumbs/C1M71_t_.png	images/C1M71.png	\N	\N	\N
-402	Greenways	Greenways	\N	2	42	\N	\N	\N	f	f	2010-04-19 15:57:35.035933-04	pdfs/C2M42.pdf	images/thumbs/C2M42_t_.png	images/C2M42.png	\N	\N	\N
-263	Bus Routes	Bus_Routes	\N	1	5	\N	\N	\N	f	f	2010-04-19 16:02:02.913713-04	pdfs/C1M5.pdf	images/thumbs/C1M5_t_.png	images/C1M5___.png	\N	\N	\N
-286	Insitutional Uses	Insitutional_Uses	\N	1	7	\N	\N	\N	f	f	2010-04-19 16:02:03.468413-04	pdfs/C1M7.pdf	images/thumbs/C1M7_t_.png	images/C1M7___.png	\N	\N	\N
-232	Change in Housing Units	Change_in_Housing_Units	\N	1	23	\N	\N	\N	f	f	2010-04-19 16:02:08.394719-04	pdfs/C1M23.pdf	images/thumbs/C1M23_t_.png	images/C1M23.png	\N	\N	\N
+238	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	1	29	\N	\N	\N	f	f	2010-04-22 12:57:41.400045-04	pdfs/C1M29.pdf	images/thumbs/C1M29_t.jpg	images/C1M29.png	\N	\N	\N
+235	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	1	26	\N	\N	\N	f	f	2010-04-22 12:57:41.353384-04	pdfs/C1M26.pdf	images/thumbs/C1M26_t.jpg	images/C1M26.png	\N	\N	\N
+237	Median Rent	Median_Rent	\N	1	28	\N	\N	\N	f	f	2010-04-22 12:57:41.384776-04	pdfs/C1M28.pdf	images/thumbs/C1M28_t.jpg	images/C1M28.png	\N	\N	\N
+241	Households without Vehicles	Households_without_Vehicles	\N	1	30	\N	\N	\N	f	f	2010-04-22 12:57:41.417959-04	pdfs/C1M30.pdf	images/thumbs/C1M30_t.jpg	images/C1M30.png	\N	\N	\N
+242	Median Income	Median_Income	\N	1	31	\N	\N	\N	f	f	2010-04-22 12:57:41.4333-04	pdfs/C1M31.pdf	images/thumbs/C1M31_t.jpg	images/C1M31.png	\N	\N	\N
+243	Youth Population Change	Youth_Population_Change	\N	1	32	\N	\N	\N	f	f	2010-04-22 12:57:41.448649-04	pdfs/C1M32.pdf	images/thumbs/C1M32_t.jpg	images/C1M32.png	\N	\N	\N
+245	Employment Sites	Employment_Sites	\N	1	34	\N	\N	\N	f	f	2010-04-22 12:57:41.484349-04	pdfs/C1M34.pdf	images/thumbs/C1M34_t.jpg	images/C1M34.png	\N	\N	\N
+247	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	1	36	\N	\N	\N	f	f	2010-04-22 12:57:41.517683-04	pdfs/C1M36.pdf	images/thumbs/C1M36_t.jpg	images/C1M36.png	\N	\N	\N
+248	DPS Sites	DPS_Sites	\N	1	37	\N	\N	\N	f	f	2010-04-22 12:57:41.53273-04	pdfs/C1M37.pdf	images/thumbs/C1M37_t.jpg	images/C1M37.png	\N	\N	\N
+249	Other Schools	Other_Schools	\N	1	38	\N	\N	\N	f	f	2010-04-22 12:57:41.547985-04	pdfs/C1M38.pdf	images/thumbs/C1M38_t.jpg	images/C1M38.png	\N	\N	\N
+252	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	1	40	\N	\N	\N	f	f	2010-04-22 12:57:41.580132-04	pdfs/C1M40.pdf	images/thumbs/C1M40_t.jpg	images/C1M40.png	\N	\N	\N
+253	Elderly Population	Elderly_Population	\N	1	41	\N	\N	\N	f	f	2010-04-22 12:57:41.595861-04	pdfs/C1M41.pdf	images/thumbs/C1M41_t.jpg	images/C1M41.png	\N	\N	\N
+254	Greenways	Greenways	\N	1	42	\N	\N	\N	f	f	2010-04-22 12:57:41.613695-04	pdfs/C1M42.pdf	images/thumbs/C1M42_t.jpg	images/C1M42.png	\N	\N	\N
+255	Truck Routes	Truck_Routes	\N	1	43	\N	\N	\N	f	f	2010-04-22 12:57:41.634008-04	pdfs/C1M43.pdf	images/thumbs/C1M43_t.jpg	images/C1M43.png	\N	\N	\N
+257	Low/Moderate Income	Low/Moderate_Income	\N	1	45	\N	\N	\N	f	f	2010-04-22 12:57:41.664193-04	pdfs/C1M45.pdf	images/thumbs/C1M45_t.jpg	images/C1M45.png	\N	\N	\N
+267	Births	Births	\N	1	53	\N	\N	\N	f	f	2010-04-22 12:57:41.732144-04	pdfs/C1M53.pdf	images/thumbs/C1M53_t.jpg	images/C1M53.png	\N	\N	\N
+268	Deaths	Deaths	\N	1	54	\N	\N	\N	f	f	2010-04-22 12:57:41.748075-04	pdfs/C1M54.pdf	images/thumbs/C1M54_t.jpg	images/C1M54.png	\N	\N	\N
+286	Insitutional Uses	Insitutional_Uses	\N	1	7	\N	\N	\N	f	f	2010-04-22 12:57:41.046584-04	pdfs/C1M7.pdf	images/thumbs/C1M7_t.jpg	images/C1M7___.png	\N	\N	\N
+269	Crime	Crime	\N	1	55	\N	\N	\N	f	f	2010-04-22 12:57:41.762636-04	pdfs/C1M55.pdf	images/thumbs/C1M55_t.jpg	images/C1M55.png	\N	\N	\N
+271	Fires	Fires	\N	1	57	\N	\N	\N	f	f	2010-04-22 12:57:41.793986-04	pdfs/C1M57.pdf	images/thumbs/C1M57_t.jpg	images/C1M57.png	\N	\N	\N
+272	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	1	58	\N	\N	\N	f	f	2010-04-22 12:57:41.809471-04	pdfs/C1M58.pdf	images/thumbs/C1M58_t.jpg	images/C1M58.png	\N	\N	\N
+274	Sales	Sales	\N	1	59	\N	\N	\N	f	f	2010-04-22 12:57:41.824917-04	pdfs/C1M59.pdf	images/thumbs/C1M59_t.jpg	images/C1M59.png	\N	\N	\N
+276	Registered Voters	Registered_Voters	\N	1	60	\N	\N	\N	f	f	2010-04-22 12:57:41.843865-04	pdfs/C1M60.pdf	images/thumbs/C1M60_t.jpg	images/C1M60.png	\N	\N	\N
+279	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	1	63	\N	\N	\N	f	f	2010-04-22 12:57:41.925038-04	pdfs/C1M63.pdf	images/thumbs/C1M63_t.jpg	images/C1M63.png	\N	\N	\N
+280	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	1	64	\N	\N	\N	f	f	2010-04-22 12:57:41.940194-04	pdfs/C1M64.pdf	images/thumbs/C1M64_t.jpg	images/C1M64.png	\N	\N	\N
+281	Licensed Businesses	Licensed_Businesses	\N	1	65	\N	\N	\N	f	f	2010-04-22 12:57:41.957071-04	pdfs/C1M65.pdf	images/thumbs/C1M65_t.jpg	images/C1M65.png	\N	\N	\N
+282	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	1	66	\N	\N	\N	f	f	2010-04-22 12:57:41.974843-04	pdfs/C1M66.pdf	images/thumbs/C1M66_t.jpg	images/C1M66.png	\N	\N	\N
+283	Human Services Programs	Human_Services_Programs	\N	1	67	\N	\N	\N	f	f	2010-04-22 12:57:41.991454-04	pdfs/C1M67.pdf	images/thumbs/C1M67_t.jpg	images/C1M67.png	\N	\N	\N
+284	Head Start	Head_Start	\N	1	68	\N	\N	\N	f	f	2010-04-22 12:57:42.009079-04	pdfs/C1M68.pdf	images/thumbs/C1M68_t.jpg	images/C1M68.png	\N	\N	\N
+288	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	1	71	\N	\N	\N	f	f	2010-04-22 12:57:42.056735-04	pdfs/C1M71.pdf	images/thumbs/C1M71_t.jpg	images/C1M71.png	\N	\N	\N
+402	Greenways	Greenways	\N	2	42	\N	\N	\N	f	f	2010-04-22 12:57:43.052668-04	pdfs/C2M42.pdf	images/thumbs/C2M42_t.jpg	images/C2M42.png	\N	\N	\N
+263	Bus Routes	Bus_Routes	\N	1	5	\N	\N	\N	f	f	2010-04-22 12:57:41.01787-04	pdfs/C1M5.pdf	images/thumbs/C1M5_t.jpg	images/C1M5___.png	\N	\N	\N
+232	Change in Housing Units	Change_in_Housing_Units	\N	1	23	\N	\N	\N	f	f	2010-04-22 12:57:41.30495-04	pdfs/C1M23.pdf	images/thumbs/C1M23_t.jpg	images/C1M23.png	\N	\N	\N
+233	Change in Population	Change_in_Population	\N	1	24	\N	\N	\N	f	f	2010-04-22 12:57:41.322827-04	pdfs/C1M24.pdf	images/thumbs/C1M24_t.jpg	images/C1M24.png	\N	\N	\N
+234	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	1	25	\N	\N	\N	f	f	2010-04-22 12:57:41.338567-04	pdfs/C1M25.pdf	images/thumbs/C1M25_t.jpg	images/C1M25.png	\N	\N	\N
 291	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	1	72	\N	\N	\N	t	f	2010-04-05 16:01:06.874091-04	pdfs/C1M72AppendixE.pdf			\N	\N	\N
 312	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	2	16	\N	\N	\N	f	t	2010-04-05 16:01:09.155535-04	pdfs/C2M16Color.pdf			\N	\N	\N
 313	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	2	17	\N	2007	1	f	f	2010-04-05 16:01:09.402058-04	pdfs/C2M17a_07.pdf			\N	\N	\N
@@ -12573,23 +12573,23 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 341	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	2	19	\N	2008	4	f	f	2010-04-05 16:01:11.005892-04	pdfs/C2M19d_08.pdf			\N	\N	\N
 344	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	2	20	\N	2007	1	f	f	2010-04-05 16:01:11.283006-04	pdfs/C2M20a_07.pdf			\N	\N	\N
 345	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	2	20	\N	2008	1	f	f	2010-04-05 16:01:11.409637-04	pdfs/C2M20a_08.pdf			\N	\N	\N
-294	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	1	75	\N	\N	\N	f	f	2010-04-19 15:57:17.038194-04	pdfs/C1M75.pdf	images/thumbs/C1M75_t_.png	images/C1M75.png	\N	\N	\N
-295	120% Area Mean Income	120%_Area_Mean_Income	\N	1	76	\N	\N	\N	f	f	2010-04-19 15:57:17.789438-04	pdfs/C1M76.pdf	images/thumbs/C1M76_t_.png	images/C1M76.png	\N	\N	\N
-296	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	1	77	\N	\N	\N	f	f	2010-04-19 15:57:18.338357-04	pdfs/C1M77.pdf	images/thumbs/C1M77_t_.png	images/C1M77.png	\N	\N	\N
-297	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	1	78	\N	\N	\N	f	f	2010-04-19 15:57:18.613033-04	pdfs/C1M78.pdf	images/thumbs/C1M78_t_.png	images/C1M78.png	\N	\N	\N
-298	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	1	79	\N	\N	\N	f	f	2010-04-19 15:57:18.865077-04	pdfs/C1M79.pdf	images/thumbs/C1M79_t_.png	images/C1M79.png	\N	\N	\N
-300	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	1	80	\N	\N	\N	f	f	2010-04-19 15:57:19.536631-04	pdfs/C1M80.pdf	images/thumbs/C1M80_t_.png	images/C1M80.png	\N	\N	\N
-303	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	1	83	\N	\N	\N	f	f	2010-04-19 15:57:20.986283-04	pdfs/C1M83.pdf	images/thumbs/C1M83_t_.png	images/C1M83.png	\N	\N	\N
-304	Future Land Use	Future_Land_Use	\N	2	1	\N	\N	\N	f	f	2010-04-19 15:57:21.42916-04	pdfs/C2M1.pdf	images/thumbs/C2M1_t_.png	images/C2M1.png	\N	\N	\N
-343	Zoning	Zoning	\N	2	2	\N	\N	\N	f	f	2010-04-19 15:57:21.757659-04	pdfs/C2M2.pdf	images/thumbs/C2M2_t_.png	images/C2M2.png	\N	\N	\N
-305	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	2	10	\N	\N	\N	f	f	2010-04-19 15:57:25.036782-04	pdfs/C2M10.pdf	images/thumbs/C2M10_t_.png	images/C2M10.png	\N	\N	\N
-306	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	2	11	\N	\N	\N	f	f	2010-04-19 15:57:25.332343-04	pdfs/C2M11.pdf	images/thumbs/C2M11_t_.png	images/C2M11.png	\N	\N	\N
-307	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	2	12	\N	\N	\N	f	f	2010-04-19 15:57:25.640807-04	pdfs/C2M12.pdf	images/thumbs/C2M12_t_.png	images/C2M12.png	\N	\N	\N
-308	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	2	13	\N	\N	\N	f	f	2010-04-19 15:57:25.922969-04	pdfs/C2M13.pdf	images/thumbs/C2M13_t_.png	images/C2M13.png	\N	\N	\N
-309	ONCR	ONCR	\N	2	14	\N	\N	\N	f	f	2010-04-19 15:57:26.202616-04	pdfs/C2M14.pdf	images/thumbs/C2M14_t_.png	images/C2M14.png	\N	\N	\N
-324	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	2	17	\N	2009	4	f	f	2010-04-19 15:57:27.143156-04	pdfs/C2M17d_09.pdf	images/thumbs/C2M17d_09_t_.png	images/C2M17d_09.png	\N	\N	\N
-342	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	2	19	\N	2009	4	f	f	2010-04-19 15:57:27.412595-04	pdfs/C2M19d_09.pdf	images/thumbs/C2M19d_09_t_.png	images/C2M19d_09.png	\N	\N	\N
-293	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	1	74	\N	\N	\N	f	f	2010-04-19 15:57:16.478829-04	pdfs/C1M74.pdf	images/thumbs/C1M74_t_.png	images/C1M74.png	\N	\N	\N
+296	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	1	77	\N	\N	\N	f	f	2010-04-22 12:57:42.153792-04	pdfs/C1M77.pdf	images/thumbs/C1M77_t.jpg	images/C1M77.png	\N	\N	\N
+297	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	1	78	\N	\N	\N	f	f	2010-04-22 12:57:42.169047-04	pdfs/C1M78.pdf	images/thumbs/C1M78_t.jpg	images/C1M78.png	\N	\N	\N
+298	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	1	79	\N	\N	\N	f	f	2010-04-22 12:57:42.186112-04	pdfs/C1M79.pdf	images/thumbs/C1M79_t.jpg	images/C1M79.png	\N	\N	\N
+300	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	1	80	\N	\N	\N	f	f	2010-04-22 12:57:42.20172-04	pdfs/C1M80.pdf	images/thumbs/C1M80_t.jpg	images/C1M80.png	\N	\N	\N
+303	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	1	83	\N	\N	\N	f	f	2010-04-22 12:57:42.252787-04	pdfs/C1M83.pdf	images/thumbs/C1M83_t.jpg	images/C1M83.png	\N	\N	\N
+304	Future Land Use	Future_Land_Use	\N	2	1	\N	\N	\N	f	f	2010-04-22 12:57:42.33649-04	pdfs/C2M1.pdf	images/thumbs/C2M1_t.jpg	images/C2M1.png	\N	\N	\N
+343	Zoning	Zoning	\N	2	2	\N	\N	\N	f	f	2010-04-22 12:57:42.351723-04	pdfs/C2M2.pdf	images/thumbs/C2M2_t.jpg	images/C2M2.png	\N	\N	\N
+305	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	2	10	\N	\N	\N	f	f	2010-04-22 12:57:42.481929-04	pdfs/C2M10.pdf	images/thumbs/C2M10_t.jpg	images/C2M10.png	\N	\N	\N
+306	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	2	11	\N	\N	\N	f	f	2010-04-22 12:57:42.497888-04	pdfs/C2M11.pdf	images/thumbs/C2M11_t.jpg	images/C2M11.png	\N	\N	\N
+307	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	2	12	\N	\N	\N	f	f	2010-04-22 12:57:42.512866-04	pdfs/C2M12.pdf	images/thumbs/C2M12_t.jpg	images/C2M12.png	\N	\N	\N
+308	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	2	13	\N	\N	\N	f	f	2010-04-22 12:57:42.561079-04	pdfs/C2M13.pdf	images/thumbs/C2M13_t.jpg	images/C2M13.png	\N	\N	\N
+309	ONCR	ONCR	\N	2	14	\N	\N	\N	f	f	2010-04-22 12:57:42.575763-04	pdfs/C2M14.pdf	images/thumbs/C2M14_t.jpg	images/C2M14.png	\N	\N	\N
+324	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	2	17	\N	2009	4	f	f	2010-04-22 12:57:42.627407-04	pdfs/C2M17d_09.pdf	images/thumbs/C2M17d_09_t.jpg	images/C2M17d_09.png	\N	\N	\N
+342	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	2	19	\N	2009	4	f	f	2010-04-22 12:57:42.65091-04	pdfs/C2M19d_09.pdf	images/thumbs/C2M19d_09_t.jpg	images/C2M19d_09.png	\N	\N	\N
+293	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	1	74	\N	\N	\N	f	f	2010-04-22 12:57:42.105174-04	pdfs/C1M74.pdf	images/thumbs/C1M74_t.jpg	images/C1M74.png	\N	\N	\N
+294	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	1	75	\N	\N	\N	f	f	2010-04-22 12:57:42.12272-04	pdfs/C1M75.pdf	images/thumbs/C1M75_t.jpg	images/C1M75.png	\N	\N	\N
+295	120% Area Mean Income	120%_Area_Mean_Income	\N	1	76	\N	\N	\N	f	f	2010-04-22 12:57:42.138809-04	pdfs/C1M76.pdf	images/thumbs/C1M76_t.jpg	images/C1M76.png	\N	\N	\N
 346	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	2	20	\N	2009	1	f	f	2010-04-05 16:01:11.466365-04	pdfs/C2M20a_09.pdf			\N	\N	\N
 347	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	2	20	\N	2007	2	f	f	2010-04-05 16:01:11.501632-04	pdfs/C2M20b_07.pdf			\N	\N	\N
 348	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	2	20	\N	2008	2	f	f	2010-04-05 16:01:11.53722-04	pdfs/C2M20b_08.pdf			\N	\N	\N
@@ -12622,22 +12622,22 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 377	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	2	22	\N	2007	4	f	f	2010-04-05 16:01:14.382124-04	pdfs/C2M22d_07.pdf			\N	\N	\N
 378	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	2	22	\N	2008	4	f	f	2010-04-05 16:01:14.436264-04	pdfs/C2M22d_08.pdf			\N	\N	\N
 387	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	2	29	\N	\N	\N	f	t	2010-04-05 16:01:14.834105-04	pdfs/C2M29Color.pdf			\N	\N	\N
-380	Change in Housing Units	Change_in_Housing_Units	\N	2	23	\N	\N	\N	f	f	2010-04-19 15:57:28.625252-04	pdfs/C2M23.pdf	images/thumbs/C2M23_t_.png	images/C2M23.png	\N	\N	\N
-381	Change in Population	Change_in_Population	\N	2	24	\N	\N	\N	f	f	2010-04-19 15:57:28.957497-04	pdfs/C2M24.pdf	images/thumbs/C2M24_t_.png	images/C2M24.png	\N	\N	\N
-382	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	2	25	\N	\N	\N	f	f	2010-04-19 15:57:29.249805-04	pdfs/C2M25.pdf	images/thumbs/C2M25_t_.png	images/C2M25.png	\N	\N	\N
-383	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	2	26	\N	\N	\N	f	f	2010-04-19 15:57:29.781179-04	pdfs/C2M26.pdf	images/thumbs/C2M26_t_.png	images/C2M26.png	\N	\N	\N
-385	Median Rent	Median_Rent	\N	2	28	\N	\N	\N	f	f	2010-04-19 15:57:30.370571-04	pdfs/C2M28.pdf	images/thumbs/C2M28_t_.png	images/C2M28.png	\N	\N	\N
-386	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	2	29	\N	\N	\N	f	f	2010-04-19 15:57:30.674769-04	pdfs/C2M29.pdf	images/thumbs/C2M29_t_.png	images/C2M29.png	\N	\N	\N
-389	Households without Vehicles	Households_without_Vehicles	\N	2	30	\N	\N	\N	f	f	2010-04-19 15:57:31.456445-04	pdfs/C2M30.pdf	images/thumbs/C2M30_t_.png	images/C2M30.png	\N	\N	\N
-390	Median Income	Median_Income	\N	2	31	\N	\N	\N	f	f	2010-04-19 15:57:31.751595-04	pdfs/C2M31.pdf	images/thumbs/C2M31_t_.png	images/C2M31.png	\N	\N	\N
-391	Youth Population Change	Youth_Population_Change	\N	2	32	\N	\N	\N	f	f	2010-04-19 15:57:32.042023-04	pdfs/C2M32.pdf	images/thumbs/C2M32_t_.png	images/C2M32.png	\N	\N	\N
-392	Foreign Born Population	Foreign_Born_Population	\N	2	33	\N	\N	\N	f	f	2010-04-19 15:57:32.314285-04	pdfs/C2M33.pdf	images/thumbs/C2M33_t_.png	images/C2M33.png	\N	\N	\N
-393	Employment Sites	Employment_Sites	\N	2	34	\N	\N	\N	f	f	2010-04-19 15:57:32.604242-04	pdfs/C2M34.pdf	images/thumbs/C2M34_t_.png	images/C2M34.png	\N	\N	\N
-396	DPS Sites	DPS_Sites	\N	2	37	\N	\N	\N	f	f	2010-04-19 15:57:33.680959-04	pdfs/C2M37.pdf	images/thumbs/C2M37_t_.png	images/C2M37.png	\N	\N	\N
-397	Other Schools	Other_Schools	\N	2	38	\N	\N	\N	f	f	2010-04-19 15:57:33.948568-04	pdfs/C2M38.pdf	images/thumbs/C2M38_t_.png	images/C2M38.png	\N	\N	\N
-398	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	2	39	\N	\N	\N	f	f	2010-04-19 15:57:34.251144-04	pdfs/C2M39.pdf	images/thumbs/C2M39_t_.png	images/C2M39.png	\N	\N	\N
-400	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	2	40	\N	\N	\N	f	f	2010-04-19 15:57:34.518281-04	pdfs/C2M40.pdf	images/thumbs/C2M40_t_.png	images/C2M40.png	\N	\N	\N
-1504	DPS Sites	DPS_Sites	\N	9	37	\N	\N	\N	f	f	2010-04-08 15:05:31.915426-04	pdfs/C9M37.pdf	images/thumbs/C9M37_t.png	images/C9M37.png	\N	\N	\N
+382	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	2	25	\N	\N	\N	f	f	2010-04-22 12:57:42.752324-04	pdfs/C2M25.pdf	images/thumbs/C2M25_t.jpg	images/C2M25.png	\N	\N	\N
+383	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	2	26	\N	\N	\N	f	f	2010-04-22 12:57:42.767913-04	pdfs/C2M26.pdf	images/thumbs/C2M26_t.jpg	images/C2M26.png	\N	\N	\N
+385	Median Rent	Median_Rent	\N	2	28	\N	\N	\N	f	f	2010-04-22 12:57:42.799979-04	pdfs/C2M28.pdf	images/thumbs/C2M28_t.jpg	images/C2M28.png	\N	\N	\N
+386	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	2	29	\N	\N	\N	f	f	2010-04-22 12:57:42.815226-04	pdfs/C2M29.pdf	images/thumbs/C2M29_t.jpg	images/C2M29.png	\N	\N	\N
+389	Households without Vehicles	Households_without_Vehicles	\N	2	30	\N	\N	\N	f	f	2010-04-22 12:57:42.830472-04	pdfs/C2M30.pdf	images/thumbs/C2M30_t.jpg	images/C2M30.png	\N	\N	\N
+390	Median Income	Median_Income	\N	2	31	\N	\N	\N	f	f	2010-04-22 12:57:42.848479-04	pdfs/C2M31.pdf	images/thumbs/C2M31_t.jpg	images/C2M31.png	\N	\N	\N
+391	Youth Population Change	Youth_Population_Change	\N	2	32	\N	\N	\N	f	f	2010-04-22 12:57:42.864264-04	pdfs/C2M32.pdf	images/thumbs/C2M32_t.jpg	images/C2M32.png	\N	\N	\N
+392	Foreign Born Population	Foreign_Born_Population	\N	2	33	\N	\N	\N	f	f	2010-04-22 12:57:42.879703-04	pdfs/C2M33.pdf	images/thumbs/C2M33_t.jpg	images/C2M33.png	\N	\N	\N
+393	Employment Sites	Employment_Sites	\N	2	34	\N	\N	\N	f	f	2010-04-22 12:57:42.923601-04	pdfs/C2M34.pdf	images/thumbs/C2M34_t.jpg	images/C2M34.png	\N	\N	\N
+396	DPS Sites	DPS_Sites	\N	2	37	\N	\N	\N	f	f	2010-04-22 12:57:42.971721-04	pdfs/C2M37.pdf	images/thumbs/C2M37_t.jpg	images/C2M37.png	\N	\N	\N
+397	Other Schools	Other_Schools	\N	2	38	\N	\N	\N	f	f	2010-04-22 12:57:42.986598-04	pdfs/C2M38.pdf	images/thumbs/C2M38_t.jpg	images/C2M38.png	\N	\N	\N
+398	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	2	39	\N	\N	\N	f	f	2010-04-22 12:57:43.004985-04	pdfs/C2M39.pdf	images/thumbs/C2M39_t.jpg	images/C2M39.png	\N	\N	\N
+400	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	2	40	\N	\N	\N	f	f	2010-04-22 12:57:43.019765-04	pdfs/C2M40.pdf	images/thumbs/C2M40_t.jpg	images/C2M40.png	\N	\N	\N
+1504	DPS Sites	DPS_Sites	\N	9	37	\N	\N	\N	f	f	2010-04-22 12:58:01.152929-04	pdfs/C9M37.pdf	images/thumbs/C9M37_t.jpg	images/C9M37.png	\N	\N	\N
+381	Change in Population	Change_in_Population	\N	2	24	\N	\N	\N	f	f	2010-04-22 12:57:42.736589-04	pdfs/C2M24.pdf	images/thumbs/C2M24_t.jpg	images/C2M24.png	\N	\N	\N
+380	Change in Housing Units	Change_in_Housing_Units	\N	2	23	\N	\N	\N	f	f	2010-04-22 12:57:42.721775-04	pdfs/C2M23.pdf	images/thumbs/C2M23_t.jpg	images/C2M23.png	\N	\N	\N
 406	Wayne County Tax Foreclosures - 2006	Wayne_County_Tax_Foreclosures_-_2006	\N	2	46	\N	\N	\N	f	f	2010-04-05 16:01:15.914188-04	pdfs/C2M46.pdf			\N	\N	\N
 407	Traffic Counts	Traffic_Counts	\N	2	47	\N	\N	\N	f	f	2010-04-05 16:01:15.973876-04	pdfs/C2M47.pdf			\N	\N	\N
 408	Consumer Expenditures (see appendix A)	Consumer_Expenditures_(see_appendix_A)	\N	2	48	\N	\N	\N	f	f	2010-04-05 16:01:16.011812-04	pdfs/C2M48.pdf			\N	\N	\N
@@ -12650,43 +12650,43 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 437	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	2	71	\N	\N	\N	t	f	2010-04-05 16:01:19.295324-04	pdfs/C2M71AppendixD.pdf			\N	\N	\N
 439	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	2	72	\N	\N	\N	t	f	2010-04-05 16:01:19.383258-04	pdfs/C2M72AppendixE.pdf			\N	\N	\N
 461	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	2	91	\N	\N	\N	t	f	2010-04-05 16:01:21.020334-04	pdfs/C2M91AppendixF.pdf			\N	\N	\N
-447	Historic Sites	Historic_Sites	\N	2	8	\N	\N	\N	f	f	2010-04-19 15:57:24.43542-04	pdfs/C2M8.pdf	images/thumbs/C2M8_t_.png	images/C2M8.png	\N	\N	\N
-458	2000 Aerial Photo	2000_Aerial_Photo	\N	2	9	\N	\N	\N	f	f	2010-04-19 15:57:24.751276-04	pdfs/C2M9.pdf	images/thumbs/C2M9_t_.png	images/C2M9.png	\N	\N	\N
-405	Low/Moderate Income	Low/Moderate_Income	\N	2	45	\N	\N	\N	f	f	2010-04-19 15:57:35.925715-04	pdfs/C2M45.pdf	images/thumbs/C2M45_t_.png	images/C2M45.png	\N	\N	\N
-415	Births	Births	\N	2	53	\N	\N	\N	f	f	2010-04-19 15:57:36.231204-04	pdfs/C2M53.pdf	images/thumbs/C2M53_t_.png	images/C2M53.png	\N	\N	\N
-416	Deaths	Deaths	\N	2	54	\N	\N	\N	f	f	2010-04-19 15:57:36.513191-04	pdfs/C2M54.pdf	images/thumbs/C2M54_t_.png	images/C2M54.png	\N	\N	\N
-417	Crime	Crime	\N	2	55	\N	\N	\N	f	f	2010-04-19 15:57:36.808923-04	pdfs/C2M55.pdf	images/thumbs/C2M55_t_.png	images/C2M55.png	\N	\N	\N
-419	Fires	Fires	\N	2	57	\N	\N	\N	f	f	2010-04-19 15:57:37.477714-04	pdfs/C2M57.pdf	images/thumbs/C2M57_t_.png	images/C2M57.png	\N	\N	\N
-420	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	2	58	\N	\N	\N	f	f	2010-04-19 15:57:37.737631-04	pdfs/C2M58.pdf	images/thumbs/C2M58_t_.png	images/C2M58.png	\N	\N	\N
-422	Sales	Sales	\N	2	59	\N	\N	\N	f	f	2010-04-19 15:57:38.121766-04	pdfs/C2M59.pdf	images/thumbs/C2M59_t_.png	images/C2M59.png	\N	\N	\N
-425	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	2	61	\N	\N	\N	f	f	2010-04-19 15:57:38.680768-04	pdfs/C2M61.pdf	images/thumbs/C2M61_t_.png	images/C2M61.png	\N	\N	\N
-427	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	2	63	\N	\N	\N	f	f	2010-04-19 15:57:39.223242-04	pdfs/C2M63.pdf	images/thumbs/C2M63_t_.png	images/C2M63.png	\N	\N	\N
-428	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	2	64	\N	\N	\N	f	f	2010-04-19 15:57:39.521032-04	pdfs/C2M64.pdf	images/thumbs/C2M64_t_.png	images/C2M64.png	\N	\N	\N
-429	Licensed Businesses	Licensed_Businesses	\N	2	65	\N	\N	\N	f	f	2010-04-19 15:57:39.789718-04	pdfs/C2M65.pdf	images/thumbs/C2M65_t_.png	images/C2M65.png	\N	\N	\N
-431	Human Services Programs	Human_Services_Programs	\N	2	67	\N	\N	\N	f	f	2010-04-19 15:57:40.517547-04	pdfs/C2M67.pdf	images/thumbs/C2M67_t_.png	images/C2M67.png	\N	\N	\N
-432	Head Start	Head_Start	\N	2	68	\N	\N	\N	f	f	2010-04-19 15:57:40.858261-04	pdfs/C2M68.pdf	images/thumbs/C2M68_t_.png	images/C2M68.png	\N	\N	\N
-433	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	2	69	\N	\N	\N	f	f	2010-04-19 15:57:41.160803-04	pdfs/C2M69.pdf	images/thumbs/C2M69_t_.png	images/C2M69.png	\N	\N	\N
-435	Parks Master Plan Update	Parks_Master_Plan_Update	\N	2	70	\N	\N	\N	f	f	2010-04-19 15:57:41.429941-04	pdfs/C2M70.pdf	images/thumbs/C2M70_t_.png	images/C2M70.png	\N	\N	\N
-440	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	2	73	\N	\N	\N	f	f	2010-04-19 15:57:42.27525-04	pdfs/C2M73.pdf	images/thumbs/C2M73_t_.png	images/C2M73.png	\N	\N	\N
-441	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	2	74	\N	\N	\N	f	f	2010-04-19 15:57:42.556203-04	pdfs/C2M74.pdf	images/thumbs/C2M74_t_.png	images/C2M74.png	\N	\N	\N
-442	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	2	75	\N	\N	\N	f	f	2010-04-19 15:57:42.827425-04	pdfs/C2M75.pdf	images/thumbs/C2M75_t_.png	images/C2M75.png	\N	\N	\N
-443	120% Area Mean Income	120%_Area_Mean_Income	\N	2	76	\N	\N	\N	f	f	2010-04-19 15:57:43.09022-04	pdfs/C2M76.pdf	images/thumbs/C2M76_t_.png	images/C2M76.png	\N	\N	\N
-444	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	2	77	\N	\N	\N	f	f	2010-04-19 15:57:43.378954-04	pdfs/C2M77.pdf	images/thumbs/C2M77_t_.png	images/C2M77.png	\N	\N	\N
-445	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	2	78	\N	\N	\N	f	f	2010-04-19 15:57:43.669884-04	pdfs/C2M78.pdf	images/thumbs/C2M78_t_.png	images/C2M78.png	\N	\N	\N
-446	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	2	79	\N	\N	\N	f	f	2010-04-19 15:57:43.993285-04	pdfs/C2M79.pdf	images/thumbs/C2M79_t_.png	images/C2M79.png	\N	\N	\N
-448	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	2	80	\N	\N	\N	f	f	2010-04-19 15:57:44.452742-04	pdfs/C2M80.pdf	images/thumbs/C2M80_t_.png	images/C2M80.png	\N	\N	\N
-450	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	2	82	\N	\N	\N	f	f	2010-04-19 15:57:44.990668-04	pdfs/C2M82.pdf	images/thumbs/C2M82_t_.png	images/C2M82.png	\N	\N	\N
-452	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	2	84	\N	\N	\N	f	f	2010-04-19 15:57:45.533881-04	pdfs/C2M84.pdf	images/thumbs/C2M84_t_.png	images/C2M84.png	\N	\N	\N
-453	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	2	85	\N	\N	\N	f	f	2010-04-19 15:57:45.788157-04	pdfs/C2M85.pdf	images/thumbs/C2M85_t_.png	images/C2M85.png	\N	\N	\N
-454	2009 Street Paving	2009_Street_Paving	\N	2	86	\N	\N	\N	f	f	2010-04-19 15:57:46.063914-04	pdfs/C2M86.pdf	images/thumbs/C2M86_t_.png	images/C2M86.png	\N	\N	\N
-455	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	2	87	\N	\N	\N	f	f	2010-04-19 15:57:46.305978-04	pdfs/C2M87.pdf	images/thumbs/C2M87_t_.png	images/C2M87.png	\N	\N	\N
-456	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	2	88	\N	\N	\N	f	f	2010-04-19 15:57:46.57116-04	pdfs/C2M88.pdf	images/thumbs/C2M88_t_.png	images/C2M88.png	\N	\N	\N
-457	Zoning (Color)	Zoning_(Color)	\N	2	89	\N	\N	\N	f	f	2010-04-19 15:57:46.905691-04	pdfs/C2M89.pdf	images/thumbs/C2M89_t_.png	images/C2M89.png	\N	\N	\N
-460	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	2	91	\N	\N	\N	f	f	2010-04-19 15:57:47.502943-04	pdfs/C2M91.pdf	images/thumbs/C2M91_t_.png	images/C2M91.png	\N	\N	\N
-462	Future Land Use	Future_Land_Use	\N	3	1	\N	\N	\N	f	f	2010-04-08 15:07:22.518864-04	pdfs/C3M1.pdf	images/thumbs/C3M1_t.png	images/C3M1.png	\N	\N	\N
-464	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	3	11	\N	\N	\N	f	f	2010-04-08 15:07:25.3622-04	pdfs/C3M11.pdf	images/thumbs/C3M11_t.png	images/C3M11.png	\N	\N	\N
-411	Bus Routes	Bus_Routes	\N	2	5	\N	\N	\N	f	f	2010-04-19 15:57:23.572158-04	pdfs/C2M5.pdf	images/thumbs/C2M5_t_.png	images/C2M5.png	\N	\N	\N
-434	Insitutional Uses	Insitutional_Uses	\N	2	7	\N	\N	\N	f	f	2010-04-19 15:57:24.127702-04	pdfs/C2M7.pdf	images/thumbs/C2M7_t_.png	images/C2M7.png	\N	\N	\N
+405	Low/Moderate Income	Low/Moderate_Income	\N	2	45	\N	\N	\N	f	f	2010-04-22 12:57:43.100639-04	pdfs/C2M45.pdf	images/thumbs/C2M45_t.jpg	images/C2M45.png	\N	\N	\N
+415	Births	Births	\N	2	53	\N	\N	\N	f	f	2010-04-22 12:57:43.172481-04	pdfs/C2M53.pdf	images/thumbs/C2M53_t.jpg	images/C2M53.png	\N	\N	\N
+416	Deaths	Deaths	\N	2	54	\N	\N	\N	f	f	2010-04-22 12:57:43.189406-04	pdfs/C2M54.pdf	images/thumbs/C2M54_t.jpg	images/C2M54.png	\N	\N	\N
+417	Crime	Crime	\N	2	55	\N	\N	\N	f	f	2010-04-22 12:57:43.204722-04	pdfs/C2M55.pdf	images/thumbs/C2M55_t.jpg	images/C2M55.png	\N	\N	\N
+419	Fires	Fires	\N	2	57	\N	\N	\N	f	f	2010-04-22 12:57:43.239614-04	pdfs/C2M57.pdf	images/thumbs/C2M57_t.jpg	images/C2M57.png	\N	\N	\N
+420	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	2	58	\N	\N	\N	f	f	2010-04-22 12:57:43.254978-04	pdfs/C2M58.pdf	images/thumbs/C2M58_t.jpg	images/C2M58.png	\N	\N	\N
+422	Sales	Sales	\N	2	59	\N	\N	\N	f	f	2010-04-22 12:57:43.269833-04	pdfs/C2M59.pdf	images/thumbs/C2M59_t.jpg	images/C2M59.png	\N	\N	\N
+425	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	2	61	\N	\N	\N	f	f	2010-04-22 12:57:43.302238-04	pdfs/C2M61.pdf	images/thumbs/C2M61_t.jpg	images/C2M61.png	\N	\N	\N
+427	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	2	63	\N	\N	\N	f	f	2010-04-22 12:57:43.335577-04	pdfs/C2M63.pdf	images/thumbs/C2M63_t.jpg	images/C2M63.png	\N	\N	\N
+428	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	2	64	\N	\N	\N	f	f	2010-04-22 12:57:43.378195-04	pdfs/C2M64.pdf	images/thumbs/C2M64_t.jpg	images/C2M64.png	\N	\N	\N
+429	Licensed Businesses	Licensed_Businesses	\N	2	65	\N	\N	\N	f	f	2010-04-22 12:57:43.392994-04	pdfs/C2M65.pdf	images/thumbs/C2M65_t.jpg	images/C2M65.png	\N	\N	\N
+431	Human Services Programs	Human_Services_Programs	\N	2	67	\N	\N	\N	f	f	2010-04-22 12:57:43.425818-04	pdfs/C2M67.pdf	images/thumbs/C2M67_t.jpg	images/C2M67.png	\N	\N	\N
+432	Head Start	Head_Start	\N	2	68	\N	\N	\N	f	f	2010-04-22 12:57:43.440941-04	pdfs/C2M68.pdf	images/thumbs/C2M68_t.jpg	images/C2M68.png	\N	\N	\N
+433	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	2	69	\N	\N	\N	f	f	2010-04-22 12:57:43.457681-04	pdfs/C2M69.pdf	images/thumbs/C2M69_t.jpg	images/C2M69.png	\N	\N	\N
+435	Parks Master Plan Update	Parks_Master_Plan_Update	\N	2	70	\N	\N	\N	f	f	2010-04-22 12:57:43.475145-04	pdfs/C2M70.pdf	images/thumbs/C2M70_t.jpg	images/C2M70.png	\N	\N	\N
+440	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	2	73	\N	\N	\N	f	f	2010-04-22 12:57:43.523495-04	pdfs/C2M73.pdf	images/thumbs/C2M73_t.jpg	images/C2M73.png	\N	\N	\N
+441	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	2	74	\N	\N	\N	f	f	2010-04-22 12:57:43.538906-04	pdfs/C2M74.pdf	images/thumbs/C2M74_t.jpg	images/C2M74.png	\N	\N	\N
+442	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	2	75	\N	\N	\N	f	f	2010-04-22 12:57:43.556864-04	pdfs/C2M75.pdf	images/thumbs/C2M75_t.jpg	images/C2M75.png	\N	\N	\N
+443	120% Area Mean Income	120%_Area_Mean_Income	\N	2	76	\N	\N	\N	f	f	2010-04-22 12:57:43.572781-04	pdfs/C2M76.pdf	images/thumbs/C2M76_t.jpg	images/C2M76.png	\N	\N	\N
+444	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	2	77	\N	\N	\N	f	f	2010-04-22 12:57:43.587792-04	pdfs/C2M77.pdf	images/thumbs/C2M77_t.jpg	images/C2M77.png	\N	\N	\N
+445	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	2	78	\N	\N	\N	f	f	2010-04-22 12:57:43.604531-04	pdfs/C2M78.pdf	images/thumbs/C2M78_t.jpg	images/C2M78.png	\N	\N	\N
+446	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	2	79	\N	\N	\N	f	f	2010-04-22 12:57:43.632583-04	pdfs/C2M79.pdf	images/thumbs/C2M79_t.jpg	images/C2M79.png	\N	\N	\N
+448	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	2	80	\N	\N	\N	f	f	2010-04-22 12:57:43.649043-04	pdfs/C2M80.pdf	images/thumbs/C2M80_t.jpg	images/C2M80.png	\N	\N	\N
+450	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	2	82	\N	\N	\N	f	f	2010-04-22 12:57:43.679761-04	pdfs/C2M82.pdf	images/thumbs/C2M82_t.jpg	images/C2M82.png	\N	\N	\N
+452	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	2	84	\N	\N	\N	f	f	2010-04-22 12:57:43.712153-04	pdfs/C2M84.pdf	images/thumbs/C2M84_t.jpg	images/C2M84.png	\N	\N	\N
+453	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	2	85	\N	\N	\N	f	f	2010-04-22 12:57:43.727325-04	pdfs/C2M85.pdf	images/thumbs/C2M85_t.jpg	images/C2M85.png	\N	\N	\N
+454	2009 Street Paving	2009_Street_Paving	\N	2	86	\N	\N	\N	f	f	2010-04-22 12:57:43.749366-04	pdfs/C2M86.pdf	images/thumbs/C2M86_t.jpg	images/C2M86.png	\N	\N	\N
+455	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	2	87	\N	\N	\N	f	f	2010-04-22 12:57:43.765168-04	pdfs/C2M87.pdf	images/thumbs/C2M87_t.jpg	images/C2M87.png	\N	\N	\N
+456	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	2	88	\N	\N	\N	f	f	2010-04-22 12:57:43.78367-04	pdfs/C2M88.pdf	images/thumbs/C2M88_t.jpg	images/C2M88.png	\N	\N	\N
+457	Zoning (Color)	Zoning_(Color)	\N	2	89	\N	\N	\N	f	f	2010-04-22 12:57:43.799315-04	pdfs/C2M89.pdf	images/thumbs/C2M89_t.jpg	images/C2M89.png	\N	\N	\N
+460	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	2	91	\N	\N	\N	f	f	2010-04-22 12:57:43.832712-04	pdfs/C2M91.pdf	images/thumbs/C2M91_t.jpg	images/C2M91.png	\N	\N	\N
+462	Future Land Use	Future_Land_Use	\N	3	1	\N	\N	\N	f	f	2010-04-22 12:58:10.280818-04	pdfs/C3M1.pdf	images/thumbs/C3M1_t.jpg	images/C3M1.png	\N	\N	\N
+464	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	3	11	\N	\N	\N	f	f	2010-04-22 12:58:11.363723-04	pdfs/C3M11.pdf	images/thumbs/C3M11_t.jpg	images/C3M11.png	\N	\N	\N
+434	Insitutional Uses	Insitutional_Uses	\N	2	7	\N	\N	\N	f	f	2010-04-22 12:57:42.431962-04	pdfs/C2M7.pdf	images/thumbs/C2M7_t.jpg	images/C2M7.png	\N	\N	\N
+411	Bus Routes	Bus_Routes	\N	2	5	\N	\N	\N	f	f	2010-04-22 12:57:42.399617-04	pdfs/C2M5.pdf	images/thumbs/C2M5_t.jpg	images/C2M5.png	\N	\N	\N
+447	Historic Sites	Historic_Sites	\N	2	8	\N	\N	\N	f	f	2010-04-22 12:57:42.447387-04	pdfs/C2M8.pdf	images/thumbs/C2M8_t.jpg	images/C2M8.png	\N	\N	\N
+458	2000 Aerial Photo	2000_Aerial_Photo	\N	2	9	\N	\N	\N	f	f	2010-04-22 12:57:42.462649-04	pdfs/C2M9.pdf	images/thumbs/C2M9_t.jpg	images/C2M9.png	\N	\N	\N
 470	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	3	16	\N	\N	\N	f	t	2010-04-05 16:01:23.03258-04	pdfs/C3M16Color.pdf			\N	\N	\N
 472	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	3	17	\N	2007	1	f	f	2010-04-05 16:01:23.884423-04	pdfs/C3M17a_07.pdf			\N	\N	\N
 473	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	3	17	\N	2008	1	f	f	2010-04-05 16:01:24.031655-04	pdfs/C3M17a_08.pdf			\N	\N	\N
@@ -12733,12 +12733,12 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 517	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2009	1	f	f	2010-04-05 16:01:27.702351-04	pdfs/C3M21a_09.pdf			\N	\N	\N
 518	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2007	2	f	f	2010-04-05 16:01:27.790587-04	pdfs/C3M21b_07.pdf			\N	\N	\N
 519	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2008	2	f	f	2010-04-05 16:01:27.846807-04	pdfs/C3M21b_08.pdf			\N	\N	\N
-466	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	3	13	\N	\N	\N	f	f	2010-04-08 15:07:25.929967-04	pdfs/C3M13.pdf	images/thumbs/C3M13_t.png	images/C3M13.png	\N	\N	\N
-467	ONCR	ONCR	\N	3	14	\N	\N	\N	f	f	2010-04-08 15:07:26.17783-04	pdfs/C3M14.pdf	images/thumbs/C3M14_t.png	images/C3M14.png	\N	\N	\N
-469	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	3	16	\N	\N	\N	f	f	2010-04-08 15:07:26.717771-04	pdfs/C3M16.pdf	images/thumbs/C3M16_t.png	images/C3M16.png	\N	\N	\N
-501	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	3	19	\N	2009	4	f	f	2010-04-08 15:07:27.19057-04	pdfs/C3M19d_09.pdf	images/thumbs/C3M19d_09_t.png	images/C3M19d_09.png	\N	\N	\N
-514	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	3	20	\N	2009	4	f	f	2010-04-08 15:07:27.452647-04	pdfs/C3M20d_09.pdf	images/thumbs/C3M20d_09_t.png	images/C3M20d_09.png	\N	\N	\N
-502	Zoning	Zoning	\N	3	2	\N	\N	\N	f	f	2010-04-08 15:07:22.859309-04	pdfs/C3M2.pdf	images/thumbs/C3M2_t.png	images/C3M2.png	\N	\N	\N
+469	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	3	16	\N	\N	\N	f	f	2010-04-22 12:58:11.861766-04	pdfs/C3M16.pdf	images/thumbs/C3M16_t.jpg	images/C3M16.png	\N	\N	\N
+501	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	3	19	\N	2009	4	f	f	2010-04-22 12:58:11.933156-04	pdfs/C3M19d_09.pdf	images/thumbs/C3M19d_09_t.jpg	images/C3M19d_09.png	\N	\N	\N
+514	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	3	20	\N	2009	4	f	f	2010-04-22 12:58:11.951861-04	pdfs/C3M20d_09.pdf	images/thumbs/C3M20d_09_t.jpg	images/C3M20d_09.png	\N	\N	\N
+502	Zoning	Zoning	\N	3	2	\N	\N	\N	f	f	2010-04-22 12:58:10.410438-04	pdfs/C3M2.pdf	images/thumbs/C3M2_t.jpg	images/C3M2.png	\N	\N	\N
+466	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	3	13	\N	\N	\N	f	f	2010-04-22 12:58:11.517013-04	pdfs/C3M13.pdf	images/thumbs/C3M13_t.jpg	images/C3M13.png	\N	\N	\N
+467	ONCR	ONCR	\N	3	14	\N	\N	\N	f	f	2010-04-22 12:58:11.593855-04	pdfs/C3M14.pdf	images/thumbs/C3M14_t.jpg	images/C3M14.png	\N	\N	\N
 520	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2009	2	f	f	2010-04-05 16:01:27.919274-04	pdfs/C3M21b_09.pdf			\N	\N	\N
 521	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2007	3	f	f	2010-04-05 16:01:27.974919-04	pdfs/C3M21c_07.pdf			\N	\N	\N
 522	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2008	3	f	f	2010-04-05 16:01:28.02119-04	pdfs/C3M21c_08.pdf			\N	\N	\N
@@ -12765,30 +12765,30 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 571	2005 Land Use (Color)	2005_Land_Use_(Color)	\N	3	50	\N	\N	\N	f	f	2010-04-05 16:01:32.413547-04	pdfs/C3M50.pdf			\N	\N	\N
 572	2005 Aerail Photo (Color)	2005_Aerail_Photo_(Color)	\N	3	51	\N	\N	\N	f	f	2010-04-05 16:01:32.494665-04	pdfs/C3M51.pdf			\N	\N	\N
 573	Zip Codes	Zip_Codes	\N	3	52	\N	\N	\N	f	f	2010-04-05 16:01:32.622063-04	pdfs/C3M52.pdf			\N	\N	\N
-570	Bus Routes	Bus_Routes	\N	3	5	\N	\N	\N	f	f	2010-04-08 15:07:23.729761-04	pdfs/C3M5.pdf	images/thumbs/C3M5_t.png	images/C3M5.png	\N	\N	\N
-526	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2009	4	f	f	2010-04-08 15:07:27.688752-04	pdfs/C3M21d_09.pdf	images/thumbs/C3M21d_09_t.png	images/C3M21d_09.png	\N	\N	\N
-539	Change in Housing Units	Change_in_Housing_Units	\N	3	23	\N	\N	\N	f	f	2010-04-08 15:07:28.143668-04	pdfs/C3M23.pdf	images/thumbs/C3M23_t.png	images/C3M23.png	\N	\N	\N
-540	Change in Population	Change_in_Population	\N	3	24	\N	\N	\N	f	f	2010-04-08 15:07:28.468188-04	pdfs/C3M24.pdf	images/thumbs/C3M24_t.png	images/C3M24.png	\N	\N	\N
-542	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	3	26	\N	\N	\N	f	f	2010-04-08 15:07:29.263466-04	pdfs/C3M26.pdf	images/thumbs/C3M26_t.png	images/C3M26.png	\N	\N	\N
-543	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	3	27	\N	\N	\N	f	f	2010-04-08 15:07:29.559938-04	pdfs/C3M27.pdf	images/thumbs/C3M27_t.png	images/C3M27.png	\N	\N	\N
-544	Median Rent	Median_Rent	\N	3	28	\N	\N	\N	f	f	2010-04-08 15:07:29.820029-04	pdfs/C3M28.pdf	images/thumbs/C3M28_t.png	images/C3M28.png	\N	\N	\N
-545	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	3	29	\N	\N	\N	f	f	2010-04-08 15:07:30.158151-04	pdfs/C3M29.pdf	images/thumbs/C3M29_t.png	images/C3M29.png	\N	\N	\N
-548	Households without Vehicles	Households_without_Vehicles	\N	3	30	\N	\N	\N	f	f	2010-04-08 15:07:30.593241-04	pdfs/C3M30.pdf	images/thumbs/C3M30_t.png	images/C3M30.png	\N	\N	\N
-549	Median Income	Median_Income	\N	3	31	\N	\N	\N	f	f	2010-04-08 15:07:30.934441-04	pdfs/C3M31.pdf	images/thumbs/C3M31_t.png	images/C3M31.png	\N	\N	\N
-551	Foreign Born Population	Foreign_Born_Population	\N	3	33	\N	\N	\N	f	f	2010-04-08 15:07:31.495949-04	pdfs/C3M33.pdf	images/thumbs/C3M33_t.png	images/C3M33.png	\N	\N	\N
-552	Employment Sites	Employment_Sites	\N	3	34	\N	\N	\N	f	f	2010-04-08 15:07:31.765636-04	pdfs/C3M34.pdf	images/thumbs/C3M34_t.png	images/C3M34.png	\N	\N	\N
-554	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	3	36	\N	\N	\N	f	f	2010-04-08 15:07:32.289299-04	pdfs/C3M36.pdf	images/thumbs/C3M36_t.png	images/C3M36.png	\N	\N	\N
-555	DPS Sites	DPS_Sites	\N	3	37	\N	\N	\N	f	f	2010-04-08 15:07:32.668867-04	pdfs/C3M37.pdf	images/thumbs/C3M37_t.png	images/C3M37.png	\N	\N	\N
-556	Other Schools	Other_Schools	\N	3	38	\N	\N	\N	f	f	2010-04-08 15:07:33.121065-04	pdfs/C3M38.pdf	images/thumbs/C3M38_t.png	images/C3M38.png	\N	\N	\N
-559	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	3	40	\N	\N	\N	f	f	2010-04-08 15:07:33.857083-04	pdfs/C3M40.pdf	images/thumbs/C3M40_t.png	images/C3M40.png	\N	\N	\N
-560	Elderly Population	Elderly_Population	\N	3	41	\N	\N	\N	f	f	2010-04-08 15:07:34.392017-04	pdfs/C3M41.pdf	images/thumbs/C3M41_t.png	images/C3M41.png	\N	\N	\N
-561	Greenways	Greenways	\N	3	42	\N	\N	\N	f	f	2010-04-08 15:07:34.695696-04	pdfs/C3M42.pdf	images/thumbs/C3M42_t.png	images/C3M42.png	\N	\N	\N
-562	Truck Routes	Truck_Routes	\N	3	43	\N	\N	\N	f	f	2010-04-08 15:07:35.005997-04	pdfs/C3M43.pdf	images/thumbs/C3M43_t.png	images/C3M43.png	\N	\N	\N
-564	Low/Moderate Income	Low/Moderate_Income	\N	3	45	\N	\N	\N	f	f	2010-04-08 15:07:35.603844-04	pdfs/C3M45.pdf	images/thumbs/C3M45_t.png	images/C3M45.png	\N	\N	\N
-574	Births	Births	\N	3	53	\N	\N	\N	f	f	2010-04-08 15:07:36.161897-04	pdfs/C3M53.pdf	images/thumbs/C3M53_t.png	images/C3M53.png	\N	\N	\N
-575	Deaths	Deaths	\N	3	54	\N	\N	\N	f	f	2010-04-08 15:07:36.442922-04	pdfs/C3M54.pdf	images/thumbs/C3M54_t.png	images/C3M54.png	\N	\N	\N
-576	Crime	Crime	\N	3	55	\N	\N	\N	f	f	2010-04-08 15:07:36.734424-04	pdfs/C3M55.pdf	images/thumbs/C3M55_t.png	images/C3M55.png	\N	\N	\N
-578	Fires	Fires	\N	3	57	\N	\N	\N	f	f	2010-04-08 15:07:37.184266-04	pdfs/C3M57.pdf	images/thumbs/C3M57_t.png	images/C3M57.png	\N	\N	\N
+539	Change in Housing Units	Change_in_Housing_Units	\N	3	23	\N	\N	\N	f	f	2010-04-22 12:58:12.033972-04	pdfs/C3M23.pdf	images/thumbs/C3M23_t.jpg	images/C3M23.png	\N	\N	\N
+540	Change in Population	Change_in_Population	\N	3	24	\N	\N	\N	f	f	2010-04-22 12:58:12.049037-04	pdfs/C3M24.pdf	images/thumbs/C3M24_t.jpg	images/C3M24.png	\N	\N	\N
+542	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	3	26	\N	\N	\N	f	f	2010-04-22 12:58:12.083373-04	pdfs/C3M26.pdf	images/thumbs/C3M26_t.jpg	images/C3M26.png	\N	\N	\N
+543	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	3	27	\N	\N	\N	f	f	2010-04-22 12:58:12.098192-04	pdfs/C3M27.pdf	images/thumbs/C3M27_t.jpg	images/C3M27.png	\N	\N	\N
+544	Median Rent	Median_Rent	\N	3	28	\N	\N	\N	f	f	2010-04-22 12:58:12.120097-04	pdfs/C3M28.pdf	images/thumbs/C3M28_t.jpg	images/C3M28.png	\N	\N	\N
+545	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	3	29	\N	\N	\N	f	f	2010-04-22 12:58:12.142129-04	pdfs/C3M29.pdf	images/thumbs/C3M29_t.jpg	images/C3M29.png	\N	\N	\N
+548	Households without Vehicles	Households_without_Vehicles	\N	3	30	\N	\N	\N	f	f	2010-04-22 12:58:12.183772-04	pdfs/C3M30.pdf	images/thumbs/C3M30_t.jpg	images/C3M30.png	\N	\N	\N
+549	Median Income	Median_Income	\N	3	31	\N	\N	\N	f	f	2010-04-22 12:58:12.203587-04	pdfs/C3M31.pdf	images/thumbs/C3M31_t.jpg	images/C3M31.png	\N	\N	\N
+551	Foreign Born Population	Foreign_Born_Population	\N	3	33	\N	\N	\N	f	f	2010-04-22 12:58:12.362739-04	pdfs/C3M33.pdf	images/thumbs/C3M33_t.jpg	images/C3M33.png	\N	\N	\N
+552	Employment Sites	Employment_Sites	\N	3	34	\N	\N	\N	f	f	2010-04-22 12:58:12.410182-04	pdfs/C3M34.pdf	images/thumbs/C3M34_t.jpg	images/C3M34.png	\N	\N	\N
+554	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	3	36	\N	\N	\N	f	f	2010-04-22 12:58:12.487965-04	pdfs/C3M36.pdf	images/thumbs/C3M36_t.jpg	images/C3M36.png	\N	\N	\N
+555	DPS Sites	DPS_Sites	\N	3	37	\N	\N	\N	f	f	2010-04-22 12:58:12.534731-04	pdfs/C3M37.pdf	images/thumbs/C3M37_t.jpg	images/C3M37.png	\N	\N	\N
+556	Other Schools	Other_Schools	\N	3	38	\N	\N	\N	f	f	2010-04-22 12:58:12.59409-04	pdfs/C3M38.pdf	images/thumbs/C3M38_t.jpg	images/C3M38.png	\N	\N	\N
+559	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	3	40	\N	\N	\N	f	f	2010-04-22 12:58:12.694927-04	pdfs/C3M40.pdf	images/thumbs/C3M40_t.jpg	images/C3M40.png	\N	\N	\N
+560	Elderly Population	Elderly_Population	\N	3	41	\N	\N	\N	f	f	2010-04-22 12:58:12.791499-04	pdfs/C3M41.pdf	images/thumbs/C3M41_t.jpg	images/C3M41.png	\N	\N	\N
+561	Greenways	Greenways	\N	3	42	\N	\N	\N	f	f	2010-04-22 12:58:12.856735-04	pdfs/C3M42.pdf	images/thumbs/C3M42_t.jpg	images/C3M42.png	\N	\N	\N
+562	Truck Routes	Truck_Routes	\N	3	43	\N	\N	\N	f	f	2010-04-22 12:58:12.872546-04	pdfs/C3M43.pdf	images/thumbs/C3M43_t.jpg	images/C3M43.png	\N	\N	\N
+564	Low/Moderate Income	Low/Moderate_Income	\N	3	45	\N	\N	\N	f	f	2010-04-22 12:58:12.954076-04	pdfs/C3M45.pdf	images/thumbs/C3M45_t.jpg	images/C3M45.png	\N	\N	\N
+574	Births	Births	\N	3	53	\N	\N	\N	f	f	2010-04-22 12:58:13.076419-04	pdfs/C3M53.pdf	images/thumbs/C3M53_t.jpg	images/C3M53.png	\N	\N	\N
+575	Deaths	Deaths	\N	3	54	\N	\N	\N	f	f	2010-04-22 12:58:13.130511-04	pdfs/C3M54.pdf	images/thumbs/C3M54_t.jpg	images/C3M54.png	\N	\N	\N
+576	Crime	Crime	\N	3	55	\N	\N	\N	f	f	2010-04-22 12:58:13.176172-04	pdfs/C3M55.pdf	images/thumbs/C3M55_t.jpg	images/C3M55.png	\N	\N	\N
+578	Fires	Fires	\N	3	57	\N	\N	\N	f	f	2010-04-22 12:58:13.244607-04	pdfs/C3M57.pdf	images/thumbs/C3M57_t.jpg	images/C3M57.png	\N	\N	\N
+570	Bus Routes	Bus_Routes	\N	3	5	\N	\N	\N	f	f	2010-04-22 12:58:10.789805-04	pdfs/C3M5.pdf	images/thumbs/C3M5_t.jpg	images/C3M5.png	\N	\N	\N
+526	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	3	21	\N	2009	4	f	f	2010-04-22 12:58:11.968362-04	pdfs/C3M21d_09.pdf	images/thumbs/C3M21d_09_t.jpg	images/C3M21d_09.png	\N	\N	\N
 580	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	3	58	\N	\N	\N	t	f	2010-04-05 16:01:33.060778-04	pdfs/C3M58AppendixC.pdf			\N	\N	\N
 596	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	3	71	\N	\N	\N	t	f	2010-04-05 16:01:34.237399-04	pdfs/C3M71AppendixD.pdf			\N	\N	\N
 598	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	3	72	\N	\N	\N	t	f	2010-04-05 16:01:34.455418-04	pdfs/C3M72AppendixE.pdf			\N	\N	\N
@@ -12802,40 +12802,39 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 635	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2009	2	f	f	2010-04-05 16:01:39.416399-04	pdfs/C4M17b_09.pdf			\N	\N	\N
 636	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2007	3	f	f	2010-04-05 16:01:39.482938-04	pdfs/C4M17c_07.pdf			\N	\N	\N
 637	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2008	3	f	f	2010-04-05 16:01:39.573411-04	pdfs/C4M17c_08.pdf			\N	\N	\N
-625	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	4	13	\N	\N	\N	f	f	2010-04-19 15:57:56.80786-04	pdfs/C4M13.pdf	images/thumbs/C4M13_t_.png	images/C4M13.png	\N	\N	\N
-626	ONCR	ONCR	\N	4	14	\N	\N	\N	f	f	2010-04-19 15:57:57.446447-04	pdfs/C4M14.pdf	images/thumbs/C4M14_t_.png	images/C4M14.png	\N	\N	\N
-627	City & State Ownership	City_&_State_Ownership	\N	4	15	\N	\N	\N	f	f	2010-04-19 15:57:58.119882-04	pdfs/C4M15.pdf	images/thumbs/C4M15_t_.png	images/C4M15.png	\N	\N	\N
-582	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	3	6	\N	\N	\N	f	f	2010-04-08 15:07:24.013016-04	pdfs/C3M6.pdf	images/thumbs/C3M6_t.png	images/C3M6.png	\N	\N	\N
-593	Insitutional Uses	Insitutional_Uses	\N	3	7	\N	\N	\N	f	f	2010-04-08 15:07:24.250546-04	pdfs/C3M7.pdf	images/thumbs/C3M7_t.png	images/C3M7.png	\N	\N	\N
-606	Historic Sites	Historic_Sites	\N	3	8	\N	\N	\N	f	f	2010-04-08 15:07:24.546332-04	pdfs/C3M8.pdf	images/thumbs/C3M8_t.png	images/C3M8.png	\N	\N	\N
-617	2000 Aerial Photo	2000_Aerial_Photo	\N	3	9	\N	\N	\N	f	f	2010-04-08 15:07:24.873786-04	pdfs/C3M9.pdf	images/thumbs/C3M9_t.png	images/C3M9.png	\N	\N	\N
-581	Sales	Sales	\N	3	59	\N	\N	\N	f	f	2010-04-08 15:07:37.650611-04	pdfs/C3M59.pdf	images/thumbs/C3M59_t.png	images/C3M59.png	\N	\N	\N
-583	Registered Voters	Registered_Voters	\N	3	60	\N	\N	\N	f	f	2010-04-08 15:07:37.900131-04	pdfs/C3M60.pdf	images/thumbs/C3M60_t.png	images/C3M60.png	\N	\N	\N
-585	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	3	62	\N	\N	\N	f	f	2010-04-08 15:07:38.435874-04	pdfs/C3M62.pdf	images/thumbs/C3M62_t.png	images/C3M62.png	\N	\N	\N
-586	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	3	63	\N	\N	\N	f	f	2010-04-08 15:07:38.716141-04	pdfs/C3M63.pdf	images/thumbs/C3M63_t.png	images/C3M63.png	\N	\N	\N
-587	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	3	64	\N	\N	\N	f	f	2010-04-08 15:07:38.976129-04	pdfs/C3M64.pdf	images/thumbs/C3M64_t.png	images/C3M64.png	\N	\N	\N
-588	Licensed Businesses	Licensed_Businesses	\N	3	65	\N	\N	\N	f	f	2010-04-08 15:07:39.382553-04	pdfs/C3M65.pdf	images/thumbs/C3M65_t.png	images/C3M65.png	\N	\N	\N
-590	Human Services Programs	Human_Services_Programs	\N	3	67	\N	\N	\N	f	f	2010-04-08 15:07:39.844833-04	pdfs/C3M67.pdf	images/thumbs/C3M67_t.png	images/C3M67.png	\N	\N	\N
-591	Head Start	Head_Start	\N	3	68	\N	\N	\N	f	f	2010-04-08 15:07:40.131115-04	pdfs/C3M68.pdf	images/thumbs/C3M68_t.png	images/C3M68.png	\N	\N	\N
-594	Parks Master Plan Update	Parks_Master_Plan_Update	\N	3	70	\N	\N	\N	f	f	2010-04-08 15:07:40.737933-04	pdfs/C3M70.pdf	images/thumbs/C3M70_t.png	images/C3M70.png	\N	\N	\N
-597	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	3	72	\N	\N	\N	f	f	2010-04-08 15:07:41.489597-04	pdfs/C3M72.pdf	images/thumbs/C3M72_t.png	images/C3M72.png	\N	\N	\N
-599	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	3	73	\N	\N	\N	f	f	2010-04-08 15:07:42.063078-04	pdfs/C3M73.pdf	images/thumbs/C3M73_t.png	images/C3M73.png	\N	\N	\N
-600	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	3	74	\N	\N	\N	f	f	2010-04-08 15:07:42.383118-04	pdfs/C3M74.pdf	images/thumbs/C3M74_t.png	images/C3M74.png	\N	\N	\N
-601	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	3	75	\N	\N	\N	f	f	2010-04-08 15:07:42.599742-04	pdfs/C3M75.pdf	images/thumbs/C3M75_t.png	images/C3M75.png	\N	\N	\N
-602	120% Area Mean Income	120%_Area_Mean_Income	\N	3	76	\N	\N	\N	f	f	2010-04-08 15:07:42.835395-04	pdfs/C3M76.pdf	images/thumbs/C3M76_t.png	images/C3M76.png	\N	\N	\N
-604	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	3	78	\N	\N	\N	f	f	2010-04-08 15:07:43.349653-04	pdfs/C3M78.pdf	images/thumbs/C3M78_t.png	images/C3M78.png	\N	\N	\N
-605	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	3	79	\N	\N	\N	f	f	2010-04-08 15:07:43.58078-04	pdfs/C3M79.pdf	images/thumbs/C3M79_t.png	images/C3M79.png	\N	\N	\N
-607	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	3	80	\N	\N	\N	f	f	2010-04-08 15:07:43.812982-04	pdfs/C3M80.pdf	images/thumbs/C3M80_t.png	images/C3M80.png	\N	\N	\N
-608	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	3	81	\N	\N	\N	f	f	2010-04-08 15:07:44.072144-04	pdfs/C3M81.pdf	images/thumbs/C3M81_t.png	images/C3M81.png	\N	\N	\N
-611	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	3	84	\N	\N	\N	f	f	2010-04-08 15:07:44.72175-04	pdfs/C3M84.pdf	images/thumbs/C3M84_t.png	images/C3M84.png	\N	\N	\N
-612	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	3	85	\N	\N	\N	f	f	2010-04-08 15:07:44.93648-04	pdfs/C3M85.pdf	images/thumbs/C3M85_t.png	images/C3M85.png	\N	\N	\N
-613	2009 Street Paving	2009_Street_Paving	\N	3	86	\N	\N	\N	f	f	2010-04-08 15:07:45.151189-04	pdfs/C3M86.pdf	images/thumbs/C3M86_t.png	images/C3M86.png	\N	\N	\N
-614	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	3	87	\N	\N	\N	f	f	2010-04-08 15:07:45.384637-04	pdfs/C3M87.pdf	images/thumbs/C3M87_t.png	images/C3M87.png	\N	\N	\N
-615	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	3	88	\N	\N	\N	f	f	2010-04-08 15:07:45.619236-04	pdfs/C3M88.pdf	images/thumbs/C3M88_t.png	images/C3M88.png	\N	\N	\N
-616	Zoning (Color)	Zoning_(Color)	\N	3	89	\N	\N	\N	f	f	2010-04-08 15:07:45.842423-04	pdfs/C3M89.pdf	images/thumbs/C3M89_t.png	images/C3M89.png	\N	\N	\N
-618	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	3	90	\N	\N	\N	f	f	2010-04-08 15:07:46.065932-04	pdfs/C3M90.pdf	images/thumbs/C3M90_t.png	images/C3M90.png	\N	\N	\N
-622	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	4	10	\N	\N	\N	f	f	2010-04-19 15:57:54.824827-04	pdfs/C4M10.pdf	images/thumbs/C4M10_t_.png	images/C4M10.png	\N	\N	\N
-624	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	4	12	\N	\N	\N	f	f	2010-04-19 15:57:56.162528-04	pdfs/C4M12.pdf	images/thumbs/C4M12_t_.png	images/C4M12.png	\N	\N	\N
+627	City & State Ownership	City_&_State_Ownership	\N	4	15	\N	\N	\N	f	f	2010-04-22 12:57:44.24325-04	pdfs/C4M15.pdf	images/thumbs/C4M15_t.jpg	images/C4M15.png	\N	\N	\N
+582	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	3	6	\N	\N	\N	f	f	2010-04-22 12:58:10.828974-04	pdfs/C3M6.pdf	images/thumbs/C3M6_t.jpg	images/C3M6.png	\N	\N	\N
+593	Insitutional Uses	Insitutional_Uses	\N	3	7	\N	\N	\N	f	f	2010-04-22 12:58:10.910255-04	pdfs/C3M7.pdf	images/thumbs/C3M7_t.jpg	images/C3M7.png	\N	\N	\N
+624	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	4	12	\N	\N	\N	f	f	2010-04-22 12:57:44.187234-04	pdfs/C4M12.pdf	images/thumbs/C4M12_t.jpg	images/C4M12.png	\N	\N	\N
+606	Historic Sites	Historic_Sites	\N	3	8	\N	\N	\N	f	f	2010-04-22 12:58:11.039736-04	pdfs/C3M8.pdf	images/thumbs/C3M8_t.jpg	images/C3M8.png	\N	\N	\N
+617	2000 Aerial Photo	2000_Aerial_Photo	\N	3	9	\N	\N	\N	f	f	2010-04-22 12:58:11.119075-04	pdfs/C3M9.pdf	images/thumbs/C3M9_t.jpg	images/C3M9.png	\N	\N	\N
+581	Sales	Sales	\N	3	59	\N	\N	\N	f	f	2010-04-22 12:58:13.301565-04	pdfs/C3M59.pdf	images/thumbs/C3M59_t.jpg	images/C3M59.png	\N	\N	\N
+583	Registered Voters	Registered_Voters	\N	3	60	\N	\N	\N	f	f	2010-04-22 12:58:13.323009-04	pdfs/C3M60.pdf	images/thumbs/C3M60_t.jpg	images/C3M60.png	\N	\N	\N
+585	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	3	62	\N	\N	\N	f	f	2010-04-22 12:58:13.420959-04	pdfs/C3M62.pdf	images/thumbs/C3M62_t.jpg	images/C3M62.png	\N	\N	\N
+587	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	3	64	\N	\N	\N	f	f	2010-04-22 12:58:13.468376-04	pdfs/C3M64.pdf	images/thumbs/C3M64_t.jpg	images/C3M64.png	\N	\N	\N
+588	Licensed Businesses	Licensed_Businesses	\N	3	65	\N	\N	\N	f	f	2010-04-22 12:58:13.507881-04	pdfs/C3M65.pdf	images/thumbs/C3M65_t.jpg	images/C3M65.png	\N	\N	\N
+590	Human Services Programs	Human_Services_Programs	\N	3	67	\N	\N	\N	f	f	2010-04-22 12:58:13.591614-04	pdfs/C3M67.pdf	images/thumbs/C3M67_t.jpg	images/C3M67.png	\N	\N	\N
+591	Head Start	Head_Start	\N	3	68	\N	\N	\N	f	f	2010-04-22 12:58:13.638915-04	pdfs/C3M68.pdf	images/thumbs/C3M68_t.jpg	images/C3M68.png	\N	\N	\N
+594	Parks Master Plan Update	Parks_Master_Plan_Update	\N	3	70	\N	\N	\N	f	f	2010-04-22 12:58:13.688112-04	pdfs/C3M70.pdf	images/thumbs/C3M70_t.jpg	images/C3M70.png	\N	\N	\N
+597	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	3	72	\N	\N	\N	f	f	2010-04-22 12:58:13.721967-04	pdfs/C3M72.pdf	images/thumbs/C3M72_t.jpg	images/C3M72.png	\N	\N	\N
+599	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	3	73	\N	\N	\N	f	f	2010-04-22 12:58:13.74357-04	pdfs/C3M73.pdf	images/thumbs/C3M73_t.jpg	images/C3M73.png	\N	\N	\N
+600	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	3	74	\N	\N	\N	f	f	2010-04-22 12:58:13.76281-04	pdfs/C3M74.pdf	images/thumbs/C3M74_t.jpg	images/C3M74.png	\N	\N	\N
+601	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	3	75	\N	\N	\N	f	f	2010-04-22 12:58:13.779568-04	pdfs/C3M75.pdf	images/thumbs/C3M75_t.jpg	images/C3M75.png	\N	\N	\N
+602	120% Area Mean Income	120%_Area_Mean_Income	\N	3	76	\N	\N	\N	f	f	2010-04-22 12:58:13.817443-04	pdfs/C3M76.pdf	images/thumbs/C3M76_t.jpg	images/C3M76.png	\N	\N	\N
+604	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	3	78	\N	\N	\N	f	f	2010-04-22 12:58:13.881193-04	pdfs/C3M78.pdf	images/thumbs/C3M78_t.jpg	images/C3M78.png	\N	\N	\N
+605	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	3	79	\N	\N	\N	f	f	2010-04-22 12:58:13.899656-04	pdfs/C3M79.pdf	images/thumbs/C3M79_t.jpg	images/C3M79.png	\N	\N	\N
+607	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	3	80	\N	\N	\N	f	f	2010-04-22 12:58:13.930238-04	pdfs/C3M80.pdf	images/thumbs/C3M80_t.jpg	images/C3M80.png	\N	\N	\N
+608	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	3	81	\N	\N	\N	f	f	2010-04-22 12:58:13.945893-04	pdfs/C3M81.pdf	images/thumbs/C3M81_t.jpg	images/C3M81.png	\N	\N	\N
+611	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	3	84	\N	\N	\N	f	f	2010-04-22 12:58:14.054624-04	pdfs/C3M84.pdf	images/thumbs/C3M84_t.jpg	images/C3M84.png	\N	\N	\N
+612	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	3	85	\N	\N	\N	f	f	2010-04-22 12:58:14.092833-04	pdfs/C3M85.pdf	images/thumbs/C3M85_t.jpg	images/C3M85.png	\N	\N	\N
+613	2009 Street Paving	2009_Street_Paving	\N	3	86	\N	\N	\N	f	f	2010-04-22 12:58:14.108784-04	pdfs/C3M86.pdf	images/thumbs/C3M86_t.jpg	images/C3M86.png	\N	\N	\N
+614	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	3	87	\N	\N	\N	f	f	2010-04-22 12:58:14.126099-04	pdfs/C3M87.pdf	images/thumbs/C3M87_t.jpg	images/C3M87.png	\N	\N	\N
+615	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	3	88	\N	\N	\N	f	f	2010-04-22 12:58:14.197244-04	pdfs/C3M88.pdf	images/thumbs/C3M88_t.jpg	images/C3M88.png	\N	\N	\N
+616	Zoning (Color)	Zoning_(Color)	\N	3	89	\N	\N	\N	f	f	2010-04-22 12:58:14.231513-04	pdfs/C3M89.pdf	images/thumbs/C3M89_t.jpg	images/C3M89.png	\N	\N	\N
+618	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	3	90	\N	\N	\N	f	f	2010-04-22 12:58:14.304245-04	pdfs/C3M90.pdf	images/thumbs/C3M90_t.jpg	images/C3M90.png	\N	\N	\N
+622	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	4	10	\N	\N	\N	f	f	2010-04-22 12:57:44.143995-04	pdfs/C4M10.pdf	images/thumbs/C4M10_t.jpg	images/C4M10.png	\N	\N	\N
+625	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	4	13	\N	\N	\N	f	f	2010-04-22 12:57:44.206355-04	pdfs/C4M13.pdf	images/thumbs/C4M13_t.jpg	images/C4M13.png	\N	\N	\N
+626	ONCR	ONCR	\N	4	14	\N	\N	\N	f	f	2010-04-22 12:57:44.22291-04	pdfs/C4M14.pdf	images/thumbs/C4M14_t.jpg	images/C4M14.png	\N	\N	\N
 638	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2009	3	f	f	2010-04-05 16:01:39.665875-04	pdfs/C4M17c_09.pdf			\N	\N	\N
 639	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2007	4	f	f	2010-04-05 16:01:39.725923-04	pdfs/C4M17d_07.pdf			\N	\N	\N
 640	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2008	4	f	f	2010-04-05 16:01:39.793427-04	pdfs/C4M17d_08.pdf			\N	\N	\N
@@ -12884,8 +12883,8 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 688	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2007	2	f	f	2010-04-05 16:01:43.629064-04	pdfs/C4M22b_07.pdf			\N	\N	\N
 689	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2008	2	f	f	2010-04-05 16:01:43.679499-04	pdfs/C4M22b_08.pdf			\N	\N	\N
 690	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2009	2	f	f	2010-04-05 16:01:43.768304-04	pdfs/C4M22b_09.pdf			\N	\N	\N
-659	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	4	19	\N	2009	4	f	f	2010-04-19 15:58:00.064114-04	pdfs/C4M19d_09.pdf	images/thumbs/C4M19d_09_t_.png	images/C4M19d_09.png	\N	\N	\N
-672	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	4	20	\N	2009	4	f	f	2010-04-19 15:58:00.692616-04	pdfs/C4M20d_09.pdf	images/thumbs/C4M20d_09_t_.png	images/C4M20d_09.png	\N	\N	\N
+672	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	4	20	\N	2009	4	f	f	2010-04-22 12:57:44.336588-04	pdfs/C4M20d_09.pdf	images/thumbs/C4M20d_09_t.jpg	images/C4M20d_09.png	\N	\N	\N
+659	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	4	19	\N	2009	4	f	f	2010-04-22 12:57:44.312451-04	pdfs/C4M19d_09.pdf	images/thumbs/C4M19d_09_t.jpg	images/C4M19d_09.png	\N	\N	\N
 691	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2007	3	f	f	2010-04-05 16:01:43.862219-04	pdfs/C4M22c_07.pdf			\N	\N	\N
 692	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2008	3	f	f	2010-04-05 16:01:43.927849-04	pdfs/C4M22c_08.pdf			\N	\N	\N
 693	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2009	3	f	f	2010-04-05 16:01:43.977656-04	pdfs/C4M22c_09.pdf			\N	\N	\N
@@ -12901,40 +12900,40 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 730	2005 Aerail Photo (Color)	2005_Aerail_Photo_(Color)	\N	4	51	\N	\N	\N	f	f	2010-04-05 16:01:53.576778-04	pdfs/C4M51.pdf			\N	\N	\N
 731	Zip Codes	Zip_Codes	\N	4	52	\N	\N	\N	f	f	2010-04-05 16:01:54.23859-04	pdfs/C4M52.pdf			\N	\N	\N
 738	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	4	58	\N	\N	\N	t	f	2010-04-05 16:01:56.384771-04	pdfs/C4M58AppendixC.pdf			\N	\N	\N
-751	Insitutional Uses	Insitutional_Uses	\N	4	7	\N	\N	\N	f	f	2010-04-19 15:57:52.545643-04	pdfs/C4M7.pdf	images/thumbs/C4M7_t_.png	images/C4M7.png	\N	\N	\N
-697	Change in Housing Units	Change_in_Housing_Units	\N	4	23	\N	\N	\N	f	f	2010-04-19 15:58:02.994804-04	pdfs/C4M23.pdf	images/thumbs/C4M23_t_.png	images/C4M23.png	\N	\N	\N
-698	Change in Population	Change_in_Population	\N	4	24	\N	\N	\N	f	f	2010-04-19 15:58:03.651949-04	pdfs/C4M24.pdf	images/thumbs/C4M24_t_.png	images/C4M24.png	\N	\N	\N
-699	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	4	25	\N	\N	\N	f	f	2010-04-19 15:58:04.273296-04	pdfs/C4M25.pdf	images/thumbs/C4M25_t_.png	images/C4M25.png	\N	\N	\N
-701	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	4	27	\N	\N	\N	f	f	2010-04-19 15:58:05.639488-04	pdfs/C4M27.pdf	images/thumbs/C4M27_t_.png	images/C4M27.png	\N	\N	\N
-702	Median Rent	Median_Rent	\N	4	28	\N	\N	\N	f	f	2010-04-19 15:58:06.249884-04	pdfs/C4M28.pdf	images/thumbs/C4M28_t_.png	images/C4M28.png	\N	\N	\N
-703	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	4	29	\N	\N	\N	f	f	2010-04-19 15:58:06.924865-04	pdfs/C4M29.pdf	images/thumbs/C4M29_t_.png	images/C4M29.png	\N	\N	\N
-706	Households without Vehicles	Households_without_Vehicles	\N	4	30	\N	\N	\N	f	f	2010-04-19 15:58:07.725484-04	pdfs/C4M30.pdf	images/thumbs/C4M30_t_.png	images/C4M30.png	\N	\N	\N
-707	Median Income	Median_Income	\N	4	31	\N	\N	\N	f	f	2010-04-19 15:58:08.379174-04	pdfs/C4M31.pdf	images/thumbs/C4M31_t_.png	images/C4M31.png	\N	\N	\N
-709	Foreign Born Population	Foreign_Born_Population	\N	4	33	\N	\N	\N	f	f	2010-04-19 15:58:09.658082-04	pdfs/C4M33.pdf	images/thumbs/C4M33_t_.png	images/C4M33.png	\N	\N	\N
-710	Employment Sites	Employment_Sites	\N	4	34	\N	\N	\N	f	f	2010-04-19 15:58:10.272543-04	pdfs/C4M34.pdf	images/thumbs/C4M34_t_.png	images/C4M34.png	\N	\N	\N
-712	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	4	36	\N	\N	\N	f	f	2010-04-19 15:58:11.677972-04	pdfs/C4M36.pdf	images/thumbs/C4M36_t_.png	images/C4M36.png	\N	\N	\N
-713	DPS Sites	DPS_Sites	\N	4	37	\N	\N	\N	f	f	2010-04-19 15:58:12.623509-04	pdfs/C4M37.pdf	images/thumbs/C4M37_t_.png	images/C4M37.png	\N	\N	\N
-714	Other Schools	Other_Schools	\N	4	38	\N	\N	\N	f	f	2010-04-19 15:58:13.357095-04	pdfs/C4M38.pdf	images/thumbs/C4M38_t_.png	images/C4M38.png	\N	\N	\N
-717	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	4	40	\N	\N	\N	f	f	2010-04-19 15:58:14.721385-04	pdfs/C4M40.pdf	images/thumbs/C4M40_t_.png	images/C4M40.png	\N	\N	\N
-718	Elderly Population	Elderly_Population	\N	4	41	\N	\N	\N	f	f	2010-04-19 15:58:15.44615-04	pdfs/C4M41.pdf	images/thumbs/C4M41_t_.png	images/C4M41.png	\N	\N	\N
-719	Greenways	Greenways	\N	4	42	\N	\N	\N	f	f	2010-04-19 15:58:16.122958-04	pdfs/C4M42.pdf	images/thumbs/C4M42_t_.png	images/C4M42.png	\N	\N	\N
-720	Truck Routes	Truck_Routes	\N	4	43	\N	\N	\N	f	f	2010-04-19 15:58:16.764074-04	pdfs/C4M43.pdf	images/thumbs/C4M43_t_.png	images/C4M43.png	\N	\N	\N
-722	Low/Moderate Income	Low/Moderate_Income	\N	4	45	\N	\N	\N	f	f	2010-04-19 15:58:18.356713-04	pdfs/C4M45.pdf	images/thumbs/C4M45_t_.png	images/C4M45.png	\N	\N	\N
-732	Births	Births	\N	4	53	\N	\N	\N	f	f	2010-04-19 15:58:19.162468-04	pdfs/C4M53.pdf	images/thumbs/C4M53_t_.png	images/C4M53.png	\N	\N	\N
-733	Deaths	Deaths	\N	4	54	\N	\N	\N	f	f	2010-04-19 15:58:19.760144-04	pdfs/C4M54.pdf	images/thumbs/C4M54_t_.png	images/C4M54.png	\N	\N	\N
-735	Dangerous Buildings	Dangerous_Buildings	\N	4	56	\N	\N	\N	f	f	2010-04-19 15:58:21.31178-04	pdfs/C4M56.pdf	images/thumbs/C4M56_t_.png	images/C4M56.png	\N	\N	\N
-736	Fires	Fires	\N	4	57	\N	\N	\N	f	f	2010-04-19 15:58:21.97935-04	pdfs/C4M57.pdf	images/thumbs/C4M57_t_.png	images/C4M57.png	\N	\N	\N
-739	Sales	Sales	\N	4	59	\N	\N	\N	f	f	2010-04-19 15:58:23.714467-04	pdfs/C4M59.pdf	images/thumbs/C4M59_t_.png	images/C4M59.png	\N	\N	\N
-742	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	4	61	\N	\N	\N	f	f	2010-04-19 15:58:25.755213-04	pdfs/C4M61.pdf	images/thumbs/C4M61_t_.png	images/C4M61.png	\N	\N	\N
-743	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	4	62	\N	\N	\N	f	f	2010-04-19 15:58:26.386328-04	pdfs/C4M62.pdf	images/thumbs/C4M62_t_.png	images/C4M62.png	\N	\N	\N
-745	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	4	64	\N	\N	\N	f	f	2010-04-19 15:58:28.119472-04	pdfs/C4M64.pdf	images/thumbs/C4M64_t_.png	images/C4M64.png	\N	\N	\N
-746	Licensed Businesses	Licensed_Businesses	\N	4	65	\N	\N	\N	f	f	2010-04-19 15:58:29.931294-04	pdfs/C4M65.pdf	images/thumbs/C4M65_t_.png	images/C4M65.png	\N	\N	\N
-749	Head Start	Head_Start	\N	4	68	\N	\N	\N	f	f	2010-04-19 15:58:33.910194-04	pdfs/C4M68.pdf	images/thumbs/C4M68_t_.png	images/C4M68.png	\N	\N	\N
-750	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	4	69	\N	\N	\N	f	f	2010-04-19 15:58:34.583057-04	pdfs/C4M69.pdf	images/thumbs/C4M69_t_.png	images/C4M69.png	\N	\N	\N
-752	Parks Master Plan Update	Parks_Master_Plan_Update	\N	4	70	\N	\N	\N	f	f	2010-04-19 15:58:35.236257-04	pdfs/C4M70.pdf	images/thumbs/C4M70_t_.png	images/C4M70.png	\N	\N	\N
-753	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	4	71	\N	\N	\N	f	f	2010-04-19 15:58:36.048069-04	pdfs/C4M71.pdf	images/thumbs/C4M71_t_.png	images/C4M71.png	\N	\N	\N
-716	Transportation Network	Transportation_Network	\N	4	4	\N	\N	\N	f	f	2010-04-19 15:57:50.477567-04	pdfs/C4M4.pdf	images/thumbs/C4M4_t_.png	images/C4M4.png	\N	\N	\N
-728	Bus Routes	Bus_Routes	\N	4	5	\N	\N	\N	f	f	2010-04-19 15:57:51.232254-04	pdfs/C4M5.pdf	images/thumbs/C4M5_t_.png	images/C4M5.png	\N	\N	\N
+698	Change in Population	Change_in_Population	\N	4	24	\N	\N	\N	f	f	2010-04-22 12:57:44.423808-04	pdfs/C4M24.pdf	images/thumbs/C4M24_t.jpg	images/C4M24.png	\N	\N	\N
+699	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	4	25	\N	\N	\N	f	f	2010-04-22 12:57:44.442575-04	pdfs/C4M25.pdf	images/thumbs/C4M25_t.jpg	images/C4M25.png	\N	\N	\N
+701	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	4	27	\N	\N	\N	f	f	2010-04-22 12:57:44.497876-04	pdfs/C4M27.pdf	images/thumbs/C4M27_t.jpg	images/C4M27.png	\N	\N	\N
+702	Median Rent	Median_Rent	\N	4	28	\N	\N	\N	f	f	2010-04-22 12:57:44.515403-04	pdfs/C4M28.pdf	images/thumbs/C4M28_t.jpg	images/C4M28.png	\N	\N	\N
+703	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	4	29	\N	\N	\N	f	f	2010-04-22 12:57:44.533816-04	pdfs/C4M29.pdf	images/thumbs/C4M29_t.jpg	images/C4M29.png	\N	\N	\N
+706	Households without Vehicles	Households_without_Vehicles	\N	4	30	\N	\N	\N	f	f	2010-04-22 12:57:44.60995-04	pdfs/C4M30.pdf	images/thumbs/C4M30_t.jpg	images/C4M30.png	\N	\N	\N
+707	Median Income	Median_Income	\N	4	31	\N	\N	\N	f	f	2010-04-22 12:57:44.627202-04	pdfs/C4M31.pdf	images/thumbs/C4M31_t.jpg	images/C4M31.png	\N	\N	\N
+709	Foreign Born Population	Foreign_Born_Population	\N	4	33	\N	\N	\N	f	f	2010-04-22 12:57:44.664792-04	pdfs/C4M33.pdf	images/thumbs/C4M33_t.jpg	images/C4M33.png	\N	\N	\N
+710	Employment Sites	Employment_Sites	\N	4	34	\N	\N	\N	f	f	2010-04-22 12:57:44.683349-04	pdfs/C4M34.pdf	images/thumbs/C4M34_t.jpg	images/C4M34.png	\N	\N	\N
+712	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	4	36	\N	\N	\N	f	f	2010-04-22 12:57:44.767722-04	pdfs/C4M36.pdf	images/thumbs/C4M36_t.jpg	images/C4M36.png	\N	\N	\N
+713	DPS Sites	DPS_Sites	\N	4	37	\N	\N	\N	f	f	2010-04-22 12:57:44.784496-04	pdfs/C4M37.pdf	images/thumbs/C4M37_t.jpg	images/C4M37.png	\N	\N	\N
+714	Other Schools	Other_Schools	\N	4	38	\N	\N	\N	f	f	2010-04-22 12:57:44.800616-04	pdfs/C4M38.pdf	images/thumbs/C4M38_t.jpg	images/C4M38.png	\N	\N	\N
+717	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	4	40	\N	\N	\N	f	f	2010-04-22 12:57:44.844448-04	pdfs/C4M40.pdf	images/thumbs/C4M40_t.jpg	images/C4M40.png	\N	\N	\N
+718	Elderly Population	Elderly_Population	\N	4	41	\N	\N	\N	f	f	2010-04-22 12:57:44.901621-04	pdfs/C4M41.pdf	images/thumbs/C4M41_t.jpg	images/C4M41.png	\N	\N	\N
+719	Greenways	Greenways	\N	4	42	\N	\N	\N	f	f	2010-04-22 12:57:44.941119-04	pdfs/C4M42.pdf	images/thumbs/C4M42_t.jpg	images/C4M42.png	\N	\N	\N
+720	Truck Routes	Truck_Routes	\N	4	43	\N	\N	\N	f	f	2010-04-22 12:57:44.977096-04	pdfs/C4M43.pdf	images/thumbs/C4M43_t.jpg	images/C4M43.png	\N	\N	\N
+722	Low/Moderate Income	Low/Moderate_Income	\N	4	45	\N	\N	\N	f	f	2010-04-22 12:57:45.118182-04	pdfs/C4M45.pdf	images/thumbs/C4M45_t.jpg	images/C4M45.png	\N	\N	\N
+732	Births	Births	\N	4	53	\N	\N	\N	f	f	2010-04-22 12:57:45.212162-04	pdfs/C4M53.pdf	images/thumbs/C4M53_t.jpg	images/C4M53.png	\N	\N	\N
+733	Deaths	Deaths	\N	4	54	\N	\N	\N	f	f	2010-04-22 12:57:45.272836-04	pdfs/C4M54.pdf	images/thumbs/C4M54_t.jpg	images/C4M54.png	\N	\N	\N
+735	Dangerous Buildings	Dangerous_Buildings	\N	4	56	\N	\N	\N	f	f	2010-04-22 12:57:45.310445-04	pdfs/C4M56.pdf	images/thumbs/C4M56_t.jpg	images/C4M56.png	\N	\N	\N
+736	Fires	Fires	\N	4	57	\N	\N	\N	f	f	2010-04-22 12:57:45.327531-04	pdfs/C4M57.pdf	images/thumbs/C4M57_t.jpg	images/C4M57.png	\N	\N	\N
+739	Sales	Sales	\N	4	59	\N	\N	\N	f	f	2010-04-22 12:57:45.386707-04	pdfs/C4M59.pdf	images/thumbs/C4M59_t.jpg	images/C4M59.png	\N	\N	\N
+742	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	4	61	\N	\N	\N	f	f	2010-04-22 12:57:45.433754-04	pdfs/C4M61.pdf	images/thumbs/C4M61_t.jpg	images/C4M61.png	\N	\N	\N
+743	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	4	62	\N	\N	\N	f	f	2010-04-22 12:57:45.45292-04	pdfs/C4M62.pdf	images/thumbs/C4M62_t.jpg	images/C4M62.png	\N	\N	\N
+745	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	4	64	\N	\N	\N	f	f	2010-04-22 12:57:45.506904-04	pdfs/C4M64.pdf	images/thumbs/C4M64_t.jpg	images/C4M64.png	\N	\N	\N
+746	Licensed Businesses	Licensed_Businesses	\N	4	65	\N	\N	\N	f	f	2010-04-22 12:57:45.527162-04	pdfs/C4M65.pdf	images/thumbs/C4M65_t.jpg	images/C4M65.png	\N	\N	\N
+749	Head Start	Head_Start	\N	4	68	\N	\N	\N	f	f	2010-04-22 12:57:45.591942-04	pdfs/C4M68.pdf	images/thumbs/C4M68_t.jpg	images/C4M68.png	\N	\N	\N
+750	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	4	69	\N	\N	\N	f	f	2010-04-22 12:57:45.623141-04	pdfs/C4M69.pdf	images/thumbs/C4M69_t.jpg	images/C4M69.png	\N	\N	\N
+752	Parks Master Plan Update	Parks_Master_Plan_Update	\N	4	70	\N	\N	\N	f	f	2010-04-22 12:57:45.710269-04	pdfs/C4M70.pdf	images/thumbs/C4M70_t.jpg	images/C4M70.png	\N	\N	\N
+753	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	4	71	\N	\N	\N	f	f	2010-04-22 12:57:45.731501-04	pdfs/C4M71.pdf	images/thumbs/C4M71_t.jpg	images/C4M71.png	\N	\N	\N
+716	Transportation Network	Transportation_Network	\N	4	4	\N	\N	\N	f	f	2010-04-22 12:57:43.982616-04	pdfs/C4M4.pdf	images/thumbs/C4M4_t.jpg	images/C4M4.png	\N	\N	\N
+728	Bus Routes	Bus_Routes	\N	4	5	\N	\N	\N	f	f	2010-04-22 12:57:44.003013-04	pdfs/C4M5.pdf	images/thumbs/C4M5_t.jpg	images/C4M5.png	\N	\N	\N
+751	Insitutional Uses	Insitutional_Uses	\N	4	7	\N	\N	\N	f	f	2010-04-22 12:57:44.078646-04	pdfs/C4M7.pdf	images/thumbs/C4M7_t.jpg	images/C4M7.png	\N	\N	\N
+697	Change in Housing Units	Change_in_Housing_Units	\N	4	23	\N	\N	\N	f	f	2010-04-22 12:57:44.406769-04	pdfs/C4M23.pdf	images/thumbs/C4M23_t.jpg	images/C4M23.png	\N	\N	\N
 754	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	4	71	\N	\N	\N	t	f	2010-04-05 16:02:00.981287-04	pdfs/C4M71AppendixD.pdf			\N	\N	\N
 756	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	4	72	\N	\N	\N	t	f	2010-04-05 16:02:02.463119-04	pdfs/C4M72AppendixE.pdf			\N	\N	\N
 778	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	4	91	\N	\N	\N	t	f	2010-04-05 16:02:08.918533-04	pdfs/C4M91AppendixF.pdf			\N	\N	\N
@@ -12960,29 +12959,29 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 807	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2008	1	f	f	2010-04-05 16:02:14.092444-04	pdfs/C5M19a_08.pdf			\N	\N	\N
 808	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2009	1	f	f	2010-04-05 16:02:14.155999-04	pdfs/C5M19a_09.pdf			\N	\N	\N
 809	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2007	2	f	f	2010-04-05 16:02:14.264847-04	pdfs/C5M19b_07.pdf			\N	\N	\N
-758	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	4	74	\N	\N	\N	f	f	2010-04-19 15:58:38.506152-04	pdfs/C4M74.pdf	images/thumbs/C4M74_t_.png	images/C4M74.png	\N	\N	\N
-759	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	4	75	\N	\N	\N	f	f	2010-04-19 15:58:39.136465-04	pdfs/C4M75.pdf	images/thumbs/C4M75_t_.png	images/C4M75.png	\N	\N	\N
-760	120% Area Mean Income	120%_Area_Mean_Income	\N	4	76	\N	\N	\N	f	f	2010-04-08 15:02:36.633967-04	pdfs/C4M76.pdf	images/thumbs/C4M76_t.png	images/C4M76.png	\N	\N	\N
-762	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	4	78	\N	\N	\N	f	f	2010-04-08 15:02:37.839835-04	pdfs/C4M78.pdf	images/thumbs/C4M78_t.png	images/C4M78.png	\N	\N	\N
-763	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	4	79	\N	\N	\N	f	f	2010-04-08 15:02:38.510153-04	pdfs/C4M79.pdf	images/thumbs/C4M79_t.png	images/C4M79.png	\N	\N	\N
-765	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	4	80	\N	\N	\N	f	f	2010-04-08 15:02:39.124675-04	pdfs/C4M80.pdf	images/thumbs/C4M80_t.png	images/C4M80.png	\N	\N	\N
-766	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	4	81	\N	\N	\N	f	f	2010-04-08 15:02:39.718398-04	pdfs/C4M81.pdf	images/thumbs/C4M81_t.png	images/C4M81.png	\N	\N	\N
-767	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	4	82	\N	\N	\N	f	f	2010-04-08 15:02:40.361387-04	pdfs/C4M82.pdf	images/thumbs/C4M82_t.png	images/C4M82.png	\N	\N	\N
-770	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	4	85	\N	\N	\N	f	f	2010-04-08 15:02:42.31279-04	pdfs/C4M85.pdf	images/thumbs/C4M85_t.png	images/C4M85.png	\N	\N	\N
-771	2009 Street Paving	2009_Street_Paving	\N	4	86	\N	\N	\N	f	f	2010-04-08 15:02:42.939911-04	pdfs/C4M86.pdf	images/thumbs/C4M86_t.png	images/C4M86.png	\N	\N	\N
-772	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	4	87	\N	\N	\N	f	f	2010-04-08 15:02:43.512633-04	pdfs/C4M87.pdf	images/thumbs/C4M87_t.png	images/C4M87.png	\N	\N	\N
-773	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	4	88	\N	\N	\N	f	f	2010-04-08 15:02:44.151896-04	pdfs/C4M88.pdf	images/thumbs/C4M88_t.png	images/C4M88.png	\N	\N	\N
-774	Zoning (Color)	Zoning_(Color)	\N	4	89	\N	\N	\N	f	f	2010-04-08 15:02:44.745805-04	pdfs/C4M89.pdf	images/thumbs/C4M89_t.png	images/C4M89.png	\N	\N	\N
-776	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	4	90	\N	\N	\N	f	f	2010-04-08 15:02:45.294713-04	pdfs/C4M90.pdf	images/thumbs/C4M90_t.png	images/C4M90.png	\N	\N	\N
-777	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	4	91	\N	\N	\N	f	f	2010-04-08 15:02:45.894182-04	pdfs/C4M91.pdf	images/thumbs/C4M91_t.png	images/C4M91.png	\N	\N	\N
-779	Future Land Use	Future_Land_Use	\N	5	1	\N	\N	\N	f	f	2010-04-08 15:02:46.597631-04	pdfs/C5M1.pdf	images/thumbs/C5M1_t.png	images/C5M1.png	\N	\N	\N
-782	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	5	12	\N	\N	\N	f	f	2010-04-08 15:02:53.286848-04	pdfs/C5M12.pdf	images/thumbs/C5M12_t.png	images/C5M12.png	\N	\N	\N
-783	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	5	13	\N	\N	\N	f	f	2010-04-08 15:02:53.820413-04	pdfs/C5M13.pdf	images/thumbs/C5M13_t.png	images/C5M13.png	\N	\N	\N
-784	ONCR	ONCR	\N	5	14	\N	\N	\N	f	f	2010-04-08 15:02:54.345228-04	pdfs/C5M14.pdf	images/thumbs/C5M14_t.png	images/C5M14.png	\N	\N	\N
-785	City & State Ownership	City_&_State_Ownership	\N	5	15	\N	\N	\N	f	f	2010-04-08 15:02:54.882405-04	pdfs/C5M15.pdf	images/thumbs/C5M15_t.png	images/C5M15.png	\N	\N	\N
-786	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	5	16	\N	\N	\N	f	f	2010-04-08 15:02:55.426559-04	pdfs/C5M16.pdf	images/thumbs/C5M16_t.png	images/C5M16.png	\N	\N	\N
-775	2000 Aerial Photo	2000_Aerial_Photo	\N	4	9	\N	\N	\N	f	f	2010-04-19 15:57:54.083788-04	pdfs/C4M9.pdf	images/thumbs/C4M9_t_.png	images/C4M9.png	\N	\N	\N
-757	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	4	73	\N	\N	\N	f	f	2010-04-19 15:58:37.749767-04	pdfs/C4M73.pdf	images/thumbs/C4M73_t_.png	images/C4M73.png	\N	\N	\N
+760	120% Area Mean Income	120%_Area_Mean_Income	\N	4	76	\N	\N	\N	f	f	2010-04-22 12:57:45.827578-04	pdfs/C4M76.pdf	images/thumbs/C4M76_t.jpg	images/C4M76.png	\N	\N	\N
+762	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	4	78	\N	\N	\N	f	f	2010-04-22 12:57:45.863918-04	pdfs/C4M78.pdf	images/thumbs/C4M78_t.jpg	images/C4M78.png	\N	\N	\N
+757	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	4	73	\N	\N	\N	f	f	2010-04-22 12:57:45.771565-04	pdfs/C4M73.pdf	images/thumbs/C4M73_t.jpg	images/C4M73.png	\N	\N	\N
+763	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	4	79	\N	\N	\N	f	f	2010-04-22 12:57:45.880664-04	pdfs/C4M79.pdf	images/thumbs/C4M79_t.jpg	images/C4M79.png	\N	\N	\N
+765	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	4	80	\N	\N	\N	f	f	2010-04-22 12:57:45.905289-04	pdfs/C4M80.pdf	images/thumbs/C4M80_t.jpg	images/C4M80.png	\N	\N	\N
+766	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	4	81	\N	\N	\N	f	f	2010-04-22 12:57:45.922741-04	pdfs/C4M81.pdf	images/thumbs/C4M81_t.jpg	images/C4M81.png	\N	\N	\N
+767	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	4	82	\N	\N	\N	f	f	2010-04-22 12:57:45.939492-04	pdfs/C4M82.pdf	images/thumbs/C4M82_t.jpg	images/C4M82.png	\N	\N	\N
+770	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	4	85	\N	\N	\N	f	f	2010-04-22 12:57:45.994506-04	pdfs/C4M85.pdf	images/thumbs/C4M85_t.jpg	images/C4M85.png	\N	\N	\N
+771	2009 Street Paving	2009_Street_Paving	\N	4	86	\N	\N	\N	f	f	2010-04-22 12:57:46.011921-04	pdfs/C4M86.pdf	images/thumbs/C4M86_t.jpg	images/C4M86.png	\N	\N	\N
+772	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	4	87	\N	\N	\N	f	f	2010-04-22 12:57:46.028672-04	pdfs/C4M87.pdf	images/thumbs/C4M87_t.jpg	images/C4M87.png	\N	\N	\N
+773	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	4	88	\N	\N	\N	f	f	2010-04-22 12:57:46.051424-04	pdfs/C4M88.pdf	images/thumbs/C4M88_t.jpg	images/C4M88.png	\N	\N	\N
+774	Zoning (Color)	Zoning_(Color)	\N	4	89	\N	\N	\N	f	f	2010-04-22 12:57:46.114727-04	pdfs/C4M89.pdf	images/thumbs/C4M89_t.jpg	images/C4M89.png	\N	\N	\N
+776	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	4	90	\N	\N	\N	f	f	2010-04-22 12:57:46.843706-04	pdfs/C4M90.pdf	images/thumbs/C4M90_t.jpg	images/C4M90.png	\N	\N	\N
+777	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	4	91	\N	\N	\N	f	f	2010-04-22 12:57:47.193476-04	pdfs/C4M91.pdf	images/thumbs/C4M91_t.jpg	images/C4M91.png	\N	\N	\N
+779	Future Land Use	Future_Land_Use	\N	5	1	\N	\N	\N	f	f	2010-04-22 12:57:47.314978-04	pdfs/C5M1.pdf	images/thumbs/C5M1_t.jpg	images/C5M1.png	\N	\N	\N
+782	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	5	12	\N	\N	\N	f	f	2010-04-22 12:57:47.526423-04	pdfs/C5M12.pdf	images/thumbs/C5M12_t.jpg	images/C5M12.png	\N	\N	\N
+783	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	5	13	\N	\N	\N	f	f	2010-04-22 12:57:47.542604-04	pdfs/C5M13.pdf	images/thumbs/C5M13_t.jpg	images/C5M13.png	\N	\N	\N
+784	ONCR	ONCR	\N	5	14	\N	\N	\N	f	f	2010-04-22 12:57:47.561761-04	pdfs/C5M14.pdf	images/thumbs/C5M14_t.jpg	images/C5M14.png	\N	\N	\N
+785	City & State Ownership	City_&_State_Ownership	\N	5	15	\N	\N	\N	f	f	2010-04-22 12:57:47.581243-04	pdfs/C5M15.pdf	images/thumbs/C5M15_t.jpg	images/C5M15.png	\N	\N	\N
+786	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	5	16	\N	\N	\N	f	f	2010-04-22 12:57:47.59785-04	pdfs/C5M16.pdf	images/thumbs/C5M16_t.jpg	images/C5M16.png	\N	\N	\N
+775	2000 Aerial Photo	2000_Aerial_Photo	\N	4	9	\N	\N	\N	f	f	2010-04-22 12:57:44.127171-04	pdfs/C4M9.pdf	images/thumbs/C4M9_t.jpg	images/C4M9.png	\N	\N	\N
+758	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	4	74	\N	\N	\N	f	f	2010-04-22 12:57:45.791602-04	pdfs/C4M74.pdf	images/thumbs/C4M74_t.jpg	images/C4M74.png	\N	\N	\N
+759	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	4	75	\N	\N	\N	f	f	2010-04-22 12:57:45.809288-04	pdfs/C4M75.pdf	images/thumbs/C4M75_t.jpg	images/C4M75.png	\N	\N	\N
 810	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2008	2	f	f	2010-04-05 16:02:14.353617-04	pdfs/C5M19b_08.pdf			\N	\N	\N
 811	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2009	2	f	f	2010-04-05 16:02:14.497018-04	pdfs/C5M19b_09.pdf			\N	\N	\N
 812	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2007	3	f	f	2010-04-05 16:02:14.608629-04	pdfs/C5M19c_07.pdf			\N	\N	\N
@@ -13024,14 +13023,14 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 852	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	5	22	\N	2007	4	f	f	2010-04-05 16:02:22.07129-04	pdfs/C5M22d_07.pdf			\N	\N	\N
 853	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	5	22	\N	2008	4	f	f	2010-04-05 16:02:22.295676-04	pdfs/C5M22d_08.pdf			\N	\N	\N
 862	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	5	29	\N	\N	\N	f	t	2010-04-05 16:02:24.237-04	pdfs/C5M29Color.pdf			\N	\N	\N
-842	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	5	21	\N	2009	4	f	f	2010-04-08 15:02:58.437272-04	pdfs/C5M21d_09.pdf	images/thumbs/C5M21d_09_t.png	images/C5M21d_09.png	\N	\N	\N
-854	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	5	22	\N	2009	4	f	f	2010-04-08 15:02:58.955714-04	pdfs/C5M22d_09.pdf	images/thumbs/C5M22d_09_t.png	images/C5M22d_09.png	\N	\N	\N
-855	Change in Housing Units	Change_in_Housing_Units	\N	5	23	\N	\N	\N	f	f	2010-04-08 15:02:59.502094-04	pdfs/C5M23.pdf	images/thumbs/C5M23_t.png	images/C5M23.png	\N	\N	\N
-856	Change in Population	Change_in_Population	\N	5	24	\N	\N	\N	f	f	2010-04-08 15:03:00.056212-04	pdfs/C5M24.pdf	images/thumbs/C5M24_t.png	images/C5M24.png	\N	\N	\N
-858	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	5	26	\N	\N	\N	f	f	2010-04-08 15:03:01.162189-04	pdfs/C5M26.pdf	images/thumbs/C5M26_t.png	images/C5M26.png	\N	\N	\N
-859	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	5	27	\N	\N	\N	f	f	2010-04-08 15:03:01.679119-04	pdfs/C5M27.pdf	images/thumbs/C5M27_t.png	images/C5M27.png	\N	\N	\N
-860	Median Rent	Median_Rent	\N	5	28	\N	\N	\N	f	f	2010-04-08 15:03:02.236905-04	pdfs/C5M28.pdf	images/thumbs/C5M28_t.png	images/C5M28.png	\N	\N	\N
-863	Overlay Areas	Overlay_Areas	\N	5	3	\N	\N	\N	f	f	2010-04-08 15:02:47.736957-04	pdfs/C5M3.pdf	images/thumbs/C5M3_t.png	images/C5M3.png	\N	\N	\N
+855	Change in Housing Units	Change_in_Housing_Units	\N	5	23	\N	\N	\N	f	f	2010-04-22 12:57:47.729815-04	pdfs/C5M23.pdf	images/thumbs/C5M23_t.jpg	images/C5M23.png	\N	\N	\N
+856	Change in Population	Change_in_Population	\N	5	24	\N	\N	\N	f	f	2010-04-22 12:57:47.770515-04	pdfs/C5M24.pdf	images/thumbs/C5M24_t.jpg	images/C5M24.png	\N	\N	\N
+858	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	5	26	\N	\N	\N	f	f	2010-04-22 12:57:47.812795-04	pdfs/C5M26.pdf	images/thumbs/C5M26_t.jpg	images/C5M26.png	\N	\N	\N
+859	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	5	27	\N	\N	\N	f	f	2010-04-22 12:57:47.832952-04	pdfs/C5M27.pdf	images/thumbs/C5M27_t.jpg	images/C5M27.png	\N	\N	\N
+860	Median Rent	Median_Rent	\N	5	28	\N	\N	\N	f	f	2010-04-22 12:57:47.851025-04	pdfs/C5M28.pdf	images/thumbs/C5M28_t.jpg	images/C5M28.png	\N	\N	\N
+863	Overlay Areas	Overlay_Areas	\N	5	3	\N	\N	\N	f	f	2010-04-22 12:57:47.371912-04	pdfs/C5M3.pdf	images/thumbs/C5M3_t.jpg	images/C5M3.png	\N	\N	\N
+842	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	5	21	\N	2009	4	f	f	2010-04-22 12:57:47.675765-04	pdfs/C5M21d_09.pdf	images/thumbs/C5M21d_09_t.jpg	images/C5M21d_09.png	\N	\N	\N
+854	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	5	22	\N	2009	4	f	f	2010-04-22 12:57:47.693902-04	pdfs/C5M22d_09.pdf	images/thumbs/C5M22d_09_t.jpg	images/C5M22d_09.png	\N	\N	\N
 881	Wayne County Tax Foreclosures - 2006	Wayne_County_Tax_Foreclosures_-_2006	\N	5	46	\N	\N	\N	f	f	2010-04-05 16:02:26.824284-04	pdfs/C5M46.pdf			\N	\N	\N
 882	Traffic Counts	Traffic_Counts	\N	5	47	\N	\N	\N	f	f	2010-04-05 16:02:26.974693-04	pdfs/C5M47.pdf			\N	\N	\N
 883	Consumer Expenditures (see appendix A)	Consumer_Expenditures_(see_appendix_A)	\N	5	48	\N	\N	\N	f	f	2010-04-05 16:02:27.026121-04	pdfs/C5M48.pdf			\N	\N	\N
@@ -13043,44 +13042,44 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 896	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	5	58	\N	\N	\N	t	f	2010-04-05 16:02:28.118332-04	pdfs/C5M58AppendixC.pdf			\N	\N	\N
 912	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	5	71	\N	\N	\N	t	f	2010-04-05 16:02:29.024379-04	pdfs/C5M71AppendixD.pdf			\N	\N	\N
 914	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	5	72	\N	\N	\N	t	f	2010-04-05 16:02:29.157952-04	pdfs/C5M72AppendixE.pdf			\N	\N	\N
-898	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	5	6	\N	\N	\N	f	f	2010-04-08 15:02:49.594114-04	pdfs/C5M6.pdf	images/thumbs/C5M6_t.png	images/C5M6.png	\N	\N	\N
-909	Insitutional Uses	Insitutional_Uses	\N	5	7	\N	\N	\N	f	f	2010-04-08 15:02:50.277857-04	pdfs/C5M7.pdf	images/thumbs/C5M7_t.png	images/C5M7.png	\N	\N	\N
-922	Historic Sites	Historic_Sites	\N	5	8	\N	\N	\N	f	f	2010-04-08 15:02:50.839699-04	pdfs/C5M8.pdf	images/thumbs/C5M8_t.png	images/C5M8.png	\N	\N	\N
-864	Households without Vehicles	Households_without_Vehicles	\N	5	30	\N	\N	\N	f	f	2010-04-08 15:03:03.353645-04	pdfs/C5M30.pdf	images/thumbs/C5M30_t.png	images/C5M30.png	\N	\N	\N
-865	Median Income	Median_Income	\N	5	31	\N	\N	\N	f	f	2010-04-08 15:03:03.900694-04	pdfs/C5M31.pdf	images/thumbs/C5M31_t.png	images/C5M31.png	\N	\N	\N
-867	Foreign Born Population	Foreign_Born_Population	\N	5	33	\N	\N	\N	f	f	2010-04-08 15:03:05.005291-04	pdfs/C5M33.pdf	images/thumbs/C5M33_t.png	images/C5M33.png	\N	\N	\N
-869	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	5	35	\N	\N	\N	f	f	2010-04-08 15:03:06.218657-04	pdfs/C5M35.pdf	images/thumbs/C5M35_t.png	images/C5M35.png	\N	\N	\N
-870	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	5	36	\N	\N	\N	f	f	2010-04-08 15:03:06.831451-04	pdfs/C5M36.pdf	images/thumbs/C5M36_t.png	images/C5M36.png	\N	\N	\N
-871	DPS Sites	DPS_Sites	\N	5	37	\N	\N	\N	f	f	2010-04-08 15:03:07.337282-04	pdfs/C5M37.pdf	images/thumbs/C5M37_t.png	images/C5M37.png	\N	\N	\N
-872	Other Schools	Other_Schools	\N	5	38	\N	\N	\N	f	f	2010-04-08 15:03:07.872767-04	pdfs/C5M38.pdf	images/thumbs/C5M38_t.png	images/C5M38.png	\N	\N	\N
-876	Elderly Population	Elderly_Population	\N	5	41	\N	\N	\N	f	f	2010-04-08 15:03:09.573618-04	pdfs/C5M41.pdf	images/thumbs/C5M41_t.png	images/C5M41.png	\N	\N	\N
-877	Greenways	Greenways	\N	5	42	\N	\N	\N	f	f	2010-04-08 15:03:10.100971-04	pdfs/C5M42.pdf	images/thumbs/C5M42_t.png	images/C5M42.png	\N	\N	\N
-878	Truck Routes	Truck_Routes	\N	5	43	\N	\N	\N	f	f	2010-04-08 15:03:10.59294-04	pdfs/C5M43.pdf	images/thumbs/C5M43_t.png	images/C5M43.png	\N	\N	\N
-879	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	5	44	\N	\N	\N	f	f	2010-04-08 15:03:11.188358-04	pdfs/C5M44.pdf	images/thumbs/C5M44_t.png	images/C5M44.png	\N	\N	\N
-880	Low/Moderate Income	Low/Moderate_Income	\N	5	45	\N	\N	\N	f	f	2010-04-08 15:03:11.798307-04	pdfs/C5M45.pdf	images/thumbs/C5M45_t.png	images/C5M45.png	\N	\N	\N
-890	Births	Births	\N	5	53	\N	\N	\N	f	f	2010-04-08 15:03:12.381126-04	pdfs/C5M53.pdf	images/thumbs/C5M53_t.png	images/C5M53.png	\N	\N	\N
-891	Deaths	Deaths	\N	5	54	\N	\N	\N	f	f	2010-04-08 15:03:12.905913-04	pdfs/C5M54.pdf	images/thumbs/C5M54_t.png	images/C5M54.png	\N	\N	\N
-894	Fires	Fires	\N	5	57	\N	\N	\N	f	f	2010-04-08 15:03:14.657232-04	pdfs/C5M57.pdf	images/thumbs/C5M57_t.png	images/C5M57.png	\N	\N	\N
-897	Sales	Sales	\N	5	59	\N	\N	\N	f	f	2010-04-08 15:03:15.822489-04	pdfs/C5M59.pdf	images/thumbs/C5M59_t.png	images/C5M59.png	\N	\N	\N
-899	Registered Voters	Registered_Voters	\N	5	60	\N	\N	\N	f	f	2010-04-08 15:03:16.359519-04	pdfs/C5M60.pdf	images/thumbs/C5M60_t.png	images/C5M60.png	\N	\N	\N
-900	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	5	61	\N	\N	\N	f	f	2010-04-08 15:03:16.91845-04	pdfs/C5M61.pdf	images/thumbs/C5M61_t.png	images/C5M61.png	\N	\N	\N
-902	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	5	63	\N	\N	\N	f	f	2010-04-08 15:03:17.959525-04	pdfs/C5M63.pdf	images/thumbs/C5M63_t.png	images/C5M63.png	\N	\N	\N
-903	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	5	64	\N	\N	\N	f	f	2010-04-08 15:03:18.503974-04	pdfs/C5M64.pdf	images/thumbs/C5M64_t.png	images/C5M64.png	\N	\N	\N
-904	Licensed Businesses	Licensed_Businesses	\N	5	65	\N	\N	\N	f	f	2010-04-08 15:03:19.061228-04	pdfs/C5M65.pdf	images/thumbs/C5M65_t.png	images/C5M65.png	\N	\N	\N
-906	Human Services Programs	Human_Services_Programs	\N	5	67	\N	\N	\N	f	f	2010-04-08 15:03:20.18683-04	pdfs/C5M67.pdf	images/thumbs/C5M67_t.png	images/C5M67.png	\N	\N	\N
-907	Head Start	Head_Start	\N	5	68	\N	\N	\N	f	f	2010-04-08 15:03:20.751114-04	pdfs/C5M68.pdf	images/thumbs/C5M68_t.png	images/C5M68.png	\N	\N	\N
-908	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	5	69	\N	\N	\N	f	f	2010-04-08 15:03:21.372362-04	pdfs/C5M69.pdf	images/thumbs/C5M69_t.png	images/C5M69.png	\N	\N	\N
-910	Parks Master Plan Update	Parks_Master_Plan_Update	\N	5	70	\N	\N	\N	f	f	2010-04-08 15:03:21.905285-04	pdfs/C5M70.pdf	images/thumbs/C5M70_t.png	images/C5M70.png	\N	\N	\N
-915	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	5	73	\N	\N	\N	f	f	2010-04-08 15:03:24.17006-04	pdfs/C5M73.pdf	images/thumbs/C5M73_t.png	images/C5M73.png	\N	\N	\N
-916	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	5	74	\N	\N	\N	f	f	2010-04-08 15:03:24.89164-04	pdfs/C5M74.pdf	images/thumbs/C5M74_t.png	images/C5M74.png	\N	\N	\N
-917	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	5	75	\N	\N	\N	f	f	2010-04-08 15:03:25.442041-04	pdfs/C5M75.pdf	images/thumbs/C5M75_t.png	images/C5M75.png	\N	\N	\N
-918	120% Area Mean Income	120%_Area_Mean_Income	\N	5	76	\N	\N	\N	f	f	2010-04-08 15:03:26.088459-04	pdfs/C5M76.pdf	images/thumbs/C5M76_t.png	images/C5M76.png	\N	\N	\N
-919	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	5	77	\N	\N	\N	f	f	2010-04-08 15:03:26.86404-04	pdfs/C5M77.pdf	images/thumbs/C5M77_t.png	images/C5M77.png	\N	\N	\N
-920	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	5	78	\N	\N	\N	f	f	2010-04-08 15:03:27.429825-04	pdfs/C5M78.pdf	images/thumbs/C5M78_t.png	images/C5M78.png	\N	\N	\N
-921	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	5	79	\N	\N	\N	f	f	2010-04-08 15:03:27.99353-04	pdfs/C5M79.pdf	images/thumbs/C5M79_t.png	images/C5M79.png	\N	\N	\N
-923	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	5	80	\N	\N	\N	f	f	2010-04-08 15:03:29.060261-04	pdfs/C5M80.pdf	images/thumbs/C5M80_t.png	images/C5M80.png	\N	\N	\N
-925	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	5	82	\N	\N	\N	f	f	2010-04-08 15:03:30.339282-04	pdfs/C5M82.pdf	images/thumbs/C5M82_t.png	images/C5M82.png	\N	\N	\N
-886	Bus Routes	Bus_Routes	\N	5	5	\N	\N	\N	f	f	2010-04-08 15:02:48.895319-04	pdfs/C5M5.pdf	images/thumbs/C5M5_t.png	images/C5M5.png	\N	\N	\N
+922	Historic Sites	Historic_Sites	\N	5	8	\N	\N	\N	f	f	2010-04-22 12:57:47.452299-04	pdfs/C5M8.pdf	images/thumbs/C5M8_t.jpg	images/C5M8.png	\N	\N	\N
+864	Households without Vehicles	Households_without_Vehicles	\N	5	30	\N	\N	\N	f	f	2010-04-22 12:57:47.909979-04	pdfs/C5M30.pdf	images/thumbs/C5M30_t.jpg	images/C5M30.png	\N	\N	\N
+865	Median Income	Median_Income	\N	5	31	\N	\N	\N	f	f	2010-04-22 12:57:47.927272-04	pdfs/C5M31.pdf	images/thumbs/C5M31_t.jpg	images/C5M31.png	\N	\N	\N
+867	Foreign Born Population	Foreign_Born_Population	\N	5	33	\N	\N	\N	f	f	2010-04-22 12:57:47.962755-04	pdfs/C5M33.pdf	images/thumbs/C5M33_t.jpg	images/C5M33.png	\N	\N	\N
+869	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	5	35	\N	\N	\N	f	f	2010-04-22 12:57:48.000405-04	pdfs/C5M35.pdf	images/thumbs/C5M35_t.jpg	images/C5M35.png	\N	\N	\N
+870	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	5	36	\N	\N	\N	f	f	2010-04-22 12:57:48.018343-04	pdfs/C5M36.pdf	images/thumbs/C5M36_t.jpg	images/C5M36.png	\N	\N	\N
+871	DPS Sites	DPS_Sites	\N	5	37	\N	\N	\N	f	f	2010-04-22 12:57:48.035815-04	pdfs/C5M37.pdf	images/thumbs/C5M37_t.jpg	images/C5M37.png	\N	\N	\N
+872	Other Schools	Other_Schools	\N	5	38	\N	\N	\N	f	f	2010-04-22 12:57:48.052-04	pdfs/C5M38.pdf	images/thumbs/C5M38_t.jpg	images/C5M38.png	\N	\N	\N
+876	Elderly Population	Elderly_Population	\N	5	41	\N	\N	\N	f	f	2010-04-22 12:57:48.109328-04	pdfs/C5M41.pdf	images/thumbs/C5M41_t.jpg	images/C5M41.png	\N	\N	\N
+877	Greenways	Greenways	\N	5	42	\N	\N	\N	f	f	2010-04-22 12:57:48.137734-04	pdfs/C5M42.pdf	images/thumbs/C5M42_t.jpg	images/C5M42.png	\N	\N	\N
+878	Truck Routes	Truck_Routes	\N	5	43	\N	\N	\N	f	f	2010-04-22 12:57:48.155938-04	pdfs/C5M43.pdf	images/thumbs/C5M43_t.jpg	images/C5M43.png	\N	\N	\N
+879	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	5	44	\N	\N	\N	f	f	2010-04-22 12:57:48.176032-04	pdfs/C5M44.pdf	images/thumbs/C5M44_t.jpg	images/C5M44.png	\N	\N	\N
+880	Low/Moderate Income	Low/Moderate_Income	\N	5	45	\N	\N	\N	f	f	2010-04-22 12:57:48.192537-04	pdfs/C5M45.pdf	images/thumbs/C5M45_t.jpg	images/C5M45.png	\N	\N	\N
+890	Births	Births	\N	5	53	\N	\N	\N	f	f	2010-04-22 12:57:48.269569-04	pdfs/C5M53.pdf	images/thumbs/C5M53_t.jpg	images/C5M53.png	\N	\N	\N
+891	Deaths	Deaths	\N	5	54	\N	\N	\N	f	f	2010-04-22 12:57:48.289514-04	pdfs/C5M54.pdf	images/thumbs/C5M54_t.jpg	images/C5M54.png	\N	\N	\N
+894	Fires	Fires	\N	5	57	\N	\N	\N	f	f	2010-04-22 12:57:48.343722-04	pdfs/C5M57.pdf	images/thumbs/C5M57_t.jpg	images/C5M57.png	\N	\N	\N
+897	Sales	Sales	\N	5	59	\N	\N	\N	f	f	2010-04-22 12:57:48.528026-04	pdfs/C5M59.pdf	images/thumbs/C5M59_t.jpg	images/C5M59.png	\N	\N	\N
+899	Registered Voters	Registered_Voters	\N	5	60	\N	\N	\N	f	f	2010-04-22 12:57:48.546187-04	pdfs/C5M60.pdf	images/thumbs/C5M60_t.jpg	images/C5M60.png	\N	\N	\N
+900	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	5	61	\N	\N	\N	f	f	2010-04-22 12:57:48.562305-04	pdfs/C5M61.pdf	images/thumbs/C5M61_t.jpg	images/C5M61.png	\N	\N	\N
+902	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	5	63	\N	\N	\N	f	f	2010-04-22 12:57:48.602618-04	pdfs/C5M63.pdf	images/thumbs/C5M63_t.jpg	images/C5M63.png	\N	\N	\N
+903	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	5	64	\N	\N	\N	f	f	2010-04-22 12:57:48.624445-04	pdfs/C5M64.pdf	images/thumbs/C5M64_t.jpg	images/C5M64.png	\N	\N	\N
+904	Licensed Businesses	Licensed_Businesses	\N	5	65	\N	\N	\N	f	f	2010-04-22 12:57:48.646069-04	pdfs/C5M65.pdf	images/thumbs/C5M65_t.jpg	images/C5M65.png	\N	\N	\N
+906	Human Services Programs	Human_Services_Programs	\N	5	67	\N	\N	\N	f	f	2010-04-22 12:57:48.713213-04	pdfs/C5M67.pdf	images/thumbs/C5M67_t.jpg	images/C5M67.png	\N	\N	\N
+907	Head Start	Head_Start	\N	5	68	\N	\N	\N	f	f	2010-04-22 12:57:48.730565-04	pdfs/C5M68.pdf	images/thumbs/C5M68_t.jpg	images/C5M68.png	\N	\N	\N
+908	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	5	69	\N	\N	\N	f	f	2010-04-22 12:57:48.746616-04	pdfs/C5M69.pdf	images/thumbs/C5M69_t.jpg	images/C5M69.png	\N	\N	\N
+910	Parks Master Plan Update	Parks_Master_Plan_Update	\N	5	70	\N	\N	\N	f	f	2010-04-22 12:57:48.777795-04	pdfs/C5M70.pdf	images/thumbs/C5M70_t.jpg	images/C5M70.png	\N	\N	\N
+915	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	5	73	\N	\N	\N	f	f	2010-04-22 12:57:48.841495-04	pdfs/C5M73.pdf	images/thumbs/C5M73_t.jpg	images/C5M73.png	\N	\N	\N
+916	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	5	74	\N	\N	\N	f	f	2010-04-22 12:57:48.864005-04	pdfs/C5M74.pdf	images/thumbs/C5M74_t.jpg	images/C5M74.png	\N	\N	\N
+917	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	5	75	\N	\N	\N	f	f	2010-04-22 12:57:48.881521-04	pdfs/C5M75.pdf	images/thumbs/C5M75_t.jpg	images/C5M75.png	\N	\N	\N
+918	120% Area Mean Income	120%_Area_Mean_Income	\N	5	76	\N	\N	\N	f	f	2010-04-22 12:57:48.928612-04	pdfs/C5M76.pdf	images/thumbs/C5M76_t.jpg	images/C5M76.png	\N	\N	\N
+919	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	5	77	\N	\N	\N	f	f	2010-04-22 12:57:48.944818-04	pdfs/C5M77.pdf	images/thumbs/C5M77_t.jpg	images/C5M77.png	\N	\N	\N
+920	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	5	78	\N	\N	\N	f	f	2010-04-22 12:57:48.963072-04	pdfs/C5M78.pdf	images/thumbs/C5M78_t.jpg	images/C5M78.png	\N	\N	\N
+921	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	5	79	\N	\N	\N	f	f	2010-04-22 12:57:48.980941-04	pdfs/C5M79.pdf	images/thumbs/C5M79_t.jpg	images/C5M79.png	\N	\N	\N
+923	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	5	80	\N	\N	\N	f	f	2010-04-22 12:57:48.997007-04	pdfs/C5M80.pdf	images/thumbs/C5M80_t.jpg	images/C5M80.png	\N	\N	\N
+925	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	5	82	\N	\N	\N	f	f	2010-04-22 12:57:49.033588-04	pdfs/C5M82.pdf	images/thumbs/C5M82_t.jpg	images/C5M82.png	\N	\N	\N
+886	Bus Routes	Bus_Routes	\N	5	5	\N	\N	\N	f	f	2010-04-22 12:57:47.403369-04	pdfs/C5M5.pdf	images/thumbs/C5M5_t.jpg	images/C5M5.png	\N	\N	\N
+898	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	5	6	\N	\N	\N	f	f	2010-04-22 12:57:47.420864-04	pdfs/C5M6.pdf	images/thumbs/C5M6_t.jpg	images/C5M6.png	\N	\N	\N
+909	Insitutional Uses	Insitutional_Uses	\N	5	7	\N	\N	\N	f	f	2010-04-22 12:57:47.436745-04	pdfs/C5M7.pdf	images/thumbs/C5M7_t.jpg	images/C5M7.png	\N	\N	\N
 936	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	5	91	\N	\N	\N	t	f	2010-04-05 16:02:32.6906-04	pdfs/C5M91AppendixF.pdf			\N	\N	\N
 945	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	6	16	\N	\N	\N	f	t	2010-04-05 16:02:35.918944-04	pdfs/C6M16Color.pdf			\N	\N	\N
 946	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	6	17	\N	2007	1	f	f	2010-04-05 16:02:36.518343-04	pdfs/C6M17a_07.pdf			\N	\N	\N
@@ -13118,20 +13117,19 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 981	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2008	2	f	f	2010-04-05 16:02:40.195368-04	pdfs/C6M20b_08.pdf			\N	\N	\N
 982	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2009	2	f	f	2010-04-05 16:02:40.230035-04	pdfs/C6M20b_09.pdf			\N	\N	\N
 983	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2007	3	f	f	2010-04-05 16:02:40.379231-04	pdfs/C6M20c_07.pdf			\N	\N	\N
-929	2009 Street Paving	2009_Street_Paving	\N	5	86	\N	\N	\N	f	f	2010-04-08 15:03:32.409295-04	pdfs/C5M86.pdf	images/thumbs/C5M86_t.png	images/C5M86.png	\N	\N	\N
-931	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	5	88	\N	\N	\N	f	f	2010-04-08 15:03:33.439111-04	pdfs/C5M88.pdf	images/thumbs/C5M88_t.png	images/C5M88.png	\N	\N	\N
-932	Zoning (Color)	Zoning_(Color)	\N	5	89	\N	\N	\N	f	f	2010-04-08 15:03:33.938748-04	pdfs/C5M89.pdf	images/thumbs/C5M89_t.png	images/C5M89.png	\N	\N	\N
-934	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	5	90	\N	\N	\N	f	f	2010-04-08 15:03:34.46425-04	pdfs/C5M90.pdf	images/thumbs/C5M90_t.png	images/C5M90.png	\N	\N	\N
-935	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	5	91	\N	\N	\N	f	f	2010-04-08 15:03:34.961206-04	pdfs/C5M91.pdf	images/thumbs/C5M91_t.png	images/C5M91.png	\N	\N	\N
-937	Future Land Use	Future_Land_Use	\N	6	1	\N	\N	\N	f	f	2010-04-08 15:03:35.72908-04	pdfs/C6M1.pdf	images/thumbs/C6M1_t.png	images/C6M1.png	\N	\N	\N
-976	Zoning	Zoning	\N	6	2	\N	\N	\N	f	f	2010-04-08 15:03:36.470039-04	pdfs/C6M2.pdf	images/thumbs/C6M2_t.png	images/C6M2.png	\N	\N	\N
-940	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	6	12	\N	\N	\N	f	f	2010-04-08 15:03:43.823331-04	pdfs/C6M12.pdf	images/thumbs/C6M12_t.png	images/C6M12.png	\N	\N	\N
-941	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	6	13	\N	\N	\N	f	f	2010-04-08 15:03:44.567182-04	pdfs/C6M13.pdf	images/thumbs/C6M13_t.png	images/C6M13.png	\N	\N	\N
-942	ONCR	ONCR	\N	6	14	\N	\N	\N	f	f	2010-04-08 15:03:45.2557-04	pdfs/C6M14.pdf	images/thumbs/C6M14_t.png	images/C6M14.png	\N	\N	\N
-943	City & State Ownership	City_&_State_Ownership	\N	6	15	\N	\N	\N	f	f	2010-04-08 15:03:45.940769-04	pdfs/C6M15.pdf	images/thumbs/C6M15_t.png	images/C6M15.png	\N	\N	\N
-957	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	6	17	\N	2009	4	f	f	2010-04-08 15:03:47.248038-04	pdfs/C6M17d_09.pdf	images/thumbs/C6M17d_09_t.png	images/C6M17d_09.png	\N	\N	\N
-975	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	6	19	\N	2009	4	f	f	2010-04-08 15:03:47.87423-04	pdfs/C6M19d_09.pdf	images/thumbs/C6M19d_09_t.png	images/C6M19d_09.png	\N	\N	\N
-928	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	5	85	\N	\N	\N	f	f	2010-04-08 15:03:31.888841-04	pdfs/C5M85.pdf	images/thumbs/C5M85_t.png	images/C5M85.png	\N	\N	\N
+932	Zoning (Color)	Zoning_(Color)	\N	5	89	\N	\N	\N	f	f	2010-04-22 12:57:49.175239-04	pdfs/C5M89.pdf	images/thumbs/C5M89_t.jpg	images/C5M89.png	\N	\N	\N
+934	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	5	90	\N	\N	\N	f	f	2010-04-22 12:57:49.195746-04	pdfs/C5M90.pdf	images/thumbs/C5M90_t.jpg	images/C5M90.png	\N	\N	\N
+935	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	5	91	\N	\N	\N	f	f	2010-04-22 12:57:49.212135-04	pdfs/C5M91.pdf	images/thumbs/C5M91_t.jpg	images/C5M91.png	\N	\N	\N
+937	Future Land Use	Future_Land_Use	\N	6	1	\N	\N	\N	f	f	2010-04-22 12:57:49.671179-04	pdfs/C6M1.pdf	images/thumbs/C6M1_t.jpg	images/C6M1.png	\N	\N	\N
+976	Zoning	Zoning	\N	6	2	\N	\N	\N	f	f	2010-04-22 12:57:49.699684-04	pdfs/C6M2.pdf	images/thumbs/C6M2_t.jpg	images/C6M2.png	\N	\N	\N
+940	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	6	12	\N	\N	\N	f	f	2010-04-22 12:57:49.943736-04	pdfs/C6M12.pdf	images/thumbs/C6M12_t.jpg	images/C6M12.png	\N	\N	\N
+941	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	6	13	\N	\N	\N	f	f	2010-04-22 12:57:49.978571-04	pdfs/C6M13.pdf	images/thumbs/C6M13_t.jpg	images/C6M13.png	\N	\N	\N
+942	ONCR	ONCR	\N	6	14	\N	\N	\N	f	f	2010-04-22 12:57:49.995979-04	pdfs/C6M14.pdf	images/thumbs/C6M14_t.jpg	images/C6M14.png	\N	\N	\N
+943	City & State Ownership	City_&_State_Ownership	\N	6	15	\N	\N	\N	f	f	2010-04-22 12:57:50.017947-04	pdfs/C6M15.pdf	images/thumbs/C6M15_t.jpg	images/C6M15.png	\N	\N	\N
+957	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	6	17	\N	2009	4	f	f	2010-04-22 12:57:50.120466-04	pdfs/C6M17d_09.pdf	images/thumbs/C6M17d_09_t.jpg	images/C6M17d_09.png	\N	\N	\N
+975	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	6	19	\N	2009	4	f	f	2010-04-22 12:57:50.148957-04	pdfs/C6M19d_09.pdf	images/thumbs/C6M19d_09_t.jpg	images/C6M19d_09.png	\N	\N	\N
+929	2009 Street Paving	2009_Street_Paving	\N	5	86	\N	\N	\N	f	f	2010-04-22 12:57:49.123533-04	pdfs/C5M86.pdf	images/thumbs/C5M86_t.jpg	images/C5M86.png	\N	\N	\N
+931	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	5	88	\N	\N	\N	f	f	2010-04-22 12:57:49.157623-04	pdfs/C5M88.pdf	images/thumbs/C5M88_t.jpg	images/C5M88.png	\N	\N	\N
 984	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2008	3	f	f	2010-04-05 16:02:40.69865-04	pdfs/C6M20c_08.pdf			\N	\N	\N
 985	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2009	3	f	f	2010-04-05 16:02:40.754707-04	pdfs/C6M20c_09.pdf			\N	\N	\N
 986	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2007	4	f	f	2010-04-05 16:02:40.861615-04	pdfs/C6M20d_07.pdf			\N	\N	\N
@@ -13160,26 +13158,26 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1011	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	6	22	\N	2008	4	f	f	2010-04-05 16:02:42.448302-04	pdfs/C6M22d_08.pdf			\N	\N	\N
 1020	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	6	29	\N	\N	\N	f	t	2010-04-05 16:02:42.90591-04	pdfs/C6M29Color.pdf			\N	\N	\N
 1039	Wayne County Tax Foreclosures - 2006	Wayne_County_Tax_Foreclosures_-_2006	\N	6	46	\N	\N	\N	f	f	2010-04-05 16:02:43.933188-04	pdfs/C6M46.pdf			\N	\N	\N
-1000	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	6	21	\N	2009	4	f	f	2010-04-08 15:03:49.145496-04	pdfs/C6M21d_09.pdf	images/thumbs/C6M21d_09_t.png	images/C6M21d_09.png	\N	\N	\N
-1013	Change in Housing Units	Change_in_Housing_Units	\N	6	23	\N	\N	\N	f	f	2010-04-08 15:03:50.447997-04	pdfs/C6M23.pdf	images/thumbs/C6M23_t.png	images/C6M23.png	\N	\N	\N
-1014	Change in Population	Change_in_Population	\N	6	24	\N	\N	\N	f	f	2010-04-08 15:03:51.089732-04	pdfs/C6M24.pdf	images/thumbs/C6M24_t.png	images/C6M24.png	\N	\N	\N
-1015	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	6	25	\N	\N	\N	f	f	2010-04-08 15:03:51.755196-04	pdfs/C6M25.pdf	images/thumbs/C6M25_t.png	images/C6M25.png	\N	\N	\N
-1016	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	6	26	\N	\N	\N	f	f	2010-04-08 15:03:52.453175-04	pdfs/C6M26.pdf	images/thumbs/C6M26_t.png	images/C6M26.png	\N	\N	\N
-1017	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	6	27	\N	\N	\N	f	f	2010-04-08 15:03:53.125133-04	pdfs/C6M27.pdf	images/thumbs/C6M27_t.png	images/C6M27.png	\N	\N	\N
-1018	Median Rent	Median_Rent	\N	6	28	\N	\N	\N	f	f	2010-04-08 15:03:53.757704-04	pdfs/C6M28.pdf	images/thumbs/C6M28_t.png	images/C6M28.png	\N	\N	\N
-1022	Households without Vehicles	Households_without_Vehicles	\N	6	30	\N	\N	\N	f	f	2010-04-08 15:03:55.202576-04	pdfs/C6M30.pdf	images/thumbs/C6M30_t.png	images/C6M30.png	\N	\N	\N
-1023	Median Income	Median_Income	\N	6	31	\N	\N	\N	f	f	2010-04-08 15:03:56.144144-04	pdfs/C6M31.pdf	images/thumbs/C6M31_t.png	images/C6M31.png	\N	\N	\N
-1024	Youth Population Change	Youth_Population_Change	\N	6	32	\N	\N	\N	f	f	2010-04-08 15:03:57.15394-04	pdfs/C6M32.pdf	images/thumbs/C6M32_t.png	images/C6M32.png	\N	\N	\N
-1025	Foreign Born Population	Foreign_Born_Population	\N	6	33	\N	\N	\N	f	f	2010-04-08 15:03:57.96444-04	pdfs/C6M33.pdf	images/thumbs/C6M33_t.png	images/C6M33.png	\N	\N	\N
-1026	Employment Sites	Employment_Sites	\N	6	34	\N	\N	\N	f	f	2010-04-08 15:03:58.773365-04	pdfs/C6M34.pdf	images/thumbs/C6M34_t.png	images/C6M34.png	\N	\N	\N
-1029	DPS Sites	DPS_Sites	\N	6	37	\N	\N	\N	f	f	2010-04-08 15:04:02.214442-04	pdfs/C6M37.pdf	images/thumbs/C6M37_t.png	images/C6M37.png	\N	\N	\N
-1030	Other Schools	Other_Schools	\N	6	38	\N	\N	\N	f	f	2010-04-08 15:04:03.503621-04	pdfs/C6M38.pdf	images/thumbs/C6M38_t.png	images/C6M38.png	\N	\N	\N
+1014	Change in Population	Change_in_Population	\N	6	24	\N	\N	\N	f	f	2010-04-22 12:57:50.438197-04	pdfs/C6M24.pdf	images/thumbs/C6M24_t.jpg	images/C6M24.png	\N	\N	\N
+1015	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	6	25	\N	\N	\N	f	f	2010-04-22 12:57:50.486962-04	pdfs/C6M25.pdf	images/thumbs/C6M25_t.jpg	images/C6M25.png	\N	\N	\N
+1016	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	6	26	\N	\N	\N	f	f	2010-04-22 12:57:50.594252-04	pdfs/C6M26.pdf	images/thumbs/C6M26_t.jpg	images/C6M26.png	\N	\N	\N
+1017	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	6	27	\N	\N	\N	f	f	2010-04-22 12:57:51.044252-04	pdfs/C6M27.pdf	images/thumbs/C6M27_t.jpg	images/C6M27.png	\N	\N	\N
+1018	Median Rent	Median_Rent	\N	6	28	\N	\N	\N	f	f	2010-04-22 12:57:51.185007-04	pdfs/C6M28.pdf	images/thumbs/C6M28_t.jpg	images/C6M28.png	\N	\N	\N
+1022	Households without Vehicles	Households_without_Vehicles	\N	6	30	\N	\N	\N	f	f	2010-04-22 12:57:51.534151-04	pdfs/C6M30.pdf	images/thumbs/C6M30_t.jpg	images/C6M30.png	\N	\N	\N
+1023	Median Income	Median_Income	\N	6	31	\N	\N	\N	f	f	2010-04-22 12:57:51.639952-04	pdfs/C6M31.pdf	images/thumbs/C6M31_t.jpg	images/C6M31.png	\N	\N	\N
+1024	Youth Population Change	Youth_Population_Change	\N	6	32	\N	\N	\N	f	f	2010-04-22 12:57:51.753464-04	pdfs/C6M32.pdf	images/thumbs/C6M32_t.jpg	images/C6M32.png	\N	\N	\N
+1025	Foreign Born Population	Foreign_Born_Population	\N	6	33	\N	\N	\N	f	f	2010-04-22 12:57:52.131943-04	pdfs/C6M33.pdf	images/thumbs/C6M33_t.jpg	images/C6M33.png	\N	\N	\N
+1026	Employment Sites	Employment_Sites	\N	6	34	\N	\N	\N	f	f	2010-04-22 12:57:52.181177-04	pdfs/C6M34.pdf	images/thumbs/C6M34_t.jpg	images/C6M34.png	\N	\N	\N
+1029	DPS Sites	DPS_Sites	\N	6	37	\N	\N	\N	f	f	2010-04-22 12:57:52.738299-04	pdfs/C6M37.pdf	images/thumbs/C6M37_t.jpg	images/C6M37.png	\N	\N	\N
+1030	Other Schools	Other_Schools	\N	6	38	\N	\N	\N	f	f	2010-04-22 12:57:52.964945-04	pdfs/C6M38.pdf	images/thumbs/C6M38_t.jpg	images/C6M38.png	\N	\N	\N
+1033	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	6	40	\N	\N	\N	f	f	2010-04-22 12:57:53.087744-04	pdfs/C6M40.pdf	images/thumbs/C6M40_t.jpg	images/C6M40.png	\N	\N	\N
+1034	Elderly Population	Elderly_Population	\N	6	41	\N	\N	\N	f	f	2010-04-22 12:57:53.288888-04	pdfs/C6M41.pdf	images/thumbs/C6M41_t.jpg	images/C6M41.png	\N	\N	\N
 1031	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	6	39	\N	\N	\N	f	f	2010-04-08 15:04:04.484648-04	pdfs/C6M39.pdf	images/thumbs/C6M39_t.png	images/C6M39.png	\N	\N	\N
-1033	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	6	40	\N	\N	\N	f	f	2010-04-08 15:04:05.209968-04	pdfs/C6M40.pdf	images/thumbs/C6M40_t.png	images/C6M40.png	\N	\N	\N
-1034	Elderly Population	Elderly_Population	\N	6	41	\N	\N	\N	f	f	2010-04-08 15:04:05.900983-04	pdfs/C6M41.pdf	images/thumbs/C6M41_t.png	images/C6M41.png	\N	\N	\N
-1035	Greenways	Greenways	\N	6	42	\N	\N	\N	f	f	2010-04-08 15:04:06.61041-04	pdfs/C6M42.pdf	images/thumbs/C6M42_t.png	images/C6M42.png	\N	\N	\N
+1035	Greenways	Greenways	\N	6	42	\N	\N	\N	f	f	2010-04-22 12:57:53.700351-04	pdfs/C6M42.pdf	images/thumbs/C6M42_t.jpg	images/C6M42.png	\N	\N	\N
+1032	Transportation Network	Transportation_Network	\N	6	4	\N	\N	\N	f	f	2010-04-22 12:57:49.747579-04	pdfs/C6M4.pdf	images/thumbs/C6M4_t.jpg	images/C6M4.png	\N	\N	\N
 1036	Truck Routes	Truck_Routes	\N	6	43	\N	\N	\N	f	f	2010-04-08 15:04:07.372374-04	pdfs/C6M43.pdf	images/thumbs/C6M43_t.png	images/C6M43.png	\N	\N	\N
-1032	Transportation Network	Transportation_Network	\N	6	4	\N	\N	\N	f	f	2010-04-08 15:03:37.883955-04	pdfs/C6M4.pdf	images/thumbs/C6M4_t.png	images/C6M4.png	\N	\N	\N
+1000	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	6	21	\N	2009	4	f	f	2010-04-22 12:57:50.226057-04	pdfs/C6M21d_09.pdf	images/thumbs/C6M21d_09_t.jpg	images/C6M21d_09.png	\N	\N	\N
+1013	Change in Housing Units	Change_in_Housing_Units	\N	6	23	\N	\N	\N	f	f	2010-04-22 12:57:50.392738-04	pdfs/C6M23.pdf	images/thumbs/C6M23_t.jpg	images/C6M23.png	\N	\N	\N
 1040	Traffic Counts	Traffic_Counts	\N	6	47	\N	\N	\N	f	f	2010-04-05 16:02:43.965613-04	pdfs/C6M47.pdf			\N	\N	\N
 1041	Consumer Expenditures (see appendix A)	Consumer_Expenditures_(see_appendix_A)	\N	6	48	\N	\N	\N	f	f	2010-04-05 16:02:44.011293-04	pdfs/C6M48.pdf			\N	\N	\N
 1042	Consumer Expenditures (see appendix A)	Consumer_Expenditures_(see_appendix_A)	\N	6	48	\N	\N	\N	t	f	2010-04-05 16:02:44.051079-04	pdfs/C6M48AppendixA.pdf			\N	\N	\N
@@ -13191,44 +13189,43 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1070	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	6	71	\N	\N	\N	t	f	2010-04-05 16:02:46.595003-04	pdfs/C6M71AppendixD.pdf			\N	\N	\N
 1072	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	6	72	\N	\N	\N	t	f	2010-04-05 16:02:46.771245-04	pdfs/C6M72AppendixE.pdf			\N	\N	\N
 1094	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	6	91	\N	\N	\N	t	f	2010-04-05 16:02:49.168601-04	pdfs/C6M91AppendixF.pdf			\N	\N	\N
-1080	Historic Sites	Historic_Sites	\N	6	8	\N	\N	\N	f	f	2010-04-08 15:03:40.674512-04	pdfs/C6M8.pdf	images/thumbs/C6M8_t.png	images/C6M8.png	\N	\N	\N
-1091	2000 Aerial Photo	2000_Aerial_Photo	\N	6	9	\N	\N	\N	f	f	2010-04-08 15:03:41.46549-04	pdfs/C6M9.pdf	images/thumbs/C6M9_t.png	images/C6M9.png	\N	\N	\N
-1048	Births	Births	\N	6	53	\N	\N	\N	f	f	2010-04-08 15:04:09.561661-04	pdfs/C6M53.pdf	images/thumbs/C6M53_t.png	images/C6M53.png	\N	\N	\N
-1049	Deaths	Deaths	\N	6	54	\N	\N	\N	f	f	2010-04-08 15:04:10.478202-04	pdfs/C6M54.pdf	images/thumbs/C6M54_t.png	images/C6M54.png	\N	\N	\N
-1050	Crime	Crime	\N	6	55	\N	\N	\N	f	f	2010-04-08 15:04:11.491999-04	pdfs/C6M55.pdf	images/thumbs/C6M55_t.png	images/C6M55.png	\N	\N	\N
-1052	Fires	Fires	\N	6	57	\N	\N	\N	f	f	2010-04-08 15:04:12.758551-04	pdfs/C6M57.pdf	images/thumbs/C6M57_t.png	images/C6M57.png	\N	\N	\N
-1055	Sales	Sales	\N	6	59	\N	\N	\N	f	f	2010-04-08 15:04:14.076895-04	pdfs/C6M59.pdf	images/thumbs/C6M59_t.png	images/C6M59.png	\N	\N	\N
-1057	Registered Voters	Registered_Voters	\N	6	60	\N	\N	\N	f	f	2010-04-08 15:04:14.684255-04	pdfs/C6M60.pdf	images/thumbs/C6M60_t.png	images/C6M60.png	\N	\N	\N
-1059	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	6	62	\N	\N	\N	f	f	2010-04-08 15:04:15.958275-04	pdfs/C6M62.pdf	images/thumbs/C6M62_t.png	images/C6M62.png	\N	\N	\N
-1061	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	6	64	\N	\N	\N	f	f	2010-04-08 15:04:17.247013-04	pdfs/C6M64.pdf	images/thumbs/C6M64_t.png	images/C6M64.png	\N	\N	\N
-1062	Licensed Businesses	Licensed_Businesses	\N	6	65	\N	\N	\N	f	f	2010-04-08 15:04:17.846624-04	pdfs/C6M65.pdf	images/thumbs/C6M65_t.png	images/C6M65.png	\N	\N	\N
-1063	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	6	66	\N	\N	\N	f	f	2010-04-08 15:04:18.467882-04	pdfs/C6M66.pdf	images/thumbs/C6M66_t.png	images/C6M66.png	\N	\N	\N
-1064	Human Services Programs	Human_Services_Programs	\N	6	67	\N	\N	\N	f	f	2010-04-08 15:04:19.29183-04	pdfs/C6M67.pdf	images/thumbs/C6M67_t.png	images/C6M67.png	\N	\N	\N
-1065	Head Start	Head_Start	\N	6	68	\N	\N	\N	f	f	2010-04-08 15:04:20.180008-04	pdfs/C6M68.pdf	images/thumbs/C6M68_t.png	images/C6M68.png	\N	\N	\N
-1066	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	6	69	\N	\N	\N	f	f	2010-04-08 15:04:20.820158-04	pdfs/C6M69.pdf	images/thumbs/C6M69_t.png	images/C6M69.png	\N	\N	\N
-1069	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	6	71	\N	\N	\N	f	f	2010-04-08 15:04:22.1724-04	pdfs/C6M71.pdf	images/thumbs/C6M71_t.png	images/C6M71.png	\N	\N	\N
-1073	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	6	73	\N	\N	\N	f	f	2010-04-08 15:04:23.567328-04	pdfs/C6M73.pdf	images/thumbs/C6M73_t.png	images/C6M73.png	\N	\N	\N
-1074	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	6	74	\N	\N	\N	f	f	2010-04-08 15:04:24.209146-04	pdfs/C6M74.pdf	images/thumbs/C6M74_t.png	images/C6M74.png	\N	\N	\N
-1075	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	6	75	\N	\N	\N	f	f	2010-04-08 15:04:24.827249-04	pdfs/C6M75.pdf	images/thumbs/C6M75_t.png	images/C6M75.png	\N	\N	\N
-1076	120% Area Mean Income	120%_Area_Mean_Income	\N	6	76	\N	\N	\N	f	f	2010-04-08 15:04:25.485596-04	pdfs/C6M76.pdf	images/thumbs/C6M76_t.png	images/C6M76.png	\N	\N	\N
-1078	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	6	78	\N	\N	\N	f	f	2010-04-08 15:04:27.040463-04	pdfs/C6M78.pdf	images/thumbs/C6M78_t.png	images/C6M78.png	\N	\N	\N
-1079	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	6	79	\N	\N	\N	f	f	2010-04-08 15:04:27.896194-04	pdfs/C6M79.pdf	images/thumbs/C6M79_t.png	images/C6M79.png	\N	\N	\N
-1081	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	6	80	\N	\N	\N	f	f	2010-04-08 15:04:28.744073-04	pdfs/C6M80.pdf	images/thumbs/C6M80_t.png	images/C6M80.png	\N	\N	\N
-1082	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	6	81	\N	\N	\N	f	f	2010-04-08 15:04:29.467688-04	pdfs/C6M81.pdf	images/thumbs/C6M81_t.png	images/C6M81.png	\N	\N	\N
-1083	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	6	82	\N	\N	\N	f	f	2010-04-08 15:04:30.745382-04	pdfs/C6M82.pdf	images/thumbs/C6M82_t.png	images/C6M82.png	\N	\N	\N
-1086	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	6	85	\N	\N	\N	f	f	2010-04-08 15:04:32.845078-04	pdfs/C6M85.pdf	images/thumbs/C6M85_t.png	images/C6M85.png	\N	\N	\N
-1087	2009 Street Paving	2009_Street_Paving	\N	6	86	\N	\N	\N	f	f	2010-04-08 15:04:33.500378-04	pdfs/C6M86.pdf	images/thumbs/C6M86_t.png	images/C6M86.png	\N	\N	\N
-1088	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	6	87	\N	\N	\N	f	f	2010-04-08 15:04:34.113982-04	pdfs/C6M87.pdf	images/thumbs/C6M87_t.png	images/C6M87.png	\N	\N	\N
-1089	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	6	88	\N	\N	\N	f	f	2010-04-08 15:04:34.769803-04	pdfs/C6M88.pdf	images/thumbs/C6M88_t.png	images/C6M88.png	\N	\N	\N
-1090	Zoning (Color)	Zoning_(Color)	\N	6	89	\N	\N	\N	f	f	2010-04-08 15:04:35.365878-04	pdfs/C6M89.pdf	images/thumbs/C6M89_t.png	images/C6M89.png	\N	\N	\N
-1092	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	6	90	\N	\N	\N	f	f	2010-04-08 15:04:36.013744-04	pdfs/C6M90.pdf	images/thumbs/C6M90_t.png	images/C6M90.png	\N	\N	\N
-1093	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	6	91	\N	\N	\N	f	f	2010-04-08 15:04:36.932036-04	pdfs/C6M91.pdf	images/thumbs/C6M91_t.png	images/C6M91.png	\N	\N	\N
-1095	Future Land Use	Future_Land_Use	\N	7	1	\N	\N	\N	f	f	2010-04-08 15:04:37.446722-04	pdfs/C7M1.pdf	images/thumbs/C7M1_t.png	images/C7M1.png	\N	\N	\N
-1098	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	7	12	\N	\N	\N	f	f	2010-04-08 15:04:40.995526-04	pdfs/C7M12.pdf	images/thumbs/C7M12_t.png	images/C7M12.png	\N	\N	\N
-1099	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	7	13	\N	\N	\N	f	f	2010-04-08 15:04:41.303722-04	pdfs/C7M13.pdf	images/thumbs/C7M13_t.png	images/C7M13.png	\N	\N	\N
-1100	ONCR	ONCR	\N	7	14	\N	\N	\N	f	f	2010-04-08 15:04:41.691918-04	pdfs/C7M14.pdf	images/thumbs/C7M14_t.png	images/C7M14.png	\N	\N	\N
-1101	City & State Ownership	City_&_State_Ownership	\N	7	15	\N	\N	\N	f	f	2010-04-08 15:04:42.127929-04	pdfs/C7M15.pdf	images/thumbs/C7M15_t.png	images/C7M15.png	\N	\N	\N
-1102	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	7	16	\N	\N	\N	f	f	2010-04-08 15:04:42.553361-04	pdfs/C7M16.pdf	images/thumbs/C7M16_t.png	images/C7M16.png	\N	\N	\N
+1048	Births	Births	\N	6	53	\N	\N	\N	f	f	2010-04-22 12:57:54.659375-04	pdfs/C6M53.pdf	images/thumbs/C6M53_t.jpg	images/C6M53.png	\N	\N	\N
+1049	Deaths	Deaths	\N	6	54	\N	\N	\N	f	f	2010-04-22 12:57:54.742145-04	pdfs/C6M54.pdf	images/thumbs/C6M54_t.jpg	images/C6M54.png	\N	\N	\N
+1050	Crime	Crime	\N	6	55	\N	\N	\N	f	f	2010-04-22 12:57:54.797543-04	pdfs/C6M55.pdf	images/thumbs/C6M55_t.jpg	images/C6M55.png	\N	\N	\N
+1052	Fires	Fires	\N	6	57	\N	\N	\N	f	f	2010-04-22 12:57:54.944332-04	pdfs/C6M57.pdf	images/thumbs/C6M57_t.jpg	images/C6M57.png	\N	\N	\N
+1055	Sales	Sales	\N	6	59	\N	\N	\N	f	f	2010-04-22 12:57:55.163334-04	pdfs/C6M59.pdf	images/thumbs/C6M59_t.jpg	images/C6M59.png	\N	\N	\N
+1057	Registered Voters	Registered_Voters	\N	6	60	\N	\N	\N	f	f	2010-04-22 12:57:55.20722-04	pdfs/C6M60.pdf	images/thumbs/C6M60_t.jpg	images/C6M60.png	\N	\N	\N
+1059	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	6	62	\N	\N	\N	f	f	2010-04-22 12:57:55.378697-04	pdfs/C6M62.pdf	images/thumbs/C6M62_t.jpg	images/C6M62.png	\N	\N	\N
+1061	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	6	64	\N	\N	\N	f	f	2010-04-22 12:57:55.562565-04	pdfs/C6M64.pdf	images/thumbs/C6M64_t.jpg	images/C6M64.png	\N	\N	\N
+1062	Licensed Businesses	Licensed_Businesses	\N	6	65	\N	\N	\N	f	f	2010-04-22 12:57:55.64729-04	pdfs/C6M65.pdf	images/thumbs/C6M65_t.jpg	images/C6M65.png	\N	\N	\N
+1063	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	6	66	\N	\N	\N	f	f	2010-04-22 12:57:55.674223-04	pdfs/C6M66.pdf	images/thumbs/C6M66_t.jpg	images/C6M66.png	\N	\N	\N
+1064	Human Services Programs	Human_Services_Programs	\N	6	67	\N	\N	\N	f	f	2010-04-22 12:57:55.74942-04	pdfs/C6M67.pdf	images/thumbs/C6M67_t.jpg	images/C6M67.png	\N	\N	\N
+1065	Head Start	Head_Start	\N	6	68	\N	\N	\N	f	f	2010-04-22 12:57:55.784751-04	pdfs/C6M68.pdf	images/thumbs/C6M68_t.jpg	images/C6M68.png	\N	\N	\N
+1066	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	6	69	\N	\N	\N	f	f	2010-04-22 12:57:55.806099-04	pdfs/C6M69.pdf	images/thumbs/C6M69_t.jpg	images/C6M69.png	\N	\N	\N
+1073	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	6	73	\N	\N	\N	f	f	2010-04-22 12:57:56.041839-04	pdfs/C6M73.pdf	images/thumbs/C6M73_t.jpg	images/C6M73.png	\N	\N	\N
+1074	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	6	74	\N	\N	\N	f	f	2010-04-22 12:57:56.074319-04	pdfs/C6M74.pdf	images/thumbs/C6M74_t.jpg	images/C6M74.png	\N	\N	\N
+1075	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	6	75	\N	\N	\N	f	f	2010-04-22 12:57:56.1028-04	pdfs/C6M75.pdf	images/thumbs/C6M75_t.jpg	images/C6M75.png	\N	\N	\N
+1076	120% Area Mean Income	120%_Area_Mean_Income	\N	6	76	\N	\N	\N	f	f	2010-04-22 12:57:56.165873-04	pdfs/C6M76.pdf	images/thumbs/C6M76_t.jpg	images/C6M76.png	\N	\N	\N
+1078	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	6	78	\N	\N	\N	f	f	2010-04-22 12:57:56.34716-04	pdfs/C6M78.pdf	images/thumbs/C6M78_t.jpg	images/C6M78.png	\N	\N	\N
+1079	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	6	79	\N	\N	\N	f	f	2010-04-22 12:57:56.496307-04	pdfs/C6M79.pdf	images/thumbs/C6M79_t.jpg	images/C6M79.png	\N	\N	\N
+1081	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	6	80	\N	\N	\N	f	f	2010-04-22 12:57:56.547695-04	pdfs/C6M80.pdf	images/thumbs/C6M80_t.jpg	images/C6M80.png	\N	\N	\N
+1082	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	6	81	\N	\N	\N	f	f	2010-04-22 12:57:56.579168-04	pdfs/C6M81.pdf	images/thumbs/C6M81_t.jpg	images/C6M81.png	\N	\N	\N
+1083	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	6	82	\N	\N	\N	f	f	2010-04-22 12:57:56.642942-04	pdfs/C6M82.pdf	images/thumbs/C6M82_t.jpg	images/C6M82.png	\N	\N	\N
+1086	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	6	85	\N	\N	\N	f	f	2010-04-22 12:57:56.741363-04	pdfs/C6M85.pdf	images/thumbs/C6M85_t.jpg	images/C6M85.png	\N	\N	\N
+1087	2009 Street Paving	2009_Street_Paving	\N	6	86	\N	\N	\N	f	f	2010-04-22 12:57:56.757699-04	pdfs/C6M86.pdf	images/thumbs/C6M86_t.jpg	images/C6M86.png	\N	\N	\N
+1088	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	6	87	\N	\N	\N	f	f	2010-04-22 12:57:56.805268-04	pdfs/C6M87.pdf	images/thumbs/C6M87_t.jpg	images/C6M87.png	\N	\N	\N
+1089	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	6	88	\N	\N	\N	f	f	2010-04-22 12:57:56.821983-04	pdfs/C6M88.pdf	images/thumbs/C6M88_t.jpg	images/C6M88.png	\N	\N	\N
+1090	Zoning (Color)	Zoning_(Color)	\N	6	89	\N	\N	\N	f	f	2010-04-22 12:57:56.893109-04	pdfs/C6M89.pdf	images/thumbs/C6M89_t.jpg	images/C6M89.png	\N	\N	\N
+1092	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	6	90	\N	\N	\N	f	f	2010-04-22 12:57:56.956257-04	pdfs/C6M90.pdf	images/thumbs/C6M90_t.jpg	images/C6M90.png	\N	\N	\N
+1093	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	6	91	\N	\N	\N	f	f	2010-04-22 12:57:57.45314-04	pdfs/C6M91.pdf	images/thumbs/C6M91_t.jpg	images/C6M91.png	\N	\N	\N
+1095	Future Land Use	Future_Land_Use	\N	7	1	\N	\N	\N	f	f	2010-04-22 12:57:57.618375-04	pdfs/C7M1.pdf	images/thumbs/C7M1_t.jpg	images/C7M1.png	\N	\N	\N
+1098	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	7	12	\N	\N	\N	f	f	2010-04-22 12:57:58.013612-04	pdfs/C7M12.pdf	images/thumbs/C7M12_t.jpg	images/C7M12.png	\N	\N	\N
+1099	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	7	13	\N	\N	\N	f	f	2010-04-22 12:57:58.028721-04	pdfs/C7M13.pdf	images/thumbs/C7M13_t.jpg	images/C7M13.png	\N	\N	\N
+1100	ONCR	ONCR	\N	7	14	\N	\N	\N	f	f	2010-04-22 12:57:58.045378-04	pdfs/C7M14.pdf	images/thumbs/C7M14_t.jpg	images/C7M14.png	\N	\N	\N
+1101	City & State Ownership	City_&_State_Ownership	\N	7	15	\N	\N	\N	f	f	2010-04-22 12:57:58.060668-04	pdfs/C7M15.pdf	images/thumbs/C7M15_t.jpg	images/C7M15.png	\N	\N	\N
+1102	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	7	16	\N	\N	\N	f	f	2010-04-22 12:57:58.075512-04	pdfs/C7M16.pdf	images/thumbs/C7M16_t.jpg	images/C7M16.png	\N	\N	\N
+1080	Historic Sites	Historic_Sites	\N	6	8	\N	\N	\N	f	f	2010-04-22 12:57:49.839581-04	pdfs/C6M8.pdf	images/thumbs/C6M8_t.jpg	images/C6M8.png	\N	\N	\N
+1091	2000 Aerial Photo	2000_Aerial_Photo	\N	6	9	\N	\N	\N	f	f	2010-04-22 12:57:49.85663-04	pdfs/C6M9.pdf	images/thumbs/C6M9_t.jpg	images/C6M9.png	\N	\N	\N
 1103	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	7	16	\N	\N	\N	f	t	2010-04-05 16:02:50.019566-04	pdfs/C7M16Color.pdf			\N	\N	\N
 1104	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	7	17	\N	2007	1	f	f	2010-04-05 16:02:50.201323-04	pdfs/C7M17a_07.pdf			\N	\N	\N
 1105	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	7	17	\N	2008	1	f	f	2010-04-05 16:02:50.238752-04	pdfs/C7M17a_08.pdf			\N	\N	\N
@@ -13279,8 +13276,8 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1154	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	7	21	\N	2008	3	f	f	2010-04-05 16:02:53.317342-04	pdfs/C7M21c_08.pdf			\N	\N	\N
 1155	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	7	21	\N	2009	3	f	f	2010-04-05 16:02:53.387852-04	pdfs/C7M21c_09.pdf			\N	\N	\N
 1156	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	7	21	\N	2007	4	f	f	2010-04-05 16:02:53.417105-04	pdfs/C7M21d_07.pdf			\N	\N	\N
-1146	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	7	20	\N	2009	4	f	f	2010-04-08 15:04:43.60964-04	pdfs/C7M20d_09.pdf	images/thumbs/C7M20d_09_t.png	images/C7M20d_09.png	\N	\N	\N
-1115	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	7	17	\N	2009	4	f	f	2010-04-08 15:04:42.984105-04	pdfs/C7M17d_09.pdf	images/thumbs/C7M17d_09_t.png	images/C7M17d_09.png	\N	\N	\N
+1115	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	7	17	\N	2009	4	f	f	2010-04-22 12:57:58.093932-04	pdfs/C7M17d_09.pdf	images/thumbs/C7M17d_09_t.jpg	images/C7M17d_09.png	\N	\N	\N
+1146	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	7	20	\N	2009	4	f	f	2010-04-22 12:57:58.132422-04	pdfs/C7M20d_09.pdf	images/thumbs/C7M20d_09_t.jpg	images/C7M20d_09.png	\N	\N	\N
 1157	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	7	21	\N	2008	4	f	f	2010-04-05 16:02:53.492492-04	pdfs/C7M21d_08.pdf			\N	\N	\N
 1159	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	7	22	\N	2007	1	f	f	2010-04-05 16:02:53.598518-04	pdfs/C7M22a_07.pdf			\N	\N	\N
 1160	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	7	22	\N	2008	1	f	f	2010-04-05 16:02:53.651616-04	pdfs/C7M22a_08.pdf			\N	\N	\N
@@ -13303,34 +13300,33 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1204	2005 Aerail Photo (Color)	2005_Aerail_Photo_(Color)	\N	7	51	\N	\N	\N	f	f	2010-04-05 16:02:56.417574-04	pdfs/C7M51.pdf			\N	\N	\N
 1205	Zip Codes	Zip_Codes	\N	7	52	\N	\N	\N	f	f	2010-04-05 16:02:56.576762-04	pdfs/C7M52.pdf			\N	\N	\N
 1212	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	7	58	\N	\N	\N	t	f	2010-04-05 16:02:56.92541-04	pdfs/C7M58AppendixC.pdf			\N	\N	\N
-1214	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	7	6	\N	\N	\N	f	f	2010-04-08 15:04:39.266069-04	pdfs/C7M6.pdf	images/thumbs/C7M6_t.png	images/C7M6.png	\N	\N	\N
-1171	Change in Housing Units	Change_in_Housing_Units	\N	7	23	\N	\N	\N	f	f	2010-04-08 15:04:44.41449-04	pdfs/C7M23.pdf	images/thumbs/C7M23_t.png	images/C7M23.png	\N	\N	\N
-1172	Change in Population	Change_in_Population	\N	7	24	\N	\N	\N	f	f	2010-04-08 15:04:44.679176-04	pdfs/C7M24.pdf	images/thumbs/C7M24_t.png	images/C7M24.png	\N	\N	\N
-1173	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	7	25	\N	\N	\N	f	f	2010-04-08 15:04:44.950173-04	pdfs/C7M25.pdf	images/thumbs/C7M25_t.png	images/C7M25.png	\N	\N	\N
-1174	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	7	26	\N	\N	\N	f	f	2010-04-08 15:04:45.211967-04	pdfs/C7M26.pdf	images/thumbs/C7M26_t.png	images/C7M26.png	\N	\N	\N
-1175	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	7	27	\N	\N	\N	f	f	2010-04-08 15:04:45.475825-04	pdfs/C7M27.pdf	images/thumbs/C7M27_t.png	images/C7M27.png	\N	\N	\N
-1176	Median Rent	Median_Rent	\N	7	28	\N	\N	\N	f	f	2010-04-08 15:04:45.733823-04	pdfs/C7M28.pdf	images/thumbs/C7M28_t.png	images/C7M28.png	\N	\N	\N
-1177	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	7	29	\N	\N	\N	f	f	2010-04-08 15:04:46.016829-04	pdfs/C7M29.pdf	images/thumbs/C7M29_t.png	images/C7M29.png	\N	\N	\N
-1180	Households without Vehicles	Households_without_Vehicles	\N	7	30	\N	\N	\N	f	f	2010-04-08 15:04:46.275451-04	pdfs/C7M30.pdf	images/thumbs/C7M30_t.png	images/C7M30.png	\N	\N	\N
-1181	Median Income	Median_Income	\N	7	31	\N	\N	\N	f	f	2010-04-08 15:04:46.53043-04	pdfs/C7M31.pdf	images/thumbs/C7M31_t.png	images/C7M31.png	\N	\N	\N
-1183	Foreign Born Population	Foreign_Born_Population	\N	7	33	\N	\N	\N	f	f	2010-04-08 15:04:47.106588-04	pdfs/C7M33.pdf	images/thumbs/C7M33_t.png	images/C7M33.png	\N	\N	\N
-1185	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	7	35	\N	\N	\N	f	f	2010-04-08 15:04:47.685531-04	pdfs/C7M35.pdf	images/thumbs/C7M35_t.png	images/C7M35.png	\N	\N	\N
-1186	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	7	36	\N	\N	\N	f	f	2010-04-08 15:04:47.992978-04	pdfs/C7M36.pdf	images/thumbs/C7M36_t.png	images/C7M36.png	\N	\N	\N
-1187	DPS Sites	DPS_Sites	\N	7	37	\N	\N	\N	f	f	2010-04-08 15:04:48.536312-04	pdfs/C7M37.pdf	images/thumbs/C7M37_t.png	images/C7M37.png	\N	\N	\N
-1188	Other Schools	Other_Schools	\N	7	38	\N	\N	\N	f	f	2010-04-08 15:04:49.021408-04	pdfs/C7M38.pdf	images/thumbs/C7M38_t.png	images/C7M38.png	\N	\N	\N
-1192	Elderly Population	Elderly_Population	\N	7	41	\N	\N	\N	f	f	2010-04-08 15:04:50.316328-04	pdfs/C7M41.pdf	images/thumbs/C7M41_t.png	images/C7M41.png	\N	\N	\N
-1193	Greenways	Greenways	\N	7	42	\N	\N	\N	f	f	2010-04-08 15:04:50.601559-04	pdfs/C7M42.pdf	images/thumbs/C7M42_t.png	images/C7M42.png	\N	\N	\N
-1194	Truck Routes	Truck_Routes	\N	7	43	\N	\N	\N	f	f	2010-04-08 15:04:50.987301-04	pdfs/C7M43.pdf	images/thumbs/C7M43_t.png	images/C7M43.png	\N	\N	\N
-1195	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	7	44	\N	\N	\N	f	f	2010-04-08 15:04:51.330556-04	pdfs/C7M44.pdf	images/thumbs/C7M44_t.png	images/C7M44.png	\N	\N	\N
-1196	Low/Moderate Income	Low/Moderate_Income	\N	7	45	\N	\N	\N	f	f	2010-04-08 15:04:51.643939-04	pdfs/C7M45.pdf	images/thumbs/C7M45_t.png	images/C7M45.png	\N	\N	\N
-1206	Births	Births	\N	7	53	\N	\N	\N	f	f	2010-04-08 15:04:52.015234-04	pdfs/C7M53.pdf	images/thumbs/C7M53_t.png	images/C7M53.png	\N	\N	\N
-1207	Deaths	Deaths	\N	7	54	\N	\N	\N	f	f	2010-04-08 15:04:52.310136-04	pdfs/C7M54.pdf	images/thumbs/C7M54_t.png	images/C7M54.png	\N	\N	\N
-1208	Crime	Crime	\N	7	55	\N	\N	\N	f	f	2010-04-08 15:04:52.604285-04	pdfs/C7M55.pdf	images/thumbs/C7M55_t.png	images/C7M55.png	\N	\N	\N
-1210	Fires	Fires	\N	7	57	\N	\N	\N	f	f	2010-04-08 15:04:53.136411-04	pdfs/C7M57.pdf	images/thumbs/C7M57_t.png	images/C7M57.png	\N	\N	\N
-1213	Sales	Sales	\N	7	59	\N	\N	\N	f	f	2010-04-08 15:04:53.800293-04	pdfs/C7M59.pdf	images/thumbs/C7M59_t.png	images/C7M59.png	\N	\N	\N
-1215	Registered Voters	Registered_Voters	\N	7	60	\N	\N	\N	f	f	2010-04-08 15:04:54.086296-04	pdfs/C7M60.pdf	images/thumbs/C7M60_t.png	images/C7M60.png	\N	\N	\N
-1217	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	7	62	\N	\N	\N	f	f	2010-04-08 15:04:54.636044-04	pdfs/C7M62.pdf	images/thumbs/C7M62_t.png	images/C7M62.png	\N	\N	\N
-1202	Bus Routes	Bus_Routes	\N	7	5	\N	\N	\N	f	f	2010-04-08 15:04:38.941086-04	pdfs/C7M5.pdf	images/thumbs/C7M5_t.png	images/C7M5.png	\N	\N	\N
+1172	Change in Population	Change_in_Population	\N	7	24	\N	\N	\N	f	f	2010-04-22 12:57:58.207982-04	pdfs/C7M24.pdf	images/thumbs/C7M24_t.jpg	images/C7M24.png	\N	\N	\N
+1173	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	7	25	\N	\N	\N	f	f	2010-04-22 12:57:58.226398-04	pdfs/C7M25.pdf	images/thumbs/C7M25_t.jpg	images/C7M25.png	\N	\N	\N
+1174	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	7	26	\N	\N	\N	f	f	2010-04-22 12:57:58.241543-04	pdfs/C7M26.pdf	images/thumbs/C7M26_t.jpg	images/C7M26.png	\N	\N	\N
+1175	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	7	27	\N	\N	\N	f	f	2010-04-22 12:57:58.256546-04	pdfs/C7M27.pdf	images/thumbs/C7M27_t.jpg	images/C7M27.png	\N	\N	\N
+1176	Median Rent	Median_Rent	\N	7	28	\N	\N	\N	f	f	2010-04-22 12:57:58.274279-04	pdfs/C7M28.pdf	images/thumbs/C7M28_t.jpg	images/C7M28.png	\N	\N	\N
+1177	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	7	29	\N	\N	\N	f	f	2010-04-22 12:57:58.289334-04	pdfs/C7M29.pdf	images/thumbs/C7M29_t.jpg	images/C7M29.png	\N	\N	\N
+1180	Households without Vehicles	Households_without_Vehicles	\N	7	30	\N	\N	\N	f	f	2010-04-22 12:57:58.305164-04	pdfs/C7M30.pdf	images/thumbs/C7M30_t.jpg	images/C7M30.png	\N	\N	\N
+1181	Median Income	Median_Income	\N	7	31	\N	\N	\N	f	f	2010-04-22 12:57:58.323179-04	pdfs/C7M31.pdf	images/thumbs/C7M31_t.jpg	images/C7M31.png	\N	\N	\N
+1183	Foreign Born Population	Foreign_Born_Population	\N	7	33	\N	\N	\N	f	f	2010-04-22 12:57:58.376945-04	pdfs/C7M33.pdf	images/thumbs/C7M33_t.jpg	images/C7M33.png	\N	\N	\N
+1186	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	7	36	\N	\N	\N	f	f	2010-04-22 12:57:58.433871-04	pdfs/C7M36.pdf	images/thumbs/C7M36_t.jpg	images/C7M36.png	\N	\N	\N
+1187	DPS Sites	DPS_Sites	\N	7	37	\N	\N	\N	f	f	2010-04-22 12:57:58.450694-04	pdfs/C7M37.pdf	images/thumbs/C7M37_t.jpg	images/C7M37.png	\N	\N	\N
+1188	Other Schools	Other_Schools	\N	7	38	\N	\N	\N	f	f	2010-04-22 12:57:58.465613-04	pdfs/C7M38.pdf	images/thumbs/C7M38_t.jpg	images/C7M38.png	\N	\N	\N
+1192	Elderly Population	Elderly_Population	\N	7	41	\N	\N	\N	f	f	2010-04-22 12:57:58.548287-04	pdfs/C7M41.pdf	images/thumbs/C7M41_t.jpg	images/C7M41.png	\N	\N	\N
+1193	Greenways	Greenways	\N	7	42	\N	\N	\N	f	f	2010-04-22 12:57:58.607504-04	pdfs/C7M42.pdf	images/thumbs/C7M42_t.jpg	images/C7M42.png	\N	\N	\N
+1194	Truck Routes	Truck_Routes	\N	7	43	\N	\N	\N	f	f	2010-04-22 12:57:58.634843-04	pdfs/C7M43.pdf	images/thumbs/C7M43_t.jpg	images/C7M43.png	\N	\N	\N
+1195	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	7	44	\N	\N	\N	f	f	2010-04-22 12:57:58.6501-04	pdfs/C7M44.pdf	images/thumbs/C7M44_t.jpg	images/C7M44.png	\N	\N	\N
+1196	Low/Moderate Income	Low/Moderate_Income	\N	7	45	\N	\N	\N	f	f	2010-04-22 12:57:58.712831-04	pdfs/C7M45.pdf	images/thumbs/C7M45_t.jpg	images/C7M45.png	\N	\N	\N
+1206	Births	Births	\N	7	53	\N	\N	\N	f	f	2010-04-22 12:57:58.781149-04	pdfs/C7M53.pdf	images/thumbs/C7M53_t.jpg	images/C7M53.png	\N	\N	\N
+1207	Deaths	Deaths	\N	7	54	\N	\N	\N	f	f	2010-04-22 12:57:58.796138-04	pdfs/C7M54.pdf	images/thumbs/C7M54_t.jpg	images/C7M54.png	\N	\N	\N
+1208	Crime	Crime	\N	7	55	\N	\N	\N	f	f	2010-04-22 12:57:58.810868-04	pdfs/C7M55.pdf	images/thumbs/C7M55_t.jpg	images/C7M55.png	\N	\N	\N
+1210	Fires	Fires	\N	7	57	\N	\N	\N	f	f	2010-04-22 12:57:58.865555-04	pdfs/C7M57.pdf	images/thumbs/C7M57_t.jpg	images/C7M57.png	\N	\N	\N
+1213	Sales	Sales	\N	7	59	\N	\N	\N	f	f	2010-04-22 12:57:58.902724-04	pdfs/C7M59.pdf	images/thumbs/C7M59_t.jpg	images/C7M59.png	\N	\N	\N
+1215	Registered Voters	Registered_Voters	\N	7	60	\N	\N	\N	f	f	2010-04-22 12:57:58.919749-04	pdfs/C7M60.pdf	images/thumbs/C7M60_t.jpg	images/C7M60.png	\N	\N	\N
+1217	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	7	62	\N	\N	\N	f	f	2010-04-22 12:57:58.982724-04	pdfs/C7M62.pdf	images/thumbs/C7M62_t.jpg	images/C7M62.png	\N	\N	\N
+1202	Bus Routes	Bus_Routes	\N	7	5	\N	\N	\N	f	f	2010-04-22 12:57:57.859387-04	pdfs/C7M5.pdf	images/thumbs/C7M5_t.jpg	images/C7M5.png	\N	\N	\N
+1214	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	7	6	\N	\N	\N	f	f	2010-04-22 12:57:57.879602-04	pdfs/C7M6.pdf	images/thumbs/C7M6_t.jpg	images/C7M6.png	\N	\N	\N
+1171	Change in Housing Units	Change_in_Housing_Units	\N	7	23	\N	\N	\N	f	f	2010-04-22 12:57:58.192757-04	pdfs/C7M23.pdf	images/thumbs/C7M23_t.jpg	images/C7M23.png	\N	\N	\N
 1228	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	7	71	\N	\N	\N	t	f	2010-04-05 16:02:57.877936-04	pdfs/C7M71AppendixD.pdf			\N	\N	\N
 1230	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	7	72	\N	\N	\N	t	f	2010-04-05 16:02:58.022802-04	pdfs/C7M72AppendixE.pdf			\N	\N	\N
 1252	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	7	91	\N	\N	\N	t	f	2010-04-05 16:02:59.559344-04	pdfs/C7M91AppendixF.pdf			\N	\N	\N
@@ -13348,36 +13344,36 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1272	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	8	17	\N	2008	4	f	f	2010-04-05 16:03:03.859047-04	pdfs/C8M17d_08.pdf			\N	\N	\N
 1274	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	8	18	\N	\N	\N	f	f	2010-04-05 16:03:04.626109-04	pdfs/C8M18.pdf			\N	\N	\N
 1275	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	8	18	\N	2009	1	f	f	2010-04-05 16:03:04.877363-04	pdfs/C8M18a_09.pdf			\N	\N	\N
-1218	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	7	63	\N	\N	\N	f	f	2010-04-08 15:04:54.905519-04	pdfs/C7M63.pdf	images/thumbs/C7M63_t.png	images/C7M63.png	\N	\N	\N
-1219	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	7	64	\N	\N	\N	f	f	2010-04-08 15:04:55.260452-04	pdfs/C7M64.pdf	images/thumbs/C7M64_t.png	images/C7M64.png	\N	\N	\N
-1220	Licensed Businesses	Licensed_Businesses	\N	7	65	\N	\N	\N	f	f	2010-04-08 15:04:55.601415-04	pdfs/C7M65.pdf	images/thumbs/C7M65_t.png	images/C7M65.png	\N	\N	\N
-1222	Human Services Programs	Human_Services_Programs	\N	7	67	\N	\N	\N	f	f	2010-04-08 15:04:56.439878-04	pdfs/C7M67.pdf	images/thumbs/C7M67_t.png	images/C7M67.png	\N	\N	\N
-1223	Head Start	Head_Start	\N	7	68	\N	\N	\N	f	f	2010-04-08 15:04:56.952091-04	pdfs/C7M68.pdf	images/thumbs/C7M68_t.png	images/C7M68.png	\N	\N	\N
-1226	Parks Master Plan Update	Parks_Master_Plan_Update	\N	7	70	\N	\N	\N	f	f	2010-04-08 15:04:57.868812-04	pdfs/C7M70.pdf	images/thumbs/C7M70_t.png	images/C7M70.png	\N	\N	\N
-1227	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	7	71	\N	\N	\N	f	f	2010-04-08 15:04:58.167975-04	pdfs/C7M71.pdf	images/thumbs/C7M71_t.png	images/C7M71.png	\N	\N	\N
-1231	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	7	73	\N	\N	\N	f	f	2010-04-08 15:04:58.835184-04	pdfs/C7M73.pdf	images/thumbs/C7M73_t.png	images/C7M73.png	\N	\N	\N
-1233	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	7	75	\N	\N	\N	f	f	2010-04-08 15:04:59.534901-04	pdfs/C7M75.pdf	images/thumbs/C7M75_t.png	images/C7M75.png	\N	\N	\N
-1234	120% Area Mean Income	120%_Area_Mean_Income	\N	7	76	\N	\N	\N	f	f	2010-04-08 15:04:59.825004-04	pdfs/C7M76.pdf	images/thumbs/C7M76_t.png	images/C7M76.png	\N	\N	\N
-1235	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	7	77	\N	\N	\N	f	f	2010-04-08 15:05:00.139271-04	pdfs/C7M77.pdf	images/thumbs/C7M77_t.png	images/C7M77.png	\N	\N	\N
-1236	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	7	78	\N	\N	\N	f	f	2010-04-08 15:05:00.5303-04	pdfs/C7M78.pdf	images/thumbs/C7M78_t.png	images/C7M78.png	\N	\N	\N
-1237	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	7	79	\N	\N	\N	f	f	2010-04-08 15:05:02.117152-04	pdfs/C7M79.pdf	images/thumbs/C7M79_t.png	images/C7M79.png	\N	\N	\N
-1239	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	7	80	\N	\N	\N	f	f	2010-04-08 15:05:02.372456-04	pdfs/C7M80.pdf	images/thumbs/C7M80_t.png	images/C7M80.png	\N	\N	\N
-1240	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	7	81	\N	\N	\N	f	f	2010-04-08 15:05:02.685834-04	pdfs/C7M81.pdf	images/thumbs/C7M81_t.png	images/C7M81.png	\N	\N	\N
-1241	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	7	82	\N	\N	\N	f	f	2010-04-08 15:05:03.022856-04	pdfs/C7M82.pdf	images/thumbs/C7M82_t.png	images/C7M82.png	\N	\N	\N
-1244	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	7	85	\N	\N	\N	f	f	2010-04-08 15:05:03.98019-04	pdfs/C7M85.pdf	images/thumbs/C7M85_t.png	images/C7M85.png	\N	\N	\N
-1245	2009 Street Paving	2009_Street_Paving	\N	7	86	\N	\N	\N	f	f	2010-04-08 15:05:04.292581-04	pdfs/C7M86.pdf	images/thumbs/C7M86_t.png	images/C7M86.png	\N	\N	\N
-1246	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	7	87	\N	\N	\N	f	f	2010-04-08 15:05:04.569526-04	pdfs/C7M87.pdf	images/thumbs/C7M87_t.png	images/C7M87.png	\N	\N	\N
-1247	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	7	88	\N	\N	\N	f	f	2010-04-08 15:05:04.83784-04	pdfs/C7M88.pdf	images/thumbs/C7M88_t.png	images/C7M88.png	\N	\N	\N
-1248	Zoning (Color)	Zoning_(Color)	\N	7	89	\N	\N	\N	f	f	2010-04-08 15:05:05.225413-04	pdfs/C7M89.pdf	images/thumbs/C7M89_t.png	images/C7M89.png	\N	\N	\N
-1250	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	7	90	\N	\N	\N	f	f	2010-04-08 15:05:05.596097-04	pdfs/C7M90.pdf	images/thumbs/C7M90_t.png	images/C7M90.png	\N	\N	\N
-1251	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	7	91	\N	\N	\N	f	f	2010-04-08 15:05:05.898187-04	pdfs/C7M91.pdf	images/thumbs/C7M91_t.png	images/C7M91.png	\N	\N	\N
-1253	Future Land Use	Future_Land_Use	\N	8	1	\N	\N	\N	f	f	2010-04-08 15:06:29.255429-04	pdfs/C8M1.pdf	images/thumbs/C8M1_t.png	images/C8M1.png	\N	\N	\N
-1256	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	8	12	\N	\N	\N	f	f	2010-04-08 15:06:36.645062-04	pdfs/C8M12.pdf	images/thumbs/C8M12_t.png	images/C8M12.png	\N	\N	\N
-1257	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	8	13	\N	\N	\N	f	f	2010-04-08 15:06:37.192077-04	pdfs/C8M13.pdf	images/thumbs/C8M13_t.png	images/C8M13.png	\N	\N	\N
-1258	ONCR	ONCR	\N	8	14	\N	\N	\N	f	f	2010-04-08 15:06:37.728688-04	pdfs/C8M14.pdf	images/thumbs/C8M14_t.png	images/C8M14.png	\N	\N	\N
-1259	City & State Ownership	City_&_State_Ownership	\N	8	15	\N	\N	\N	f	f	2010-04-08 15:06:38.322771-04	pdfs/C8M15.pdf	images/thumbs/C8M15_t.png	images/C8M15.png	\N	\N	\N
-1260	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	8	16	\N	\N	\N	f	f	2010-04-08 15:06:39.179347-04	pdfs/C8M16.pdf	images/thumbs/C8M16_t.png	images/C8M16.png	\N	\N	\N
-1238	Historic Sites	Historic_Sites	\N	7	8	\N	\N	\N	f	f	2010-04-08 15:04:39.813435-04	pdfs/C7M8.pdf	images/thumbs/C7M8_t.png	images/C7M8.png	\N	\N	\N
+1220	Licensed Businesses	Licensed_Businesses	\N	7	65	\N	\N	\N	f	f	2010-04-22 12:57:59.04683-04	pdfs/C7M65.pdf	images/thumbs/C7M65_t.jpg	images/C7M65.png	\N	\N	\N
+1222	Human Services Programs	Human_Services_Programs	\N	7	67	\N	\N	\N	f	f	2010-04-22 12:57:59.078345-04	pdfs/C7M67.pdf	images/thumbs/C7M67_t.jpg	images/C7M67.png	\N	\N	\N
+1223	Head Start	Head_Start	\N	7	68	\N	\N	\N	f	f	2010-04-22 12:57:59.111707-04	pdfs/C7M68.pdf	images/thumbs/C7M68_t.jpg	images/C7M68.png	\N	\N	\N
+1226	Parks Master Plan Update	Parks_Master_Plan_Update	\N	7	70	\N	\N	\N	f	f	2010-04-22 12:57:59.157895-04	pdfs/C7M70.pdf	images/thumbs/C7M70_t.jpg	images/C7M70.png	\N	\N	\N
+1227	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	7	71	\N	\N	\N	f	f	2010-04-22 12:57:59.18246-04	pdfs/C7M71.pdf	images/thumbs/C7M71_t.jpg	images/C7M71.png	\N	\N	\N
+1231	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	7	73	\N	\N	\N	f	f	2010-04-22 12:57:59.217788-04	pdfs/C7M73.pdf	images/thumbs/C7M73_t.jpg	images/C7M73.png	\N	\N	\N
+1233	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	7	75	\N	\N	\N	f	f	2010-04-22 12:57:59.250331-04	pdfs/C7M75.pdf	images/thumbs/C7M75_t.jpg	images/C7M75.png	\N	\N	\N
+1234	120% Area Mean Income	120%_Area_Mean_Income	\N	7	76	\N	\N	\N	f	f	2010-04-22 12:57:59.267519-04	pdfs/C7M76.pdf	images/thumbs/C7M76_t.jpg	images/C7M76.png	\N	\N	\N
+1235	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	7	77	\N	\N	\N	f	f	2010-04-22 12:57:59.282857-04	pdfs/C7M77.pdf	images/thumbs/C7M77_t.jpg	images/C7M77.png	\N	\N	\N
+1236	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	7	78	\N	\N	\N	f	f	2010-04-22 12:57:59.297952-04	pdfs/C7M78.pdf	images/thumbs/C7M78_t.jpg	images/C7M78.png	\N	\N	\N
+1237	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	7	79	\N	\N	\N	f	f	2010-04-22 12:57:59.329621-04	pdfs/C7M79.pdf	images/thumbs/C7M79_t.jpg	images/C7M79.png	\N	\N	\N
+1239	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	7	80	\N	\N	\N	f	f	2010-04-22 12:57:59.346096-04	pdfs/C7M80.pdf	images/thumbs/C7M80_t.jpg	images/C7M80.png	\N	\N	\N
+1240	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	7	81	\N	\N	\N	f	f	2010-04-22 12:57:59.362763-04	pdfs/C7M81.pdf	images/thumbs/C7M81_t.jpg	images/C7M81.png	\N	\N	\N
+1241	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	7	82	\N	\N	\N	f	f	2010-04-22 12:57:59.37837-04	pdfs/C7M82.pdf	images/thumbs/C7M82_t.jpg	images/C7M82.png	\N	\N	\N
+1244	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	7	85	\N	\N	\N	f	f	2010-04-22 12:57:59.428871-04	pdfs/C7M85.pdf	images/thumbs/C7M85_t.jpg	images/C7M85.png	\N	\N	\N
+1245	2009 Street Paving	2009_Street_Paving	\N	7	86	\N	\N	\N	f	f	2010-04-22 12:57:59.444-04	pdfs/C7M86.pdf	images/thumbs/C7M86_t.jpg	images/C7M86.png	\N	\N	\N
+1246	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	7	87	\N	\N	\N	f	f	2010-04-22 12:57:59.463628-04	pdfs/C7M87.pdf	images/thumbs/C7M87_t.jpg	images/C7M87.png	\N	\N	\N
+1247	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	7	88	\N	\N	\N	f	f	2010-04-22 12:57:59.491186-04	pdfs/C7M88.pdf	images/thumbs/C7M88_t.jpg	images/C7M88.png	\N	\N	\N
+1248	Zoning (Color)	Zoning_(Color)	\N	7	89	\N	\N	\N	f	f	2010-04-22 12:57:59.508343-04	pdfs/C7M89.pdf	images/thumbs/C7M89_t.jpg	images/C7M89.png	\N	\N	\N
+1250	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	7	90	\N	\N	\N	f	f	2010-04-22 12:57:59.527648-04	pdfs/C7M90.pdf	images/thumbs/C7M90_t.jpg	images/C7M90.png	\N	\N	\N
+1251	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	7	91	\N	\N	\N	f	f	2010-04-22 12:57:59.544892-04	pdfs/C7M91.pdf	images/thumbs/C7M91_t.jpg	images/C7M91.png	\N	\N	\N
+1253	Future Land Use	Future_Land_Use	\N	8	1	\N	\N	\N	f	f	2010-04-22 12:58:05.697207-04	pdfs/C8M1.pdf	images/thumbs/C8M1_t.jpg	images/C8M1.png	\N	\N	\N
+1256	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	8	12	\N	\N	\N	f	f	2010-04-22 12:58:06.284467-04	pdfs/C8M12.pdf	images/thumbs/C8M12_t.jpg	images/C8M12.png	\N	\N	\N
+1257	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	8	13	\N	\N	\N	f	f	2010-04-22 12:58:06.339384-04	pdfs/C8M13.pdf	images/thumbs/C8M13_t.jpg	images/C8M13.png	\N	\N	\N
+1258	ONCR	ONCR	\N	8	14	\N	\N	\N	f	f	2010-04-22 12:58:06.365297-04	pdfs/C8M14.pdf	images/thumbs/C8M14_t.jpg	images/C8M14.png	\N	\N	\N
+1259	City & State Ownership	City_&_State_Ownership	\N	8	15	\N	\N	\N	f	f	2010-04-22 12:58:06.40504-04	pdfs/C8M15.pdf	images/thumbs/C8M15_t.jpg	images/C8M15.png	\N	\N	\N
+1260	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	8	16	\N	\N	\N	f	f	2010-04-22 12:58:06.455953-04	pdfs/C8M16.pdf	images/thumbs/C8M16_t.jpg	images/C8M16.png	\N	\N	\N
+1238	Historic Sites	Historic_Sites	\N	7	8	\N	\N	\N	f	f	2010-04-22 12:57:57.923675-04	pdfs/C7M8.pdf	images/thumbs/C7M8_t.jpg	images/C7M8.png	\N	\N	\N
+1218	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	7	63	\N	\N	\N	f	f	2010-04-22 12:57:58.999428-04	pdfs/C7M63.pdf	images/thumbs/C7M63_t.jpg	images/C7M63.png	\N	\N	\N
+1219	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	7	64	\N	\N	\N	f	f	2010-04-22 12:57:59.03145-04	pdfs/C7M64.pdf	images/thumbs/C7M64_t.jpg	images/C7M64.png	\N	\N	\N
 1276	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	8	18	\N	\N	\N	t	f	2010-04-05 16:03:05.111323-04	pdfs/C8M18AppendixB.pdf			\N	\N	\N
 1277	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	8	18	\N	2009	2	f	f	2010-04-05 16:03:05.17651-04	pdfs/C8M18b_09.pdf			\N	\N	\N
 1278	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	8	18	\N	2009	3	f	f	2010-04-05 16:03:05.32744-04	pdfs/C8M18c_09.pdf			\N	\N	\N
@@ -13426,8 +13422,8 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1325	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	8	22	\N	2009	3	f	f	2010-04-05 16:03:15.857932-04	pdfs/C8M22c_09.pdf			\N	\N	\N
 1326	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	8	22	\N	2007	4	f	f	2010-04-05 16:03:15.919459-04	pdfs/C8M22d_07.pdf			\N	\N	\N
 1327	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	8	22	\N	2008	4	f	f	2010-04-05 16:03:16.173342-04	pdfs/C8M22d_08.pdf			\N	\N	\N
-1316	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	8	21	\N	2009	4	f	f	2010-04-08 15:06:41.597993-04	pdfs/C8M21d_09.pdf	images/thumbs/C8M21d_09_t.png	images/C8M21d_09.png	\N	\N	\N
-1292	Zoning	Zoning	\N	8	2	\N	\N	\N	f	f	2010-04-08 15:06:29.955163-04	pdfs/C8M2.pdf	images/thumbs/C8M2_t.png	images/C8M2.png	\N	\N	\N
+1292	Zoning	Zoning	\N	8	2	\N	\N	\N	f	f	2010-04-22 12:58:05.786779-04	pdfs/C8M2.pdf	images/thumbs/C8M2_t.jpg	images/C8M2.png	\N	\N	\N
+1316	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	8	21	\N	2009	4	f	f	2010-04-22 12:58:06.546406-04	pdfs/C8M21d_09.pdf	images/thumbs/C8M21d_09_t.jpg	images/C8M21d_09.png	\N	\N	\N
 1336	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	8	29	\N	\N	\N	f	t	2010-04-05 16:03:17.48439-04	pdfs/C8M29Color.pdf			\N	\N	\N
 1355	Wayne County Tax Foreclosures - 2006	Wayne_County_Tax_Foreclosures_-_2006	\N	8	46	\N	\N	\N	f	f	2010-04-05 16:03:21.128071-04	pdfs/C8M46.pdf			\N	\N	\N
 1356	Traffic Counts	Traffic_Counts	\N	8	47	\N	\N	\N	f	f	2010-04-05 16:03:21.136198-04	pdfs/C8M47.pdf			\N	\N	\N
@@ -13440,44 +13436,44 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1370	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	8	58	\N	\N	\N	t	f	2010-04-05 16:03:21.823413-04	pdfs/C8M58AppendixC.pdf			\N	\N	\N
 1386	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	8	71	\N	\N	\N	t	f	2010-04-05 16:03:22.612429-04	pdfs/C8M71AppendixD.pdf			\N	\N	\N
 1388	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	8	72	\N	\N	\N	t	f	2010-04-05 16:03:22.666582-04	pdfs/C8M72AppendixE.pdf			\N	\N	\N
-1372	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	8	6	\N	\N	\N	f	f	2010-04-08 15:06:32.478289-04	pdfs/C8M6.pdf	images/thumbs/C8M6_t.png	images/C8M6.png	\N	\N	\N
-1383	Insitutional Uses	Insitutional_Uses	\N	8	7	\N	\N	\N	f	f	2010-04-08 15:06:33.614669-04	pdfs/C8M7.pdf	images/thumbs/C8M7_t.png	images/C8M7.png	\N	\N	\N
-1329	Change in Housing Units	Change_in_Housing_Units	\N	8	23	\N	\N	\N	f	f	2010-04-08 15:06:43.342776-04	pdfs/C8M23.pdf	images/thumbs/C8M23_t.png	images/C8M23.png	\N	\N	\N
-1330	Change in Population	Change_in_Population	\N	8	24	\N	\N	\N	f	f	2010-04-08 15:06:43.950139-04	pdfs/C8M24.pdf	images/thumbs/C8M24_t.png	images/C8M24.png	\N	\N	\N
-1332	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	8	26	\N	\N	\N	f	f	2010-04-08 15:06:45.041321-04	pdfs/C8M26.pdf	images/thumbs/C8M26_t.png	images/C8M26.png	\N	\N	\N
-1333	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	8	27	\N	\N	\N	f	f	2010-04-08 15:06:45.583903-04	pdfs/C8M27.pdf	images/thumbs/C8M27_t.png	images/C8M27.png	\N	\N	\N
-1334	Median Rent	Median_Rent	\N	8	28	\N	\N	\N	f	f	2010-04-08 15:06:46.133251-04	pdfs/C8M28.pdf	images/thumbs/C8M28_t.png	images/C8M28.png	\N	\N	\N
-1335	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	8	29	\N	\N	\N	f	f	2010-04-08 15:06:46.726039-04	pdfs/C8M29.pdf	images/thumbs/C8M29_t.png	images/C8M29.png	\N	\N	\N
-1338	Households without Vehicles	Households_without_Vehicles	\N	8	30	\N	\N	\N	f	f	2010-04-08 15:06:47.393909-04	pdfs/C8M30.pdf	images/thumbs/C8M30_t.png	images/C8M30.png	\N	\N	\N
-1339	Median Income	Median_Income	\N	8	31	\N	\N	\N	f	f	2010-04-08 15:06:48.006793-04	pdfs/C8M31.pdf	images/thumbs/C8M31_t.png	images/C8M31.png	\N	\N	\N
-1340	Youth Population Change	Youth_Population_Change	\N	8	32	\N	\N	\N	f	f	2010-04-08 15:06:48.68893-04	pdfs/C8M32.pdf	images/thumbs/C8M32_t.png	images/C8M32.png	\N	\N	\N
-1342	Employment Sites	Employment_Sites	\N	8	34	\N	\N	\N	f	f	2010-04-08 15:06:49.98107-04	pdfs/C8M34.pdf	images/thumbs/C8M34_t.png	images/C8M34.png	\N	\N	\N
-1344	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	8	36	\N	\N	\N	f	f	2010-04-08 15:06:51.241292-04	pdfs/C8M36.pdf	images/thumbs/C8M36_t.png	images/C8M36.png	\N	\N	\N
-1345	DPS Sites	DPS_Sites	\N	8	37	\N	\N	\N	f	f	2010-04-08 15:06:51.966399-04	pdfs/C8M37.pdf	images/thumbs/C8M37_t.png	images/C8M37.png	\N	\N	\N
-1346	Other Schools	Other_Schools	\N	8	38	\N	\N	\N	f	f	2010-04-08 15:06:52.695561-04	pdfs/C8M38.pdf	images/thumbs/C8M38_t.png	images/C8M38.png	\N	\N	\N
-1347	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	8	39	\N	\N	\N	f	f	2010-04-08 15:06:53.386572-04	pdfs/C8M39.pdf	images/thumbs/C8M39_t.png	images/C8M39.png	\N	\N	\N
-1350	Elderly Population	Elderly_Population	\N	8	41	\N	\N	\N	f	f	2010-04-08 15:06:54.92991-04	pdfs/C8M41.pdf	images/thumbs/C8M41_t.png	images/C8M41.png	\N	\N	\N
-1351	Greenways	Greenways	\N	8	42	\N	\N	\N	f	f	2010-04-08 15:06:55.557186-04	pdfs/C8M42.pdf	images/thumbs/C8M42_t.png	images/C8M42.png	\N	\N	\N
-1352	Truck Routes	Truck_Routes	\N	8	43	\N	\N	\N	f	f	2010-04-08 15:06:56.216465-04	pdfs/C8M43.pdf	images/thumbs/C8M43_t.png	images/C8M43.png	\N	\N	\N
-1354	Low/Moderate Income	Low/Moderate_Income	\N	8	45	\N	\N	\N	f	f	2010-04-08 15:06:57.565606-04	pdfs/C8M45.pdf	images/thumbs/C8M45_t.png	images/C8M45.png	\N	\N	\N
-1364	Births	Births	\N	8	53	\N	\N	\N	f	f	2010-04-08 15:06:58.25666-04	pdfs/C8M53.pdf	images/thumbs/C8M53_t.png	images/C8M53.png	\N	\N	\N
-1365	Deaths	Deaths	\N	8	54	\N	\N	\N	f	f	2010-04-08 15:06:58.895365-04	pdfs/C8M54.pdf	images/thumbs/C8M54_t.png	images/C8M54.png	\N	\N	\N
-1366	Crime	Crime	\N	8	55	\N	\N	\N	f	f	2010-04-08 15:06:59.508425-04	pdfs/C8M55.pdf	images/thumbs/C8M55_t.png	images/C8M55.png	\N	\N	\N
-1368	Fires	Fires	\N	8	57	\N	\N	\N	f	f	2010-04-08 15:07:00.683297-04	pdfs/C8M57.pdf	images/thumbs/C8M57_t.png	images/C8M57.png	\N	\N	\N
-1371	Sales	Sales	\N	8	59	\N	\N	\N	f	f	2010-04-08 15:07:01.95408-04	pdfs/C8M59.pdf	images/thumbs/C8M59_t.png	images/C8M59.png	\N	\N	\N
-1373	Registered Voters	Registered_Voters	\N	8	60	\N	\N	\N	f	f	2010-04-08 15:07:02.624129-04	pdfs/C8M60.pdf	images/thumbs/C8M60_t.png	images/C8M60.png	\N	\N	\N
-1374	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	8	61	\N	\N	\N	f	f	2010-04-08 15:07:03.257272-04	pdfs/C8M61.pdf	images/thumbs/C8M61_t.png	images/C8M61.png	\N	\N	\N
-1377	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	8	64	\N	\N	\N	f	f	2010-04-08 15:07:05.610604-04	pdfs/C8M64.pdf	images/thumbs/C8M64_t.png	images/C8M64.png	\N	\N	\N
-1378	Licensed Businesses	Licensed_Businesses	\N	8	65	\N	\N	\N	f	f	2010-04-08 15:07:06.186631-04	pdfs/C8M65.pdf	images/thumbs/C8M65_t.png	images/C8M65.png	\N	\N	\N
-1379	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	8	66	\N	\N	\N	f	f	2010-04-08 15:07:06.809503-04	pdfs/C8M66.pdf	images/thumbs/C8M66_t.png	images/C8M66.png	\N	\N	\N
-1380	Human Services Programs	Human_Services_Programs	\N	8	67	\N	\N	\N	f	f	2010-04-08 15:07:07.488607-04	pdfs/C8M67.pdf	images/thumbs/C8M67_t.png	images/C8M67.png	\N	\N	\N
-1381	Head Start	Head_Start	\N	8	68	\N	\N	\N	f	f	2010-04-08 15:07:08.121864-04	pdfs/C8M68.pdf	images/thumbs/C8M68_t.png	images/C8M68.png	\N	\N	\N
-1382	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	8	69	\N	\N	\N	f	f	2010-04-08 15:07:08.709635-04	pdfs/C8M69.pdf	images/thumbs/C8M69_t.png	images/C8M69.png	\N	\N	\N
-1384	Parks Master Plan Update	Parks_Master_Plan_Update	\N	8	70	\N	\N	\N	f	f	2010-04-08 15:07:09.316322-04	pdfs/C8M70.pdf	images/thumbs/C8M70_t.png	images/C8M70.png	\N	\N	\N
-1389	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	8	73	\N	\N	\N	f	f	2010-04-08 15:07:11.24837-04	pdfs/C8M73.pdf	images/thumbs/C8M73_t.png	images/C8M73.png	\N	\N	\N
-1390	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	8	74	\N	\N	\N	f	f	2010-04-08 15:07:11.851672-04	pdfs/C8M74.pdf	images/thumbs/C8M74_t.png	images/C8M74.png	\N	\N	\N
-1391	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	8	75	\N	\N	\N	f	f	2010-04-08 15:07:12.43743-04	pdfs/C8M75.pdf	images/thumbs/C8M75_t.png	images/C8M75.png	\N	\N	\N
-1360	Bus Routes	Bus_Routes	\N	8	5	\N	\N	\N	f	f	2010-04-08 15:06:31.915495-04	pdfs/C8M5.pdf	images/thumbs/C8M5_t.png	images/C8M5.png	\N	\N	\N
+1329	Change in Housing Units	Change_in_Housing_Units	\N	8	23	\N	\N	\N	f	f	2010-04-22 12:58:06.634293-04	pdfs/C8M23.pdf	images/thumbs/C8M23_t.jpg	images/C8M23.png	\N	\N	\N
+1330	Change in Population	Change_in_Population	\N	8	24	\N	\N	\N	f	f	2010-04-22 12:58:06.651288-04	pdfs/C8M24.pdf	images/thumbs/C8M24_t.jpg	images/C8M24.png	\N	\N	\N
+1332	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	8	26	\N	\N	\N	f	f	2010-04-22 12:58:06.732131-04	pdfs/C8M26.pdf	images/thumbs/C8M26_t.jpg	images/C8M26.png	\N	\N	\N
+1333	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	8	27	\N	\N	\N	f	f	2010-04-22 12:58:06.747376-04	pdfs/C8M27.pdf	images/thumbs/C8M27_t.jpg	images/C8M27.png	\N	\N	\N
+1334	Median Rent	Median_Rent	\N	8	28	\N	\N	\N	f	f	2010-04-22 12:58:06.792977-04	pdfs/C8M28.pdf	images/thumbs/C8M28_t.jpg	images/C8M28.png	\N	\N	\N
+1335	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	8	29	\N	\N	\N	f	f	2010-04-22 12:58:06.810243-04	pdfs/C8M29.pdf	images/thumbs/C8M29_t.jpg	images/C8M29.png	\N	\N	\N
+1338	Households without Vehicles	Households_without_Vehicles	\N	8	30	\N	\N	\N	f	f	2010-04-22 12:58:06.851525-04	pdfs/C8M30.pdf	images/thumbs/C8M30_t.jpg	images/C8M30.png	\N	\N	\N
+1339	Median Income	Median_Income	\N	8	31	\N	\N	\N	f	f	2010-04-22 12:58:06.870509-04	pdfs/C8M31.pdf	images/thumbs/C8M31_t.jpg	images/C8M31.png	\N	\N	\N
+1340	Youth Population Change	Youth_Population_Change	\N	8	32	\N	\N	\N	f	f	2010-04-22 12:58:06.933079-04	pdfs/C8M32.pdf	images/thumbs/C8M32_t.jpg	images/C8M32.png	\N	\N	\N
+1342	Employment Sites	Employment_Sites	\N	8	34	\N	\N	\N	f	f	2010-04-22 12:58:07.063153-04	pdfs/C8M34.pdf	images/thumbs/C8M34_t.jpg	images/C8M34.png	\N	\N	\N
+1344	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	8	36	\N	\N	\N	f	f	2010-04-22 12:58:07.145668-04	pdfs/C8M36.pdf	images/thumbs/C8M36_t.jpg	images/C8M36.png	\N	\N	\N
+1345	DPS Sites	DPS_Sites	\N	8	37	\N	\N	\N	f	f	2010-04-22 12:58:07.163114-04	pdfs/C8M37.pdf	images/thumbs/C8M37_t.jpg	images/C8M37.png	\N	\N	\N
+1346	Other Schools	Other_Schools	\N	8	38	\N	\N	\N	f	f	2010-04-22 12:58:07.18404-04	pdfs/C8M38.pdf	images/thumbs/C8M38_t.jpg	images/C8M38.png	\N	\N	\N
+1347	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	8	39	\N	\N	\N	f	f	2010-04-22 12:58:07.201273-04	pdfs/C8M39.pdf	images/thumbs/C8M39_t.jpg	images/C8M39.png	\N	\N	\N
+1350	Elderly Population	Elderly_Population	\N	8	41	\N	\N	\N	f	f	2010-04-22 12:58:07.2486-04	pdfs/C8M41.pdf	images/thumbs/C8M41_t.jpg	images/C8M41.png	\N	\N	\N
+1351	Greenways	Greenways	\N	8	42	\N	\N	\N	f	f	2010-04-22 12:58:07.270972-04	pdfs/C8M42.pdf	images/thumbs/C8M42_t.jpg	images/C8M42.png	\N	\N	\N
+1352	Truck Routes	Truck_Routes	\N	8	43	\N	\N	\N	f	f	2010-04-22 12:58:07.289352-04	pdfs/C8M43.pdf	images/thumbs/C8M43_t.jpg	images/C8M43.png	\N	\N	\N
+1354	Low/Moderate Income	Low/Moderate_Income	\N	8	45	\N	\N	\N	f	f	2010-04-22 12:58:07.32453-04	pdfs/C8M45.pdf	images/thumbs/C8M45_t.jpg	images/C8M45.png	\N	\N	\N
+1364	Births	Births	\N	8	53	\N	\N	\N	f	f	2010-04-22 12:58:07.485987-04	pdfs/C8M53.pdf	images/thumbs/C8M53_t.jpg	images/C8M53.png	\N	\N	\N
+1365	Deaths	Deaths	\N	8	54	\N	\N	\N	f	f	2010-04-22 12:58:07.525854-04	pdfs/C8M54.pdf	images/thumbs/C8M54_t.jpg	images/C8M54.png	\N	\N	\N
+1366	Crime	Crime	\N	8	55	\N	\N	\N	f	f	2010-04-22 12:58:07.562707-04	pdfs/C8M55.pdf	images/thumbs/C8M55_t.jpg	images/C8M55.png	\N	\N	\N
+1368	Fires	Fires	\N	8	57	\N	\N	\N	f	f	2010-04-22 12:58:07.597704-04	pdfs/C8M57.pdf	images/thumbs/C8M57_t.jpg	images/C8M57.png	\N	\N	\N
+1371	Sales	Sales	\N	8	59	\N	\N	\N	f	f	2010-04-22 12:58:07.646822-04	pdfs/C8M59.pdf	images/thumbs/C8M59_t.jpg	images/C8M59.png	\N	\N	\N
+1373	Registered Voters	Registered_Voters	\N	8	60	\N	\N	\N	f	f	2010-04-22 12:58:07.664022-04	pdfs/C8M60.pdf	images/thumbs/C8M60_t.jpg	images/C8M60.png	\N	\N	\N
+1374	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	8	61	\N	\N	\N	f	f	2010-04-22 12:58:07.679675-04	pdfs/C8M61.pdf	images/thumbs/C8M61_t.jpg	images/C8M61.png	\N	\N	\N
+1377	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	8	64	\N	\N	\N	f	f	2010-04-22 12:58:07.815356-04	pdfs/C8M64.pdf	images/thumbs/C8M64_t.jpg	images/C8M64.png	\N	\N	\N
+1378	Licensed Businesses	Licensed_Businesses	\N	8	65	\N	\N	\N	f	f	2010-04-22 12:58:07.837998-04	pdfs/C8M65.pdf	images/thumbs/C8M65_t.jpg	images/C8M65.png	\N	\N	\N
+1379	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	8	66	\N	\N	\N	f	f	2010-04-22 12:58:07.860121-04	pdfs/C8M66.pdf	images/thumbs/C8M66_t.jpg	images/C8M66.png	\N	\N	\N
+1380	Human Services Programs	Human_Services_Programs	\N	8	67	\N	\N	\N	f	f	2010-04-22 12:58:07.891351-04	pdfs/C8M67.pdf	images/thumbs/C8M67_t.jpg	images/C8M67.png	\N	\N	\N
+1381	Head Start	Head_Start	\N	8	68	\N	\N	\N	f	f	2010-04-22 12:58:07.908099-04	pdfs/C8M68.pdf	images/thumbs/C8M68_t.jpg	images/C8M68.png	\N	\N	\N
+1382	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	8	69	\N	\N	\N	f	f	2010-04-22 12:58:07.928523-04	pdfs/C8M69.pdf	images/thumbs/C8M69_t.jpg	images/C8M69.png	\N	\N	\N
+1384	Parks Master Plan Update	Parks_Master_Plan_Update	\N	8	70	\N	\N	\N	f	f	2010-04-22 12:58:07.957151-04	pdfs/C8M70.pdf	images/thumbs/C8M70_t.jpg	images/C8M70.png	\N	\N	\N
+1389	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	8	73	\N	\N	\N	f	f	2010-04-22 12:58:08.040113-04	pdfs/C8M73.pdf	images/thumbs/C8M73_t.jpg	images/C8M73.png	\N	\N	\N
+1390	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	8	74	\N	\N	\N	f	f	2010-04-22 12:58:08.071323-04	pdfs/C8M74.pdf	images/thumbs/C8M74_t.jpg	images/C8M74.png	\N	\N	\N
+1391	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	8	75	\N	\N	\N	f	f	2010-04-22 12:58:08.088562-04	pdfs/C8M75.pdf	images/thumbs/C8M75_t.jpg	images/C8M75.png	\N	\N	\N
+1360	Bus Routes	Bus_Routes	\N	8	5	\N	\N	\N	f	f	2010-04-22 12:58:05.898041-04	pdfs/C8M5.pdf	images/thumbs/C8M5_t.jpg	images/C8M5.png	\N	\N	\N
+1372	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	8	6	\N	\N	\N	f	f	2010-04-22 12:58:05.974337-04	pdfs/C8M6.pdf	images/thumbs/C8M6_t.jpg	images/C8M6.png	\N	\N	\N
+1383	Insitutional Uses	Insitutional_Uses	\N	8	7	\N	\N	\N	f	f	2010-04-22 12:58:06.031618-04	pdfs/C8M7.pdf	images/thumbs/C8M7_t.jpg	images/C8M7.png	\N	\N	\N
 1410	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	8	91	\N	\N	\N	t	f	2010-04-05 16:03:24.050025-04	pdfs/C8M91AppendixF.pdf			\N	\N	\N
 1419	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	9	16	\N	\N	\N	f	t	2010-04-05 16:03:24.921557-04	pdfs/C9M16Color.pdf			\N	\N	\N
 1420	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	9	17	\N	2007	1	f	f	2010-04-05 16:03:25.126911-04	pdfs/C9M17a_07.pdf			\N	\N	\N
@@ -13508,25 +13504,25 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1446	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	9	19	\N	2009	3	f	f	2010-04-05 16:03:26.947926-04	pdfs/C9M19c_09.pdf			\N	\N	\N
 1447	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	9	19	\N	2007	4	f	f	2010-04-05 16:03:27.009875-04	pdfs/C9M19d_07.pdf			\N	\N	\N
 1448	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	9	19	\N	2008	4	f	f	2010-04-05 16:03:27.055472-04	pdfs/C9M19d_08.pdf			\N	\N	\N
-1414	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	9	12	\N	\N	\N	f	f	2010-04-08 15:05:14.980941-04	pdfs/C9M12.pdf	images/thumbs/C9M12_t.png	images/C9M12.png	\N	\N	\N
-1416	ONCR	ONCR	\N	9	14	\N	\N	\N	f	f	2010-04-08 15:05:16.52613-04	pdfs/C9M14.pdf	images/thumbs/C9M14_t.png	images/C9M14.png	\N	\N	\N
-1417	City & State Ownership	City_&_State_Ownership	\N	9	15	\N	\N	\N	f	f	2010-04-08 15:05:17.27576-04	pdfs/C9M15.pdf	images/thumbs/C9M15_t.png	images/C9M15.png	\N	\N	\N
-1418	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	9	16	\N	\N	\N	f	f	2010-04-08 15:05:18.025632-04	pdfs/C9M16.pdf	images/thumbs/C9M16_t.png	images/C9M16.png	\N	\N	\N
-1396	Historic Sites	Historic_Sites	\N	8	8	\N	\N	\N	f	f	2010-04-08 15:06:34.26544-04	pdfs/C8M8.pdf	images/thumbs/C8M8_t.png	images/C8M8.png	\N	\N	\N
-1407	2000 Aerial Photo	2000_Aerial_Photo	\N	8	9	\N	\N	\N	f	f	2010-04-08 15:06:34.940599-04	pdfs/C8M9.pdf	images/thumbs/C8M9_t.png	images/C8M9.png	\N	\N	\N
-1392	120% Area Mean Income	120%_Area_Mean_Income	\N	8	76	\N	\N	\N	f	f	2010-04-08 15:07:13.058526-04	pdfs/C8M76.pdf	images/thumbs/C8M76_t.png	images/C8M76.png	\N	\N	\N
-1393	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	8	77	\N	\N	\N	f	f	2010-04-08 15:07:13.604673-04	pdfs/C8M77.pdf	images/thumbs/C8M77_t.png	images/C8M77.png	\N	\N	\N
-1395	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	8	79	\N	\N	\N	f	f	2010-04-08 15:07:14.792443-04	pdfs/C8M79.pdf	images/thumbs/C8M79_t.png	images/C8M79.png	\N	\N	\N
-1397	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	8	80	\N	\N	\N	f	f	2010-04-08 15:07:15.405165-04	pdfs/C8M80.pdf	images/thumbs/C8M80_t.png	images/C8M80.png	\N	\N	\N
-1399	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	8	82	\N	\N	\N	f	f	2010-04-08 15:07:16.842334-04	pdfs/C8M82.pdf	images/thumbs/C8M82_t.png	images/C8M82.png	\N	\N	\N
-1400	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	8	83	\N	\N	\N	f	f	2010-04-08 15:07:17.498183-04	pdfs/C8M83.pdf	images/thumbs/C8M83_t.png	images/C8M83.png	\N	\N	\N
-1401	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	8	84	\N	\N	\N	f	f	2010-04-08 15:07:18.146013-04	pdfs/C8M84.pdf	images/thumbs/C8M84_t.png	images/C8M84.png	\N	\N	\N
-1403	2009 Street Paving	2009_Street_Paving	\N	8	86	\N	\N	\N	f	f	2010-04-08 15:07:19.332892-04	pdfs/C8M86.pdf	images/thumbs/C8M86_t.png	images/C8M86.png	\N	\N	\N
-1404	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	8	87	\N	\N	\N	f	f	2010-04-08 15:07:19.93069-04	pdfs/C8M87.pdf	images/thumbs/C8M87_t.png	images/C8M87.png	\N	\N	\N
-1405	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	8	88	\N	\N	\N	f	f	2010-04-08 15:07:20.471861-04	pdfs/C8M88.pdf	images/thumbs/C8M88_t.png	images/C8M88.png	\N	\N	\N
-1406	Zoning (Color)	Zoning_(Color)	\N	8	89	\N	\N	\N	f	f	2010-04-08 15:07:21.080936-04	pdfs/C8M89.pdf	images/thumbs/C8M89_t.png	images/C8M89.png	\N	\N	\N
-1409	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	8	91	\N	\N	\N	f	f	2010-04-08 15:07:22.208081-04	pdfs/C8M91.pdf	images/thumbs/C8M91_t.png	images/C8M91.png	\N	\N	\N
-1413	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	9	11	\N	\N	\N	f	f	2010-04-08 15:05:14.302696-04	pdfs/C9M11.pdf	images/thumbs/C9M11_t.png	images/C9M11.png	\N	\N	\N
+1417	City & State Ownership	City_&_State_Ownership	\N	9	15	\N	\N	\N	f	f	2010-04-22 12:58:00.283757-04	pdfs/C9M15.pdf	images/thumbs/C9M15_t.jpg	images/C9M15.png	\N	\N	\N
+1418	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	9	16	\N	\N	\N	f	f	2010-04-22 12:58:00.307341-04	pdfs/C9M16.pdf	images/thumbs/C9M16_t.jpg	images/C9M16.png	\N	\N	\N
+1396	Historic Sites	Historic_Sites	\N	8	8	\N	\N	\N	f	f	2010-04-22 12:58:06.139969-04	pdfs/C8M8.pdf	images/thumbs/C8M8_t.jpg	images/C8M8.png	\N	\N	\N
+1407	2000 Aerial Photo	2000_Aerial_Photo	\N	8	9	\N	\N	\N	f	f	2010-04-22 12:58:06.165702-04	pdfs/C8M9.pdf	images/thumbs/C8M9_t.jpg	images/C8M9.png	\N	\N	\N
+1392	120% Area Mean Income	120%_Area_Mean_Income	\N	8	76	\N	\N	\N	f	f	2010-04-22 12:58:08.105249-04	pdfs/C8M76.pdf	images/thumbs/C8M76_t.jpg	images/C8M76.png	\N	\N	\N
+1393	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	8	77	\N	\N	\N	f	f	2010-04-22 12:58:08.122844-04	pdfs/C8M77.pdf	images/thumbs/C8M77_t.jpg	images/C8M77.png	\N	\N	\N
+1395	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	8	79	\N	\N	\N	f	f	2010-04-22 12:58:08.186368-04	pdfs/C8M79.pdf	images/thumbs/C8M79_t.jpg	images/C8M79.png	\N	\N	\N
+1397	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	8	80	\N	\N	\N	f	f	2010-04-22 12:58:08.307247-04	pdfs/C8M80.pdf	images/thumbs/C8M80_t.jpg	images/C8M80.png	\N	\N	\N
+1399	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	8	82	\N	\N	\N	f	f	2010-04-22 12:58:08.545301-04	pdfs/C8M82.pdf	images/thumbs/C8M82_t.jpg	images/C8M82.png	\N	\N	\N
+1400	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	8	83	\N	\N	\N	f	f	2010-04-22 12:58:09.063931-04	pdfs/C8M83.pdf	images/thumbs/C8M83_t.jpg	images/C8M83.png	\N	\N	\N
+1401	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	8	84	\N	\N	\N	f	f	2010-04-22 12:58:09.433415-04	pdfs/C8M84.pdf	images/thumbs/C8M84_t.jpg	images/C8M84.png	\N	\N	\N
+1403	2009 Street Paving	2009_Street_Paving	\N	8	86	\N	\N	\N	f	f	2010-04-22 12:58:09.754871-04	pdfs/C8M86.pdf	images/thumbs/C8M86_t.jpg	images/C8M86.png	\N	\N	\N
+1404	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	8	87	\N	\N	\N	f	f	2010-04-22 12:58:09.917392-04	pdfs/C8M87.pdf	images/thumbs/C8M87_t.jpg	images/C8M87.png	\N	\N	\N
+1405	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	8	88	\N	\N	\N	f	f	2010-04-22 12:58:09.935891-04	pdfs/C8M88.pdf	images/thumbs/C8M88_t.jpg	images/C8M88.png	\N	\N	\N
+1406	Zoning (Color)	Zoning_(Color)	\N	8	89	\N	\N	\N	f	f	2010-04-22 12:58:10.003704-04	pdfs/C8M89.pdf	images/thumbs/C8M89_t.jpg	images/C8M89.png	\N	\N	\N
+1409	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	8	91	\N	\N	\N	f	f	2010-04-22 12:58:10.168083-04	pdfs/C8M91.pdf	images/thumbs/C8M91_t.jpg	images/C8M91.png	\N	\N	\N
+1413	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	9	11	\N	\N	\N	f	f	2010-04-22 12:58:00.209453-04	pdfs/C9M11.pdf	images/thumbs/C9M11_t.jpg	images/C9M11.png	\N	\N	\N
+1414	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	9	12	\N	\N	\N	f	f	2010-04-22 12:58:00.231073-04	pdfs/C9M12.pdf	images/thumbs/C9M12_t.jpg	images/C9M12.png	\N	\N	\N
+1416	ONCR	ONCR	\N	9	14	\N	\N	\N	f	f	2010-04-22 12:58:00.268398-04	pdfs/C9M14.pdf	images/thumbs/C9M14_t.jpg	images/C9M14.png	\N	\N	\N
 1451	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	9	20	\N	2007	1	f	f	2010-04-05 16:03:27.277769-04	pdfs/C9M20a_07.pdf			\N	\N	\N
 1452	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	9	20	\N	2008	1	f	f	2010-04-05 16:03:27.344605-04	pdfs/C9M20a_08.pdf			\N	\N	\N
 1453	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	9	20	\N	2009	1	f	f	2010-04-05 16:03:27.399474-04	pdfs/C9M20a_09.pdf			\N	\N	\N
@@ -13562,19 +13558,19 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1486	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	9	22	\N	2008	4	f	f	2010-04-05 16:03:30.281876-04	pdfs/C9M22d_08.pdf			\N	\N	\N
 1487	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	9	22	\N	2009	4	f	f	2010-04-05 16:03:30.336486-04	pdfs/C9M22d_09.pdf			\N	\N	\N
 1495	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	9	29	\N	\N	\N	f	t	2010-04-05 16:03:30.794989-04	pdfs/C9M29Color.pdf			\N	\N	\N
-1462	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	9	20	\N	2009	4	f	f	2010-04-08 15:05:20.037773-04	pdfs/C9M20d_09.pdf	images/thumbs/C9M20d_09_t.png	images/C9M20d_09.png	\N	\N	\N
-1475	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	9	22	\N	\N	\N	f	f	2010-04-08 15:05:21.582111-04	pdfs/C9M22.pdf	images/thumbs/C9M22_t.png	images/C9M22.png	\N	\N	\N
-1488	Change in Housing Units	Change_in_Housing_Units	\N	9	23	\N	\N	\N	f	f	2010-04-08 15:05:22.393186-04	pdfs/C9M23.pdf	images/thumbs/C9M23_t.png	images/C9M23.png	\N	\N	\N
-1489	Change in Population	Change_in_Population	\N	9	24	\N	\N	\N	f	f	2010-04-08 15:05:23.180289-04	pdfs/C9M24.pdf	images/thumbs/C9M24_t.png	images/C9M24.png	\N	\N	\N
-1490	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	9	25	\N	\N	\N	f	f	2010-04-08 15:05:23.888865-04	pdfs/C9M25.pdf	images/thumbs/C9M25_t.png	images/C9M25.png	\N	\N	\N
-1491	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	9	26	\N	\N	\N	f	f	2010-04-08 15:05:24.516649-04	pdfs/C9M26.pdf	images/thumbs/C9M26_t.png	images/C9M26.png	\N	\N	\N
-1493	Median Rent	Median_Rent	\N	9	28	\N	\N	\N	f	f	2010-04-08 15:05:25.77352-04	pdfs/C9M28.pdf	images/thumbs/C9M28_t.png	images/C9M28.png	\N	\N	\N
-1494	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	9	29	\N	\N	\N	f	f	2010-04-08 15:05:26.479985-04	pdfs/C9M29.pdf	images/thumbs/C9M29_t.png	images/C9M29.png	\N	\N	\N
-1498	Median Income	Median_Income	\N	9	31	\N	\N	\N	f	f	2010-04-08 15:05:27.746712-04	pdfs/C9M31.pdf	images/thumbs/C9M31_t.png	images/C9M31.png	\N	\N	\N
-1499	Youth Population Change	Youth_Population_Change	\N	9	32	\N	\N	\N	f	f	2010-04-08 15:05:28.39999-04	pdfs/C9M32.pdf	images/thumbs/C9M32_t.png	images/C9M32.png	\N	\N	\N
-1500	Foreign Born Population	Foreign_Born_Population	\N	9	33	\N	\N	\N	f	f	2010-04-08 15:05:29.195313-04	pdfs/C9M33.pdf	images/thumbs/C9M33_t.png	images/C9M33.png	\N	\N	\N
-1501	Employment Sites	Employment_Sites	\N	9	34	\N	\N	\N	f	f	2010-04-08 15:05:29.886015-04	pdfs/C9M34.pdf	images/thumbs/C9M34_t.png	images/C9M34.png	\N	\N	\N
-1503	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	9	36	\N	\N	\N	f	f	2010-04-08 15:05:31.256335-04	pdfs/C9M36.pdf	images/thumbs/C9M36_t.png	images/C9M36.png	\N	\N	\N
+1488	Change in Housing Units	Change_in_Housing_Units	\N	9	23	\N	\N	\N	f	f	2010-04-22 12:58:00.517384-04	pdfs/C9M23.pdf	images/thumbs/C9M23_t.jpg	images/C9M23.png	\N	\N	\N
+1489	Change in Population	Change_in_Population	\N	9	24	\N	\N	\N	f	f	2010-04-22 12:58:00.548021-04	pdfs/C9M24.pdf	images/thumbs/C9M24_t.jpg	images/C9M24.png	\N	\N	\N
+1490	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	9	25	\N	\N	\N	f	f	2010-04-22 12:58:00.648823-04	pdfs/C9M25.pdf	images/thumbs/C9M25_t.jpg	images/C9M25.png	\N	\N	\N
+1491	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	9	26	\N	\N	\N	f	f	2010-04-22 12:58:00.667695-04	pdfs/C9M26.pdf	images/thumbs/C9M26_t.jpg	images/C9M26.png	\N	\N	\N
+1493	Median Rent	Median_Rent	\N	9	28	\N	\N	\N	f	f	2010-04-22 12:58:00.703896-04	pdfs/C9M28.pdf	images/thumbs/C9M28_t.jpg	images/C9M28.png	\N	\N	\N
+1494	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	9	29	\N	\N	\N	f	f	2010-04-22 12:58:00.727968-04	pdfs/C9M29.pdf	images/thumbs/C9M29_t.jpg	images/C9M29.png	\N	\N	\N
+1498	Median Income	Median_Income	\N	9	31	\N	\N	\N	f	f	2010-04-22 12:58:00.819442-04	pdfs/C9M31.pdf	images/thumbs/C9M31_t.jpg	images/C9M31.png	\N	\N	\N
+1499	Youth Population Change	Youth_Population_Change	\N	9	32	\N	\N	\N	f	f	2010-04-22 12:58:00.83838-04	pdfs/C9M32.pdf	images/thumbs/C9M32_t.jpg	images/C9M32.png	\N	\N	\N
+1500	Foreign Born Population	Foreign_Born_Population	\N	9	33	\N	\N	\N	f	f	2010-04-22 12:58:00.883551-04	pdfs/C9M33.pdf	images/thumbs/C9M33_t.jpg	images/C9M33.png	\N	\N	\N
+1501	Employment Sites	Employment_Sites	\N	9	34	\N	\N	\N	f	f	2010-04-22 12:58:00.90244-04	pdfs/C9M34.pdf	images/thumbs/C9M34_t.jpg	images/C9M34.png	\N	\N	\N
+1503	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	9	36	\N	\N	\N	f	f	2010-04-22 12:58:01.132613-04	pdfs/C9M36.pdf	images/thumbs/C9M36_t.jpg	images/C9M36.png	\N	\N	\N
+1462	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	9	20	\N	2009	4	f	f	2010-04-22 12:58:00.456536-04	pdfs/C9M20d_09.pdf	images/thumbs/C9M20d_09_t.jpg	images/C9M20d_09.png	\N	\N	\N
+1475	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	9	22	\N	\N	\N	f	f	2010-04-22 12:58:00.499647-04	pdfs/C9M22.pdf	images/thumbs/C9M22_t.jpg	images/C9M22.png	\N	\N	\N
 1514	Wayne County Tax Foreclosures - 2006	Wayne_County_Tax_Foreclosures_-_2006	\N	9	46	\N	\N	\N	f	f	2010-04-05 16:03:31.890764-04	pdfs/C9M46.pdf			\N	\N	\N
 1515	Traffic Counts	Traffic_Counts	\N	9	47	\N	\N	\N	f	f	2010-04-05 16:03:31.950055-04	pdfs/C9M47.pdf			\N	\N	\N
 1516	Consumer Expenditures (see appendix A)	Consumer_Expenditures_(see_appendix_A)	\N	9	48	\N	\N	\N	f	f	2010-04-05 16:03:31.958547-04	pdfs/C9M48.pdf			\N	\N	\N
@@ -13586,284 +13582,288 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 1529	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	9	58	\N	\N	\N	t	f	2010-04-05 16:03:33.016179-04	pdfs/C9M58AppendixC.pdf			\N	\N	\N
 1545	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	9	71	\N	\N	\N	t	f	2010-04-05 16:03:34.055257-04	pdfs/C9M71AppendixD.pdf			\N	\N	\N
 1547	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	9	72	\N	\N	\N	t	f	2010-04-05 16:03:34.212974-04	pdfs/C9M72AppendixE.pdf			\N	\N	\N
-1542	Insitutional Uses	Insitutional_Uses	\N	9	7	\N	\N	\N	f	f	2010-04-08 15:05:11.413008-04	pdfs/C9M7.pdf	images/thumbs/C9M7_t.png	images/C9M7.png	\N	\N	\N
-1555	Historic Sites	Historic_Sites	\N	9	8	\N	\N	\N	f	f	2010-04-08 15:05:12.159916-04	pdfs/C9M8.pdf	images/thumbs/C9M8_t.png	images/C9M8.png	\N	\N	\N
-1505	Other Schools	Other_Schools	\N	9	38	\N	\N	\N	f	f	2010-04-08 15:05:33.072998-04	pdfs/C9M38.pdf	images/thumbs/C9M38_t.png	images/C9M38.png	\N	\N	\N
-1506	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	9	39	\N	\N	\N	f	f	2010-04-08 15:05:33.760524-04	pdfs/C9M39.pdf	images/thumbs/C9M39_t.png	images/C9M39.png	\N	\N	\N
-1509	Elderly Population	Elderly_Population	\N	9	41	\N	\N	\N	f	f	2010-04-08 15:05:35.186228-04	pdfs/C9M41.pdf	images/thumbs/C9M41_t.png	images/C9M41.png	\N	\N	\N
-1510	Greenways	Greenways	\N	9	42	\N	\N	\N	f	f	2010-04-08 15:05:35.974887-04	pdfs/C9M42.pdf	images/thumbs/C9M42_t.png	images/C9M42.png	\N	\N	\N
-1511	Truck Routes	Truck_Routes	\N	9	43	\N	\N	\N	f	f	2010-04-08 15:05:36.873153-04	pdfs/C9M43.pdf	images/thumbs/C9M43_t.png	images/C9M43.png	\N	\N	\N
-1513	Low/Moderate Income	Low/Moderate_Income	\N	9	45	\N	\N	\N	f	f	2010-04-08 15:05:38.35841-04	pdfs/C9M45.pdf	images/thumbs/C9M45_t.png	images/C9M45.png	\N	\N	\N
-1523	Births	Births	\N	9	53	\N	\N	\N	f	f	2010-04-08 15:05:39.130036-04	pdfs/C9M53.pdf	images/thumbs/C9M53_t.png	images/C9M53.png	\N	\N	\N
-1524	Deaths	Deaths	\N	9	54	\N	\N	\N	f	f	2010-04-08 15:05:39.825087-04	pdfs/C9M54.pdf	images/thumbs/C9M54_t.png	images/C9M54.png	\N	\N	\N
-1525	Crime	Crime	\N	9	55	\N	\N	\N	f	f	2010-04-08 15:05:40.46529-04	pdfs/C9M55.pdf	images/thumbs/C9M55_t.png	images/C9M55.png	\N	\N	\N
-1526	Dangerous Buildings	Dangerous_Buildings	\N	9	56	\N	\N	\N	f	f	2010-04-08 15:05:41.117097-04	pdfs/C9M56.pdf	images/thumbs/C9M56_t.png	images/C9M56.png	\N	\N	\N
-1527	Fires	Fires	\N	9	57	\N	\N	\N	f	f	2010-04-08 15:05:41.763676-04	pdfs/C9M57.pdf	images/thumbs/C9M57_t.png	images/C9M57.png	\N	\N	\N
-1532	Registered Voters	Registered_Voters	\N	9	60	\N	\N	\N	f	f	2010-04-08 15:05:44.07563-04	pdfs/C9M60.pdf	images/thumbs/C9M60_t.png	images/C9M60.png	\N	\N	\N
-1533	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	9	61	\N	\N	\N	f	f	2010-04-08 15:05:44.771609-04	pdfs/C9M61.pdf	images/thumbs/C9M61_t.png	images/C9M61.png	\N	\N	\N
-1536	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	9	64	\N	\N	\N	f	f	2010-04-08 15:05:46.783862-04	pdfs/C9M64.pdf	images/thumbs/C9M64_t.png	images/C9M64.png	\N	\N	\N
-1537	Licensed Businesses	Licensed_Businesses	\N	9	65	\N	\N	\N	f	f	2010-04-08 15:05:47.425479-04	pdfs/C9M65.pdf	images/thumbs/C9M65_t.png	images/C9M65.png	\N	\N	\N
-1538	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	9	66	\N	\N	\N	f	f	2010-04-08 15:05:48.088286-04	pdfs/C9M66.pdf	images/thumbs/C9M66_t.png	images/C9M66.png	\N	\N	\N
-1539	Human Services Programs	Human_Services_Programs	\N	9	67	\N	\N	\N	f	f	2010-04-08 15:05:48.78015-04	pdfs/C9M67.pdf	images/thumbs/C9M67_t.png	images/C9M67.png	\N	\N	\N
-1540	Head Start	Head_Start	\N	9	68	\N	\N	\N	f	f	2010-04-08 15:05:49.434847-04	pdfs/C9M68.pdf	images/thumbs/C9M68_t.png	images/C9M68.png	\N	\N	\N
-1541	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	9	69	\N	\N	\N	f	f	2010-04-08 15:05:50.065321-04	pdfs/C9M69.pdf	images/thumbs/C9M69_t.png	images/C9M69.png	\N	\N	\N
-1543	Parks Master Plan Update	Parks_Master_Plan_Update	\N	9	70	\N	\N	\N	f	f	2010-04-08 15:05:50.67609-04	pdfs/C9M70.pdf	images/thumbs/C9M70_t.png	images/C9M70.png	\N	\N	\N
-1548	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	9	73	\N	\N	\N	f	f	2010-04-08 15:05:52.676267-04	pdfs/C9M73.pdf	images/thumbs/C9M73_t.png	images/C9M73.png	\N	\N	\N
-1549	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	9	74	\N	\N	\N	f	f	2010-04-08 15:05:53.411624-04	pdfs/C9M74.pdf	images/thumbs/C9M74_t.png	images/C9M74.png	\N	\N	\N
-1550	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	9	75	\N	\N	\N	f	f	2010-04-08 15:05:54.050309-04	pdfs/C9M75.pdf	images/thumbs/C9M75_t.png	images/C9M75.png	\N	\N	\N
-1551	120% Area Mean Income	120%_Area_Mean_Income	\N	9	76	\N	\N	\N	f	f	2010-04-08 15:05:54.661543-04	pdfs/C9M76.pdf	images/thumbs/C9M76_t.png	images/C9M76.png	\N	\N	\N
-1552	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	9	77	\N	\N	\N	f	f	2010-04-08 15:05:55.283389-04	pdfs/C9M77.pdf	images/thumbs/C9M77_t.png	images/C9M77.png	\N	\N	\N
-1553	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	9	78	\N	\N	\N	f	f	2010-04-08 15:05:55.972272-04	pdfs/C9M78.pdf	images/thumbs/C9M78_t.png	images/C9M78.png	\N	\N	\N
-1554	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	9	79	\N	\N	\N	f	f	2010-04-08 15:05:56.583451-04	pdfs/C9M79.pdf	images/thumbs/C9M79_t.png	images/C9M79.png	\N	\N	\N
-1556	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	9	80	\N	\N	\N	f	f	2010-04-08 15:05:57.196882-04	pdfs/C9M80.pdf	images/thumbs/C9M80_t.png	images/C9M80.png	\N	\N	\N
-1558	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	9	82	\N	\N	\N	f	f	2010-04-08 15:05:58.449605-04	pdfs/C9M82.pdf	images/thumbs/C9M82_t.png	images/C9M82.png	\N	\N	\N
-1560	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	9	84	\N	\N	\N	f	f	2010-04-08 15:05:59.723011-04	pdfs/C9M84.pdf	images/thumbs/C9M84_t.png	images/C9M84.png	\N	\N	\N
-1561	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	9	85	\N	\N	\N	f	f	2010-04-08 15:06:00.340996-04	pdfs/C9M85.pdf	images/thumbs/C9M85_t.png	images/C9M85.png	\N	\N	\N
-1562	2009 Street Paving	2009_Street_Paving	\N	9	86	\N	\N	\N	f	f	2010-04-08 15:06:00.950862-04	pdfs/C9M86.pdf	images/thumbs/C9M86_t.png	images/C9M86.png	\N	\N	\N
-1563	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	9	87	\N	\N	\N	f	f	2010-04-08 15:06:01.566431-04	pdfs/C9M87.pdf	images/thumbs/C9M87_t.png	images/C9M87.png	\N	\N	\N
-1564	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	9	88	\N	\N	\N	f	f	2010-04-08 15:06:02.215103-04	pdfs/C9M88.pdf	images/thumbs/C9M88_t.png	images/C9M88.png	\N	\N	\N
-1565	Zoning (Color)	Zoning_(Color)	\N	9	89	\N	\N	\N	f	f	2010-04-08 15:06:03.135939-04	pdfs/C9M89.pdf	images/thumbs/C9M89_t.png	images/C9M89.png	\N	\N	\N
-1519	Bus Routes	Bus_Routes	\N	9	5	\N	\N	\N	f	f	2010-04-08 15:05:09.918594-04	pdfs/C9M5.pdf	images/thumbs/C9M5_t.png	images/C9M5.png	\N	\N	\N
+1505	Other Schools	Other_Schools	\N	9	38	\N	\N	\N	f	f	2010-04-22 12:58:01.217439-04	pdfs/C9M38.pdf	images/thumbs/C9M38_t.jpg	images/C9M38.png	\N	\N	\N
+1506	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	9	39	\N	\N	\N	f	f	2010-04-22 12:58:01.23486-04	pdfs/C9M39.pdf	images/thumbs/C9M39_t.jpg	images/C9M39.png	\N	\N	\N
+1509	Elderly Population	Elderly_Population	\N	9	41	\N	\N	\N	f	f	2010-04-22 12:58:01.280138-04	pdfs/C9M41.pdf	images/thumbs/C9M41_t.jpg	images/C9M41.png	\N	\N	\N
+1510	Greenways	Greenways	\N	9	42	\N	\N	\N	f	f	2010-04-22 12:58:01.330314-04	pdfs/C9M42.pdf	images/thumbs/C9M42_t.jpg	images/C9M42.png	\N	\N	\N
+1511	Truck Routes	Truck_Routes	\N	9	43	\N	\N	\N	f	f	2010-04-22 12:58:01.349747-04	pdfs/C9M43.pdf	images/thumbs/C9M43_t.jpg	images/C9M43.png	\N	\N	\N
+1513	Low/Moderate Income	Low/Moderate_Income	\N	9	45	\N	\N	\N	f	f	2010-04-22 12:58:01.38664-04	pdfs/C9M45.pdf	images/thumbs/C9M45_t.jpg	images/C9M45.png	\N	\N	\N
+1523	Births	Births	\N	9	53	\N	\N	\N	f	f	2010-04-22 12:58:01.533385-04	pdfs/C9M53.pdf	images/thumbs/C9M53_t.jpg	images/C9M53.png	\N	\N	\N
+1524	Deaths	Deaths	\N	9	54	\N	\N	\N	f	f	2010-04-22 12:58:01.582363-04	pdfs/C9M54.pdf	images/thumbs/C9M54_t.jpg	images/C9M54.png	\N	\N	\N
+1525	Crime	Crime	\N	9	55	\N	\N	\N	f	f	2010-04-22 12:58:01.647986-04	pdfs/C9M55.pdf	images/thumbs/C9M55_t.jpg	images/C9M55.png	\N	\N	\N
+1526	Dangerous Buildings	Dangerous_Buildings	\N	9	56	\N	\N	\N	f	f	2010-04-22 12:58:01.740101-04	pdfs/C9M56.pdf	images/thumbs/C9M56_t.jpg	images/C9M56.png	\N	\N	\N
+1527	Fires	Fires	\N	9	57	\N	\N	\N	f	f	2010-04-22 12:58:01.756816-04	pdfs/C9M57.pdf	images/thumbs/C9M57_t.jpg	images/C9M57.png	\N	\N	\N
+1532	Registered Voters	Registered_Voters	\N	9	60	\N	\N	\N	f	f	2010-04-22 12:58:01.824184-04	pdfs/C9M60.pdf	images/thumbs/C9M60_t.jpg	images/C9M60.png	\N	\N	\N
+1533	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	9	61	\N	\N	\N	f	f	2010-04-22 12:58:01.878077-04	pdfs/C9M61.pdf	images/thumbs/C9M61_t.jpg	images/C9M61.png	\N	\N	\N
+1536	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	9	64	\N	\N	\N	f	f	2010-04-22 12:58:01.947115-04	pdfs/C9M64.pdf	images/thumbs/C9M64_t.jpg	images/C9M64.png	\N	\N	\N
+1537	Licensed Businesses	Licensed_Businesses	\N	9	65	\N	\N	\N	f	f	2010-04-22 12:58:01.964536-04	pdfs/C9M65.pdf	images/thumbs/C9M65_t.jpg	images/C9M65.png	\N	\N	\N
+1538	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	9	66	\N	\N	\N	f	f	2010-04-22 12:58:01.999647-04	pdfs/C9M66.pdf	images/thumbs/C9M66_t.jpg	images/C9M66.png	\N	\N	\N
+1539	Human Services Programs	Human_Services_Programs	\N	9	67	\N	\N	\N	f	f	2010-04-22 12:58:02.018178-04	pdfs/C9M67.pdf	images/thumbs/C9M67_t.jpg	images/C9M67.png	\N	\N	\N
+1540	Head Start	Head_Start	\N	9	68	\N	\N	\N	f	f	2010-04-22 12:58:02.069413-04	pdfs/C9M68.pdf	images/thumbs/C9M68_t.jpg	images/C9M68.png	\N	\N	\N
+1541	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	9	69	\N	\N	\N	f	f	2010-04-22 12:58:02.126503-04	pdfs/C9M69.pdf	images/thumbs/C9M69_t.jpg	images/C9M69.png	\N	\N	\N
+1543	Parks Master Plan Update	Parks_Master_Plan_Update	\N	9	70	\N	\N	\N	f	f	2010-04-22 12:58:02.149316-04	pdfs/C9M70.pdf	images/thumbs/C9M70_t.jpg	images/C9M70.png	\N	\N	\N
+1548	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	9	73	\N	\N	\N	f	f	2010-04-22 12:58:02.449565-04	pdfs/C9M73.pdf	images/thumbs/C9M73_t.jpg	images/C9M73.png	\N	\N	\N
+1549	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	9	74	\N	\N	\N	f	f	2010-04-22 12:58:02.487767-04	pdfs/C9M74.pdf	images/thumbs/C9M74_t.jpg	images/C9M74.png	\N	\N	\N
+1550	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	9	75	\N	\N	\N	f	f	2010-04-22 12:58:02.507444-04	pdfs/C9M75.pdf	images/thumbs/C9M75_t.jpg	images/C9M75.png	\N	\N	\N
+1551	120% Area Mean Income	120%_Area_Mean_Income	\N	9	76	\N	\N	\N	f	f	2010-04-22 12:58:02.528703-04	pdfs/C9M76.pdf	images/thumbs/C9M76_t.jpg	images/C9M76.png	\N	\N	\N
+1552	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	9	77	\N	\N	\N	f	f	2010-04-22 12:58:02.553506-04	pdfs/C9M77.pdf	images/thumbs/C9M77_t.jpg	images/C9M77.png	\N	\N	\N
+1553	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	9	78	\N	\N	\N	f	f	2010-04-22 12:58:02.583488-04	pdfs/C9M78.pdf	images/thumbs/C9M78_t.jpg	images/C9M78.png	\N	\N	\N
+1554	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	9	79	\N	\N	\N	f	f	2010-04-22 12:58:02.601628-04	pdfs/C9M79.pdf	images/thumbs/C9M79_t.jpg	images/C9M79.png	\N	\N	\N
+1556	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	9	80	\N	\N	\N	f	f	2010-04-22 12:58:02.630546-04	pdfs/C9M80.pdf	images/thumbs/C9M80_t.jpg	images/C9M80.png	\N	\N	\N
+1558	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	9	82	\N	\N	\N	f	f	2010-04-22 12:58:02.669009-04	pdfs/C9M82.pdf	images/thumbs/C9M82_t.jpg	images/C9M82.png	\N	\N	\N
+1560	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	9	84	\N	\N	\N	f	f	2010-04-22 12:58:02.742991-04	pdfs/C9M84.pdf	images/thumbs/C9M84_t.jpg	images/C9M84.png	\N	\N	\N
+1561	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	9	85	\N	\N	\N	f	f	2010-04-22 12:58:02.759081-04	pdfs/C9M85.pdf	images/thumbs/C9M85_t.jpg	images/C9M85.png	\N	\N	\N
+1562	2009 Street Paving	2009_Street_Paving	\N	9	86	\N	\N	\N	f	f	2010-04-22 12:58:02.808753-04	pdfs/C9M86.pdf	images/thumbs/C9M86_t.jpg	images/C9M86.png	\N	\N	\N
+1563	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	9	87	\N	\N	\N	f	f	2010-04-22 12:58:02.856382-04	pdfs/C9M87.pdf	images/thumbs/C9M87_t.jpg	images/C9M87.png	\N	\N	\N
+1564	Real Estate Owned (REO) 2007	Real_Estate_Owned_(REO)_2007	\N	9	88	\N	\N	\N	f	f	2010-04-22 12:58:02.874546-04	pdfs/C9M88.pdf	images/thumbs/C9M88_t.jpg	images/C9M88.png	\N	\N	\N
+1565	Zoning (Color)	Zoning_(Color)	\N	9	89	\N	\N	\N	f	f	2010-04-22 12:58:02.894006-04	pdfs/C9M89.pdf	images/thumbs/C9M89_t.jpg	images/C9M89.png	\N	\N	\N
+1519	Bus Routes	Bus_Routes	\N	9	5	\N	\N	\N	f	f	2010-04-22 12:57:59.99367-04	pdfs/C9M5.pdf	images/thumbs/C9M5_t.jpg	images/C9M5.png	\N	\N	\N
+1542	Insitutional Uses	Insitutional_Uses	\N	9	7	\N	\N	\N	f	f	2010-04-22 12:58:00.085412-04	pdfs/C9M7.pdf	images/thumbs/C9M7_t.jpg	images/C9M7.png	\N	\N	\N
+1555	Historic Sites	Historic_Sites	\N	9	8	\N	\N	\N	f	f	2010-04-22 12:58:00.108364-04	pdfs/C9M8.pdf	images/thumbs/C9M8_t.jpg	images/C9M8.png	\N	\N	\N
 1569	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	9	91	\N	\N	\N	t	f	2010-04-05 16:03:36.018015-04	pdfs/C9M91AppendixF.pdf			\N	\N	\N
-251	Transportation Network	Transportation_Network	\N	1	4	\N	\N	\N	f	f	2010-04-19 16:02:02.633291-04	pdfs/C1M4.pdf	images/thumbs/C1M4_t_.png	images/C1M4____.png	\N	\N	\N
-299	Historic Sites	Historic_Sites	\N	1	8	\N	\N	\N	f	f	2010-04-19 16:02:03.749108-04	pdfs/C1M8.pdf	images/thumbs/C1M8_t_.png	images/C1M8___.png	\N	\N	\N
-176	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	1	17	\N	2009	4	f	f	2010-04-19 16:02:06.765458-04	pdfs/C1M17d_09.pdf	images/thumbs/C1M17d_09_t_.png	images/C1M17d_09_.png	\N	\N	\N
-244	Foreign Born Population	Foreign_Born_Population	\N	1	33	\N	\N	\N	f	f	2010-04-19 16:02:11.412252-04	pdfs/C1M33.pdf	images/thumbs/C1M33_t_.png	images/C1M33.png	\N	\N	\N
-250	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	1	39	\N	\N	\N	f	f	2010-04-19 16:02:13.231337-04	pdfs/C1M39.pdf	images/thumbs/C1M39_t_.png	images/C1M39.png	\N	\N	\N
-270	Dangerous Buildings	Dangerous_Buildings	\N	1	56	\N	\N	\N	f	f	2010-04-19 15:57:11.181552-04	pdfs/C1M56.pdf	images/thumbs/C1M56_t_.png	images/C1M56.png	\N	\N	\N
-240	Overlay Areas	Overlay_Areas	\N	1	3	\N	\N	\N	f	f	2010-04-19 16:02:02.327884-04	pdfs/C1M3.pdf	images/thumbs/C1M3_t_.png	images/C1M3____.png	\N	\N	\N
-285	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	1	69	\N	\N	\N	f	f	2010-04-19 15:57:14.84988-04	pdfs/C1M69.pdf	images/thumbs/C1M69_t_.png	images/C1M69.png	\N	\N	\N
-290	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	1	72	\N	\N	\N	f	f	2010-04-19 15:57:15.873285-04	pdfs/C1M72.pdf	images/thumbs/C1M72_t_.png	images/C1M72.png	\N	\N	\N
-302	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	1	82	\N	\N	\N	f	f	2010-04-19 15:57:20.702535-04	pdfs/C1M82.pdf	images/thumbs/C1M82_t_.png	images/C1M82.png	\N	\N	\N
-388	Overlay Areas	Overlay_Areas	\N	2	3	\N	\N	\N	f	f	2010-04-19 15:57:22.250019-04	pdfs/C2M3.pdf	images/thumbs/C2M3_t_.png	images/C2M3.png	\N	\N	\N
-399	Transportation Network	Transportation_Network	\N	2	4	\N	\N	\N	f	f	2010-04-19 15:57:22.97694-04	pdfs/C2M4.pdf	images/thumbs/C2M4_t_.png	images/C2M4.png	\N	\N	\N
-423	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	2	6	\N	\N	\N	f	f	2010-04-19 15:57:23.840273-04	pdfs/C2M6.pdf	images/thumbs/C2M6_t_.png	images/C2M6.png	\N	\N	\N
-379	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	2	22	\N	2009	4	f	f	2010-04-19 15:57:28.352469-04	pdfs/C2M22d_09.pdf	images/thumbs/C2M22d_09_t_.png	images/C2M22d_09.png	\N	\N	\N
-394	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	2	35	\N	\N	\N	f	f	2010-04-19 15:57:32.873993-04	pdfs/C2M35.pdf	images/thumbs/C2M35_t_.png	images/C2M35.png	\N	\N	\N
-401	Elderly Population	Elderly_Population	\N	2	41	\N	\N	\N	f	f	2010-04-19 15:57:34.773387-04	pdfs/C2M41.pdf	images/thumbs/C2M41_t_.png	images/C2M41.png	\N	\N	\N
-404	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	2	44	\N	\N	\N	f	f	2010-04-19 15:57:35.640301-04	pdfs/C2M44.pdf	images/thumbs/C2M44_t_.png	images/C2M44.png	\N	\N	\N
-424	Registered Voters	Registered_Voters	\N	2	60	\N	\N	\N	f	f	2010-04-19 15:57:38.403902-04	pdfs/C2M60.pdf	images/thumbs/C2M60_t_.png	images/C2M60.png	\N	\N	\N
-438	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	2	72	\N	\N	\N	f	f	2010-04-19 15:57:42.01476-04	pdfs/C2M72.pdf	images/thumbs/C2M72_t_.png	images/C2M72.png	\N	\N	\N
-451	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	2	83	\N	\N	\N	f	f	2010-04-19 15:57:45.245631-04	pdfs/C2M83.pdf	images/thumbs/C2M83_t_.png	images/C2M83.png	\N	\N	\N
-621	Future Land Use	Future_Land_Use	\N	4	1	\N	\N	\N	f	f	2010-04-19 15:57:48.321684-04	pdfs/C4M1.pdf	images/thumbs/C4M1_t_.png	images/C4M1.png	\N	\N	\N
-660	Zoning	Zoning	\N	4	2	\N	\N	\N	f	f	2010-04-19 15:57:49.08711-04	pdfs/C4M2.pdf	images/thumbs/C4M2_t_.png	images/C4M2.png	\N	\N	\N
-705	Overlay Areas	Overlay_Areas	\N	4	3	\N	\N	\N	f	f	2010-04-19 15:57:49.756839-04	pdfs/C4M3.pdf	images/thumbs/C4M3_t_.png	images/C4M3.png	\N	\N	\N
-764	Historic Sites	Historic_Sites	\N	4	8	\N	\N	\N	f	f	2010-04-19 15:57:53.221632-04	pdfs/C4M8.pdf	images/thumbs/C4M8_t_.png	images/C4M8.png	\N	\N	\N
-641	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2009	4	f	f	2010-04-19 15:57:59.400015-04	pdfs/C4M17d_09.pdf	images/thumbs/C4M17d_09_t_.png	images/C4M17d_09.png	\N	\N	\N
-696	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2009	4	f	f	2010-04-19 15:58:02.375413-04	pdfs/C4M22d_09.pdf	images/thumbs/C4M22d_09_t_.png	images/C4M22d_09.png	\N	\N	\N
-708	Youth Population Change	Youth_Population_Change	\N	4	32	\N	\N	\N	f	f	2010-04-19 15:58:09.031821-04	pdfs/C4M32.pdf	images/thumbs/C4M32_t_.png	images/C4M32.png	\N	\N	\N
-715	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	4	39	\N	\N	\N	f	f	2010-04-19 15:58:14.087175-04	pdfs/C4M39.pdf	images/thumbs/C4M39_t_.png	images/C4M39.png	\N	\N	\N
-734	Crime	Crime	\N	4	55	\N	\N	\N	f	f	2010-04-19 15:58:20.650173-04	pdfs/C4M55.pdf	images/thumbs/C4M55_t_.png	images/C4M55.png	\N	\N	\N
-747	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	4	66	\N	\N	\N	f	f	2010-04-19 15:58:31.145443-04	pdfs/C4M66.pdf	images/thumbs/C4M66_t_.png	images/C4M66.png	\N	\N	\N
-755	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	4	72	\N	\N	\N	f	f	2010-04-19 15:58:36.8254-04	pdfs/C4M72.pdf	images/thumbs/C4M72_t_.png	images/C4M72.png	\N	\N	\N
-156	Future Land Use	Future_Land_Use	\N	1	1	\N	\N	\N	f	f	2010-04-19 16:02:01.660581-04	pdfs/C1M1.pdf	images/thumbs/C1M1_t_.png	images/C1M1____.png	\N	\N	\N
-195	Zoning	Zoning	\N	1	2	\N	\N	\N	f	f	2010-04-19 16:02:02.031481-04	pdfs/C1M2.pdf	images/thumbs/C1M2_t_.png	images/C1M2____.png	\N	\N	\N
-768	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	4	83	\N	\N	\N	f	f	2010-04-08 15:02:40.978015-04	pdfs/C4M83.pdf	images/thumbs/C4M83_t.png	images/C4M83.png	\N	\N	\N
-818	Zoning	Zoning	\N	5	2	\N	\N	\N	f	f	2010-04-08 15:02:47.150025-04	pdfs/C5M2.pdf	images/thumbs/C5M2_t.png	images/C5M2.png	\N	\N	\N
-874	Transportation Network	Transportation_Network	\N	5	4	\N	\N	\N	f	f	2010-04-08 15:02:48.333964-04	pdfs/C5M4.pdf	images/thumbs/C5M4_t.png	images/C5M4.png	\N	\N	\N
-780	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	5	10	\N	\N	\N	f	f	2010-04-08 15:02:52.06326-04	pdfs/C5M10.pdf	images/thumbs/C5M10_t.png	images/C5M10.png	\N	\N	\N
-799	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	5	17	\N	2009	4	f	f	2010-04-08 15:02:55.944265-04	pdfs/C5M17d_09.pdf	images/thumbs/C5M17d_09_t.png	images/C5M17d_09.png	\N	\N	\N
-817	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2009	4	f	f	2010-04-08 15:02:56.593603-04	pdfs/C5M19d_09.pdf	images/thumbs/C5M19d_09_t.png	images/C5M19d_09.png	\N	\N	\N
-866	Youth Population Change	Youth_Population_Change	\N	5	32	\N	\N	\N	f	f	2010-04-08 15:03:04.48401-04	pdfs/C5M32.pdf	images/thumbs/C5M32_t.png	images/C5M32.png	\N	\N	\N
-873	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	5	39	\N	\N	\N	f	f	2010-04-08 15:03:08.391992-04	pdfs/C5M39.pdf	images/thumbs/C5M39_t.png	images/C5M39.png	\N	\N	\N
-892	Crime	Crime	\N	5	55	\N	\N	\N	f	f	2010-04-08 15:03:13.461876-04	pdfs/C5M55.pdf	images/thumbs/C5M55_t.png	images/C5M55.png	\N	\N	\N
-895	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	5	58	\N	\N	\N	f	f	2010-04-08 15:03:15.232499-04	pdfs/C5M58.pdf	images/thumbs/C5M58_t.png	images/C5M58.png	\N	\N	\N
-926	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	5	83	\N	\N	\N	f	f	2010-04-08 15:03:30.842813-04	pdfs/C5M83.pdf	images/thumbs/C5M83_t.png	images/C5M83.png	\N	\N	\N
-927	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	5	84	\N	\N	\N	f	f	2010-04-08 15:03:31.378492-04	pdfs/C5M84.pdf	images/thumbs/C5M84_t.png	images/C5M84.png	\N	\N	\N
-1021	Overlay Areas	Overlay_Areas	\N	6	3	\N	\N	\N	f	f	2010-04-08 15:03:37.150184-04	pdfs/C6M3.pdf	images/thumbs/C6M3_t.png	images/C6M3.png	\N	\N	\N
-1044	Bus Routes	Bus_Routes	\N	6	5	\N	\N	\N	f	f	2010-04-08 15:03:38.568393-04	pdfs/C6M5.pdf	images/thumbs/C6M5_t.png	images/C6M5.png	\N	\N	\N
-1056	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	6	6	\N	\N	\N	f	f	2010-04-08 15:03:39.243281-04	pdfs/C6M6.pdf	images/thumbs/C6M6_t.png	images/C6M6.png	\N	\N	\N
-938	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	6	10	\N	\N	\N	f	f	2010-04-08 15:03:42.36018-04	pdfs/C6M10.pdf	images/thumbs/C6M10_t.png	images/C6M10.png	\N	\N	\N
-944	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	6	16	\N	\N	\N	f	f	2010-04-08 15:03:46.62649-04	pdfs/C6M16.pdf	images/thumbs/C6M16_t.png	images/C6M16.png	\N	\N	\N
-1019	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	6	29	\N	\N	\N	f	f	2010-04-08 15:03:54.448193-04	pdfs/C6M29.pdf	images/thumbs/C6M29_t.png	images/C6M29.png	\N	\N	\N
-1027	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	6	35	\N	\N	\N	f	f	2010-04-08 15:04:00.580476-04	pdfs/C6M35.pdf	images/thumbs/C6M35_t.png	images/C6M35.png	\N	\N	\N
-1037	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	6	44	\N	\N	\N	f	f	2010-04-08 15:04:08.076234-04	pdfs/C6M44.pdf	images/thumbs/C6M44_t.png	images/C6M44.png	\N	\N	\N
-1051	Dangerous Buildings	Dangerous_Buildings	\N	6	56	\N	\N	\N	f	f	2010-04-08 15:04:12.149647-04	pdfs/C6M56.pdf	images/thumbs/C6M56_t.png	images/C6M56.png	\N	\N	\N
-1058	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	6	61	\N	\N	\N	f	f	2010-04-08 15:04:15.296786-04	pdfs/C6M61.pdf	images/thumbs/C6M61_t.png	images/C6M61.png	\N	\N	\N
-1068	Parks Master Plan Update	Parks_Master_Plan_Update	\N	6	70	\N	\N	\N	f	f	2010-04-08 15:04:21.457297-04	pdfs/C6M70.pdf	images/thumbs/C6M70_t.png	images/C6M70.png	\N	\N	\N
-1084	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	6	83	\N	\N	\N	f	f	2010-04-08 15:04:31.466556-04	pdfs/C6M83.pdf	images/thumbs/C6M83_t.png	images/C6M83.png	\N	\N	\N
-1134	Zoning	Zoning	\N	7	2	\N	\N	\N	f	f	2010-04-08 15:04:37.90376-04	pdfs/C7M2.pdf	images/thumbs/C7M2_t.png	images/C7M2.png	\N	\N	\N
-1179	Overlay Areas	Overlay_Areas	\N	7	3	\N	\N	\N	f	f	2010-04-08 15:04:38.335464-04	pdfs/C7M3.pdf	images/thumbs/C7M3_t.png	images/C7M3.png	\N	\N	\N
-1190	Transportation Network	Transportation_Network	\N	7	4	\N	\N	\N	f	f	2010-04-08 15:04:38.603269-04	pdfs/C7M4.pdf	images/thumbs/C7M4_t.png	images/C7M4.png	\N	\N	\N
-1225	Insitutional Uses	Insitutional_Uses	\N	7	7	\N	\N	\N	f	f	2010-04-08 15:04:39.539562-04	pdfs/C7M7.pdf	images/thumbs/C7M7_t.png	images/C7M7.png	\N	\N	\N
-1249	2000 Aerial Photo	2000_Aerial_Photo	\N	7	9	\N	\N	\N	f	f	2010-04-08 15:04:40.09675-04	pdfs/C7M9.pdf	images/thumbs/C7M9_t.png	images/C7M9.png	\N	\N	\N
-1133	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	7	19	\N	2009	4	f	f	2010-04-08 15:04:43.239012-04	pdfs/C7M19d_09.pdf	images/thumbs/C7M19d_09_t.png	images/C7M19d_09.png	\N	\N	\N
-1170	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	7	22	\N	2009	4	f	f	2010-04-08 15:04:44.145286-04	pdfs/C7M22d_09.pdf	images/thumbs/C7M22d_09_t.png	images/C7M22d_09.png	\N	\N	\N
-1184	Employment Sites	Employment_Sites	\N	7	34	\N	\N	\N	f	f	2010-04-08 15:04:47.41995-04	pdfs/C7M34.pdf	images/thumbs/C7M34_t.png	images/C7M34.png	\N	\N	\N
-1189	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	7	39	\N	\N	\N	f	f	2010-04-08 15:04:49.646674-04	pdfs/C7M39.pdf	images/thumbs/C7M39_t.png	images/C7M39.png	\N	\N	\N
-1216	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	7	61	\N	\N	\N	f	f	2010-04-08 15:04:54.368732-04	pdfs/C7M61.pdf	images/thumbs/C7M61_t.png	images/C7M61.png	\N	\N	\N
-1221	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	7	66	\N	\N	\N	f	f	2010-04-08 15:04:56.123912-04	pdfs/C7M66.pdf	images/thumbs/C7M66_t.png	images/C7M66.png	\N	\N	\N
-1232	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	7	74	\N	\N	\N	f	f	2010-04-08 15:04:59.140192-04	pdfs/C7M74.pdf	images/thumbs/C7M74_t.png	images/C7M74.png	\N	\N	\N
-1411	Future Land Use	Future_Land_Use	\N	9	1	\N	\N	\N	f	f	2010-04-08 15:05:06.902304-04	pdfs/C9M1.pdf	images/thumbs/C9M1_t.png	images/C9M1.png	\N	\N	\N
-1450	Zoning	Zoning	\N	9	2	\N	\N	\N	f	f	2010-04-08 15:05:07.686093-04	pdfs/C9M2.pdf	images/thumbs/C9M2_t.png	images/C9M2.png	\N	\N	\N
-1496	Overlay Areas	Overlay_Areas	\N	9	3	\N	\N	\N	f	f	2010-04-08 15:05:08.4677-04	pdfs/C9M3.pdf	images/thumbs/C9M3_t.png	images/C9M3.png	\N	\N	\N
-1507	Transportation Network	Transportation_Network	\N	9	4	\N	\N	\N	f	f	2010-04-08 15:05:09.155147-04	pdfs/C9M4.pdf	images/thumbs/C9M4_t.png	images/C9M4.png	\N	\N	\N
-1566	2000 Aerial Photo	2000_Aerial_Photo	\N	9	9	\N	\N	\N	f	f	2010-04-08 15:05:12.900414-04	pdfs/C9M9.pdf	images/thumbs/C9M9_t.png	images/C9M9.png	\N	\N	\N
-1412	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	9	10	\N	\N	\N	f	f	2010-04-08 15:05:13.533872-04	pdfs/C9M10.pdf	images/thumbs/C9M10_t.png	images/C9M10.png	\N	\N	\N
-1474	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	9	21	\N	2009	4	f	f	2010-04-08 15:05:20.676128-04	pdfs/C9M21d_09.pdf	images/thumbs/C9M21d_09_t.png	images/C9M21d_09.png	\N	\N	\N
-1497	Households without Vehicles	Households_without_Vehicles	\N	9	30	\N	\N	\N	f	f	2010-04-08 15:05:27.1029-04	pdfs/C9M30.pdf	images/thumbs/C9M30_t.png	images/C9M30.png	\N	\N	\N
-1512	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	9	44	\N	\N	\N	f	f	2010-04-08 15:05:37.603621-04	pdfs/C9M44.pdf	images/thumbs/C9M44_t.png	images/C9M44.png	\N	\N	\N
-1528	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	9	58	\N	\N	\N	f	f	2010-04-08 15:05:42.501183-04	pdfs/C9M58.pdf	images/thumbs/C9M58_t.png	images/C9M58.png	\N	\N	\N
-1535	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	9	63	\N	\N	\N	f	f	2010-04-08 15:05:46.107534-04	pdfs/C9M63.pdf	images/thumbs/C9M63_t.png	images/C9M63.png	\N	\N	\N
-1546	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	9	72	\N	\N	\N	f	f	2010-04-08 15:05:51.922284-04	pdfs/C9M72.pdf	images/thumbs/C9M72_t.png	images/C9M72.png	\N	\N	\N
-1568	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	9	91	\N	\N	\N	f	f	2010-04-08 15:06:04.526664-04	pdfs/C9M91.pdf	images/thumbs/C9M91_t.png	images/C9M91.png	\N	\N	\N
-1	Future Land Use	Future_Land_Use	\N	10	1	\N	\N	\N	f	f	2010-04-08 15:06:04.935236-04	pdfs/C10M1.pdf	images/thumbs/C10M1_t.png	images/C10M1.png	\N	\N	\N
-93	Transportation Network	Transportation_Network	\N	10	4	\N	\N	\N	f	f	2010-04-08 15:06:05.822733-04	pdfs/C10M4.pdf	images/thumbs/C10M4_t.png	images/C10M4.png	\N	\N	\N
-152	2000 Aerial Photo	2000_Aerial_Photo	\N	10	9	\N	\N	\N	f	f	2010-04-08 15:06:07.335545-04	pdfs/C10M9.pdf	images/thumbs/C10M9_t.png	images/C10M9.png	\N	\N	\N
-3	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	10	11	\N	\N	\N	f	f	2010-04-08 15:06:07.950737-04	pdfs/C10M11.pdf	images/thumbs/C10M11_t.png	images/C10M11.png	\N	\N	\N
-73	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	10	22	\N	2009	4	f	f	2010-04-08 15:06:10.091315-04	pdfs/C10M22d_09.pdf	images/thumbs/C10M22d_09_t.png	images/C10M22d_09.png	\N	\N	\N
-120	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	10	62	\N	\N	\N	f	f	2010-04-08 15:06:19.188507-04	pdfs/C10M62.pdf	images/thumbs/C10M62_t.png	images/C10M62.png	\N	\N	\N
-143	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	10	81	\N	\N	\N	f	f	2010-04-08 15:06:25.455885-04	pdfs/C10M81.pdf	images/thumbs/C10M81_t.png	images/C10M81.png	\N	\N	\N
-153	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	10	90	\N	\N	\N	f	f	2010-04-08 15:06:28.171246-04	pdfs/C10M90.pdf	images/thumbs/C10M90_t.png	images/C10M90.png	\N	\N	\N
-1337	Overlay Areas	Overlay_Areas	\N	8	3	\N	\N	\N	f	f	2010-04-08 15:06:30.590057-04	pdfs/C8M3.pdf	images/thumbs/C8M3_t.png	images/C8M3.png	\N	\N	\N
-1348	Transportation Network	Transportation_Network	\N	8	4	\N	\N	\N	f	f	2010-04-08 15:06:31.353419-04	pdfs/C8M4.pdf	images/thumbs/C8M4_t.png	images/C8M4.png	\N	\N	\N
-1254	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	8	10	\N	\N	\N	f	f	2010-04-08 15:06:35.529067-04	pdfs/C8M10.pdf	images/thumbs/C8M10_t.png	images/C8M10.png	\N	\N	\N
-1273	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	8	17	\N	2009	4	f	f	2010-04-08 15:06:39.731557-04	pdfs/C8M17d_09.pdf	images/thumbs/C8M17d_09_t.png	images/C8M17d_09.png	\N	\N	\N
-1328	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	8	22	\N	2009	4	f	f	2010-04-08 15:06:42.255811-04	pdfs/C8M22d_09.pdf	images/thumbs/C8M22d_09_t.png	images/C8M22d_09.png	\N	\N	\N
-1343	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	8	35	\N	\N	\N	f	f	2010-04-08 15:06:50.540552-04	pdfs/C8M35.pdf	images/thumbs/C8M35_t.png	images/C8M35.png	\N	\N	\N
-1353	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	8	44	\N	\N	\N	f	f	2010-04-08 15:06:56.778262-04	pdfs/C8M44.pdf	images/thumbs/C8M44_t.png	images/C8M44.png	\N	\N	\N
-1369	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	8	58	\N	\N	\N	f	f	2010-04-08 15:07:01.345645-04	pdfs/C8M58.pdf	images/thumbs/C8M58_t.png	images/C8M58.png	\N	\N	\N
-1376	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	8	63	\N	\N	\N	f	f	2010-04-08 15:07:05.042727-04	pdfs/C8M63.pdf	images/thumbs/C8M63_t.png	images/C8M63.png	\N	\N	\N
-1398	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	8	81	\N	\N	\N	f	f	2010-04-08 15:07:16.241643-04	pdfs/C8M81.pdf	images/thumbs/C8M81_t.png	images/C8M81.png	\N	\N	\N
-1408	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	8	90	\N	\N	\N	f	f	2010-04-08 15:07:21.659255-04	pdfs/C8M90.pdf	images/thumbs/C8M90_t.png	images/C8M90.png	\N	\N	\N
-558	Transportation Network	Transportation_Network	\N	3	4	\N	\N	\N	f	f	2010-04-08 15:07:23.429402-04	pdfs/C3M4.pdf	images/thumbs/C3M4_t.png	images/C3M4.png	\N	\N	\N
-463	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	3	10	\N	\N	\N	f	f	2010-04-08 15:07:25.126749-04	pdfs/C3M10.pdf	images/thumbs/C3M10_t.png	images/C3M10.png	\N	\N	\N
-465	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	3	12	\N	\N	\N	f	f	2010-04-08 15:07:25.69779-04	pdfs/C3M12.pdf	images/thumbs/C3M12_t.png	images/C3M12.png	\N	\N	\N
-471	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	3	17	\N	\N	\N	f	f	2010-04-08 15:07:26.941012-04	pdfs/C3M17-22a-d_09.pdf	images/thumbs/C3M17-22a-d_09_t.png	images/C3M17-22a-d_09.png	\N	\N	\N
-553	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	3	35	\N	\N	\N	f	f	2010-04-08 15:07:32.037745-04	pdfs/C3M35.pdf	images/thumbs/C3M35_t.png	images/C3M35.png	\N	\N	\N
-563	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	3	44	\N	\N	\N	f	f	2010-04-08 15:07:35.305022-04	pdfs/C3M44.pdf	images/thumbs/C3M44_t.png	images/C3M44.png	\N	\N	\N
-579	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	3	58	\N	\N	\N	f	f	2010-04-08 15:07:37.406352-04	pdfs/C3M58.pdf	images/thumbs/C3M58_t.png	images/C3M58.png	\N	\N	\N
-589	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	3	66	\N	\N	\N	f	f	2010-04-08 15:07:39.614772-04	pdfs/C3M66.pdf	images/thumbs/C3M66_t.png	images/C3M66.png	\N	\N	\N
-595	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	3	71	\N	\N	\N	f	f	2010-04-08 15:07:41.101851-04	pdfs/C3M71.pdf	images/thumbs/C3M71_t.png	images/C3M71.png	\N	\N	\N
-609	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	3	82	\N	\N	\N	f	f	2010-04-08 15:07:44.300033-04	pdfs/C3M82.pdf	images/thumbs/C3M82_t.png	images/C3M82.png	\N	\N	\N
-619	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	3	91	\N	\N	\N	f	f	2010-04-08 15:07:46.303019-04	pdfs/C3M91.pdf	images/thumbs/C3M91_t.png	images/C3M91.png	\N	\N	\N
-158	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	1	11	\N	\N	\N	f	f	2010-04-19 16:02:04.292083-04	pdfs/C1M11.pdf	images/thumbs/C1M11_t_.png	images/C1M11__.png	\N	\N	\N
-160	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	1	13	\N	\N	\N	f	f	2010-04-19 16:02:04.855679-04	pdfs/C1M13.pdf	images/thumbs/C1M13_t_.png	images/C1M13_.png	\N	\N	\N
-219	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	1	21	\N	2009	4	f	f	2010-04-19 16:02:07.815498-04	pdfs/C1M21d_09.pdf	images/thumbs/C1M21d_09_t_.png	images/C1M21d_09.png	\N	\N	\N
-236	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	1	27	\N	\N	\N	f	f	2010-04-19 16:02:09.58834-04	pdfs/C1M27.pdf	images/thumbs/C1M27_t_.png	images/C1M27.png	\N	\N	\N
-246	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	1	35	\N	\N	\N	f	f	2010-04-19 16:02:12.024701-04	pdfs/C1M35.pdf	images/thumbs/C1M35_t_.png	images/C1M35.png	\N	\N	\N
-256	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	1	44	\N	\N	\N	f	f	2010-04-19 16:02:14.653259-04	pdfs/C1M44.pdf	images/thumbs/C1M44_t_.png	images/C1M44.png	\N	\N	\N
-277	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	1	61	\N	\N	\N	f	f	2010-04-19 15:57:12.601099-04	pdfs/C1M61.pdf	images/thumbs/C1M61_t_.png	images/C1M61.png	\N	\N	\N
-278	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	1	62	\N	\N	\N	f	f	2010-04-19 15:57:12.893115-04	pdfs/C1M62.pdf	images/thumbs/C1M62_t_.png	images/C1M62.png	\N	\N	\N
-287	Parks Master Plan Update	Parks_Master_Plan_Update	\N	1	70	\N	\N	\N	f	f	2010-04-19 15:57:15.319918-04	pdfs/C1M70.pdf	images/thumbs/C1M70_t_.png	images/C1M70.png	\N	\N	\N
-301	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	1	81	\N	\N	\N	f	f	2010-04-19 15:57:20.115537-04	pdfs/C1M81.pdf	images/thumbs/C1M81_t_.png	images/C1M81.png	\N	\N	\N
-310	City & State Ownership	City_&_State_Ownership	\N	2	15	\N	\N	\N	f	f	2010-04-19 15:57:26.500574-04	pdfs/C2M15.pdf	images/thumbs/C2M15_t_.png	images/C2M15.png	\N	\N	\N
-311	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	2	16	\N	\N	\N	f	f	2010-04-19 15:57:26.822118-04	pdfs/C2M16.pdf	images/thumbs/C2M16_t_.png	images/C2M16.png	\N	\N	\N
-355	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	2	20	\N	2009	4	f	f	2010-04-19 15:57:27.721232-04	pdfs/C2M20d_09.pdf	images/thumbs/C2M20d_09_t_.png	images/C2M20d_09.png	\N	\N	\N
-384	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	2	27	\N	\N	\N	f	f	2010-04-19 15:57:30.084124-04	pdfs/C2M27.pdf	images/thumbs/C2M27_t_.png	images/C2M27.png	\N	\N	\N
-395	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	2	36	\N	\N	\N	f	f	2010-04-19 15:57:33.197497-04	pdfs/C2M36.pdf	images/thumbs/C2M36_t_.png	images/C2M36.png	\N	\N	\N
-403	Truck Routes	Truck_Routes	\N	2	43	\N	\N	\N	f	f	2010-04-19 15:57:35.328935-04	pdfs/C2M43.pdf	images/thumbs/C2M43_t_.png	images/C2M43.png	\N	\N	\N
-275	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	1	6	\N	\N	\N	f	f	2010-04-19 16:02:03.172818-04	pdfs/C1M6.pdf	images/thumbs/C1M6_t_.png	images/C1M6___.png	\N	\N	\N
-761	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	4	77	\N	\N	\N	f	f	2010-04-08 15:02:37.216162-04	pdfs/C4M77.pdf	images/thumbs/C4M77_t.png	images/C4M77.png	\N	\N	\N
-769	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	4	84	\N	\N	\N	f	f	2010-04-08 15:02:41.587609-04	pdfs/C4M84.pdf	images/thumbs/C4M84_t.png	images/C4M84.png	\N	\N	\N
-933	2000 Aerial Photo	2000_Aerial_Photo	\N	5	9	\N	\N	\N	f	f	2010-04-08 15:02:51.485298-04	pdfs/C5M9.pdf	images/thumbs/C5M9_t.png	images/C5M9.png	\N	\N	\N
-781	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	5	11	\N	\N	\N	f	f	2010-04-08 15:02:52.686375-04	pdfs/C5M11.pdf	images/thumbs/C5M11_t.png	images/C5M11.png	\N	\N	\N
-830	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	5	20	\N	2009	4	f	f	2010-04-08 15:02:57.098668-04	pdfs/C5M20d_09.pdf	images/thumbs/C5M20d_09_t.png	images/C5M20d_09.png	\N	\N	\N
-857	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	5	25	\N	\N	\N	f	f	2010-04-08 15:03:00.587905-04	pdfs/C5M25.pdf	images/thumbs/C5M25_t.png	images/C5M25.png	\N	\N	\N
-861	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	5	29	\N	\N	\N	f	f	2010-04-08 15:03:02.747691-04	pdfs/C5M29.pdf	images/thumbs/C5M29_t.png	images/C5M29.png	\N	\N	\N
-868	Employment Sites	Employment_Sites	\N	5	34	\N	\N	\N	f	f	2010-04-08 15:03:05.691662-04	pdfs/C5M34.pdf	images/thumbs/C5M34_t.png	images/C5M34.png	\N	\N	\N
-875	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	5	40	\N	\N	\N	f	f	2010-04-08 15:03:08.998671-04	pdfs/C5M40.pdf	images/thumbs/C5M40_t.png	images/C5M40.png	\N	\N	\N
-893	Dangerous Buildings	Dangerous_Buildings	\N	5	56	\N	\N	\N	f	f	2010-04-08 15:03:13.992101-04	pdfs/C5M56.pdf	images/thumbs/C5M56_t.png	images/C5M56.png	\N	\N	\N
-901	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	5	62	\N	\N	\N	f	f	2010-04-08 15:03:17.451008-04	pdfs/C5M62.pdf	images/thumbs/C5M62_t.png	images/C5M62.png	\N	\N	\N
-905	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	5	66	\N	\N	\N	f	f	2010-04-08 15:03:19.580467-04	pdfs/C5M66.pdf	images/thumbs/C5M66_t.png	images/C5M66.png	\N	\N	\N
-911	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	5	71	\N	\N	\N	f	f	2010-04-08 15:03:22.632753-04	pdfs/C5M71.pdf	images/thumbs/C5M71_t.png	images/C5M71.png	\N	\N	\N
-913	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	5	72	\N	\N	\N	f	f	2010-04-08 15:03:23.253913-04	pdfs/C5M72.pdf	images/thumbs/C5M72_t.png	images/C5M72.png	\N	\N	\N
-924	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	5	81	\N	\N	\N	f	f	2010-04-08 15:03:29.639591-04	pdfs/C5M81.pdf	images/thumbs/C5M81_t.png	images/C5M81.png	\N	\N	\N
-930	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	5	87	\N	\N	\N	f	f	2010-04-08 15:03:32.903951-04	pdfs/C5M87.pdf	images/thumbs/C5M87_t.png	images/C5M87.png	\N	\N	\N
-1067	Insitutional Uses	Insitutional_Uses	\N	6	7	\N	\N	\N	f	f	2010-04-08 15:03:39.921668-04	pdfs/C6M7.pdf	images/thumbs/C6M7_t.png	images/C6M7.png	\N	\N	\N
-939	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	6	11	\N	\N	\N	f	f	2010-04-08 15:03:43.098068-04	pdfs/C6M11.pdf	images/thumbs/C6M11_t.png	images/C6M11.png	\N	\N	\N
-988	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2009	4	f	f	2010-04-08 15:03:48.484464-04	pdfs/C6M20d_09.pdf	images/thumbs/C6M20d_09_t.png	images/C6M20d_09.png	\N	\N	\N
-1012	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	6	22	\N	2009	4	f	f	2010-04-08 15:03:49.780717-04	pdfs/C6M22d_09.pdf	images/thumbs/C6M22d_09_t.png	images/C6M22d_09.png	\N	\N	\N
-1028	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	6	36	\N	\N	\N	f	f	2010-04-08 15:04:01.333524-04	pdfs/C6M36.pdf	images/thumbs/C6M36_t.png	images/C6M36.png	\N	\N	\N
-1038	Low/Moderate Income	Low/Moderate_Income	\N	6	45	\N	\N	\N	f	f	2010-04-08 15:04:08.797962-04	pdfs/C6M45.pdf	images/thumbs/C6M45_t.png	images/C6M45.png	\N	\N	\N
-1053	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	6	58	\N	\N	\N	f	f	2010-04-08 15:04:13.436274-04	pdfs/C6M58.pdf	images/thumbs/C6M58_t.png	images/C6M58.png	\N	\N	\N
-1060	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	6	63	\N	\N	\N	f	f	2010-04-08 15:04:16.611676-04	pdfs/C6M63.pdf	images/thumbs/C6M63_t.png	images/C6M63.png	\N	\N	\N
-1071	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	6	72	\N	\N	\N	f	f	2010-04-08 15:04:22.805624-04	pdfs/C6M72.pdf	images/thumbs/C6M72_t.png	images/C6M72.png	\N	\N	\N
-1077	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	6	77	\N	\N	\N	f	f	2010-04-08 15:04:26.187258-04	pdfs/C6M77.pdf	images/thumbs/C6M77_t.png	images/C6M77.png	\N	\N	\N
-1085	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	6	84	\N	\N	\N	f	f	2010-04-08 15:04:32.166767-04	pdfs/C6M84.pdf	images/thumbs/C6M84_t.png	images/C6M84.png	\N	\N	\N
-1096	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	7	10	\N	\N	\N	f	f	2010-04-08 15:04:40.355376-04	pdfs/C7M10.pdf	images/thumbs/C7M10_t.png	images/C7M10.png	\N	\N	\N
-426	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	2	62	\N	\N	\N	f	f	2010-04-19 15:57:38.958265-04	pdfs/C2M62.pdf	images/thumbs/C2M62_t_.png	images/C2M62.png	\N	\N	\N
-430	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	2	66	\N	\N	\N	f	f	2010-04-19 15:57:40.087236-04	pdfs/C2M66.pdf	images/thumbs/C2M66_t_.png	images/C2M66.png	\N	\N	\N
-436	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	2	71	\N	\N	\N	f	f	2010-04-19 15:57:41.759758-04	pdfs/C2M71.pdf	images/thumbs/C2M71_t_.png	images/C2M71.png	\N	\N	\N
-449	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	2	81	\N	\N	\N	f	f	2010-04-19 15:57:44.707311-04	pdfs/C2M81.pdf	images/thumbs/C2M81_t_.png	images/C2M81.png	\N	\N	\N
-459	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	2	90	\N	\N	\N	f	f	2010-04-19 15:57:47.209804-04	pdfs/C2M90.pdf	images/thumbs/C2M90_t_.png	images/C2M90.png	\N	\N	\N
-740	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	4	6	\N	\N	\N	f	f	2010-04-19 15:57:51.904978-04	pdfs/C4M6.pdf	images/thumbs/C4M6_t_.png	images/C4M6.png	\N	\N	\N
-623	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	4	11	\N	\N	\N	f	f	2010-04-19 15:57:55.511017-04	pdfs/C4M11.pdf	images/thumbs/C4M11_t_.png	images/C4M11.png	\N	\N	\N
-628	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	4	16	\N	\N	\N	f	f	2010-04-19 15:57:58.741511-04	pdfs/C4M16.pdf	images/thumbs/C4M16_t_.png	images/C4M16.png	\N	\N	\N
-684	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	4	21	\N	2009	4	f	f	2010-04-19 15:58:01.683997-04	pdfs/C4M21d_09.pdf	images/thumbs/C4M21d_09_t_.png	images/C4M21d_09.png	\N	\N	\N
-700	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	4	26	\N	\N	\N	f	f	2010-04-19 15:58:04.974869-04	pdfs/C4M26.pdf	images/thumbs/C4M26_t_.png	images/C4M26.png	\N	\N	\N
-711	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	4	35	\N	\N	\N	f	f	2010-04-19 15:58:10.924663-04	pdfs/C4M35.pdf	images/thumbs/C4M35_t_.png	images/C4M35.png	\N	\N	\N
-721	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	4	44	\N	\N	\N	f	f	2010-04-19 15:58:17.623332-04	pdfs/C4M44.pdf	images/thumbs/C4M44_t_.png	images/C4M44.png	\N	\N	\N
-737	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	4	58	\N	\N	\N	f	f	2010-04-19 15:58:22.737429-04	pdfs/C4M58.pdf	images/thumbs/C4M58_t_.png	images/C4M58.png	\N	\N	\N
-741	Registered Voters	Registered_Voters	\N	4	60	\N	\N	\N	f	f	2010-04-19 15:58:24.990932-04	pdfs/C4M60.pdf	images/thumbs/C4M60_t_.png	images/C4M60.png	\N	\N	\N
-748	Human Services Programs	Human_Services_Programs	\N	4	67	\N	\N	\N	f	f	2010-04-19 15:58:33.21018-04	pdfs/C4M67.pdf	images/thumbs/C4M67_t_.png	images/C4M67.png	\N	\N	\N
-1097	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	7	11	\N	\N	\N	f	f	2010-04-08 15:04:40.640562-04	pdfs/C7M11.pdf	images/thumbs/C7M11_t.png	images/C7M11.png	\N	\N	\N
-1158	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	7	21	\N	2009	4	f	f	2010-04-08 15:04:43.875071-04	pdfs/C7M21d_09.pdf	images/thumbs/C7M21d_09_t.png	images/C7M21d_09.png	\N	\N	\N
-1182	Youth Population Change	Youth_Population_Change	\N	7	32	\N	\N	\N	f	f	2010-04-08 15:04:46.788409-04	pdfs/C7M32.pdf	images/thumbs/C7M32_t.png	images/C7M32.png	\N	\N	\N
-1191	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	7	40	\N	\N	\N	f	f	2010-04-08 15:04:49.99971-04	pdfs/C7M40.pdf	images/thumbs/C7M40_t.png	images/C7M40.png	\N	\N	\N
-1209	Dangerous Buildings	Dangerous_Buildings	\N	7	56	\N	\N	\N	f	f	2010-04-08 15:04:52.867108-04	pdfs/C7M56.pdf	images/thumbs/C7M56_t.png	images/C7M56.png	\N	\N	\N
-1211	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	7	58	\N	\N	\N	f	f	2010-04-08 15:04:53.43625-04	pdfs/C7M58.pdf	images/thumbs/C7M58_t.png	images/C7M58.png	\N	\N	\N
-1224	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	7	69	\N	\N	\N	f	f	2010-04-08 15:04:57.398003-04	pdfs/C7M69.pdf	images/thumbs/C7M69_t.png	images/C7M69.png	\N	\N	\N
-1229	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	7	72	\N	\N	\N	f	f	2010-04-08 15:04:58.508039-04	pdfs/C7M72.pdf	images/thumbs/C7M72_t.png	images/C7M72.png	\N	\N	\N
-1242	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	7	83	\N	\N	\N	f	f	2010-04-08 15:05:03.409601-04	pdfs/C7M83.pdf	images/thumbs/C7M83_t.png	images/C7M83.png	\N	\N	\N
-1243	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	7	84	\N	\N	\N	f	f	2010-04-08 15:05:03.669582-04	pdfs/C7M84.pdf	images/thumbs/C7M84_t.png	images/C7M84.png	\N	\N	\N
-1531	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	9	6	\N	\N	\N	f	f	2010-04-08 15:05:10.649263-04	pdfs/C9M6.pdf	images/thumbs/C9M6_t.png	images/C9M6.png	\N	\N	\N
-1415	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	9	13	\N	\N	\N	f	f	2010-04-08 15:05:15.886416-04	pdfs/C9M13.pdf	images/thumbs/C9M13_t.png	images/C9M13.png	\N	\N	\N
-1431	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	9	17	\N	2009	4	f	f	2010-04-08 15:05:18.727508-04	pdfs/C9M17d_09.pdf	images/thumbs/C9M17d_09_t.png	images/C9M17d_09.png	\N	\N	\N
-1449	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	9	19	\N	2009	4	f	f	2010-04-08 15:05:19.377045-04	pdfs/C9M19d_09.pdf	images/thumbs/C9M19d_09_t.png	images/C9M19d_09.png	\N	\N	\N
-1492	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	9	27	\N	\N	\N	f	f	2010-04-08 15:05:25.156206-04	pdfs/C9M27.pdf	images/thumbs/C9M27_t.png	images/C9M27.png	\N	\N	\N
-1502	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	9	35	\N	\N	\N	f	f	2010-04-08 15:05:30.579133-04	pdfs/C9M35.pdf	images/thumbs/C9M35_t.png	images/C9M35.png	\N	\N	\N
-1508	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	9	40	\N	\N	\N	f	f	2010-04-08 15:05:34.51612-04	pdfs/C9M40.pdf	images/thumbs/C9M40_t.png	images/C9M40.png	\N	\N	\N
-1530	Sales	Sales	\N	9	59	\N	\N	\N	f	f	2010-04-08 15:05:43.342615-04	pdfs/C9M59.pdf	images/thumbs/C9M59_t.png	images/C9M59.png	\N	\N	\N
-1534	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	9	62	\N	\N	\N	f	f	2010-04-08 15:05:45.464874-04	pdfs/C9M62.pdf	images/thumbs/C9M62_t.png	images/C9M62.png	\N	\N	\N
-1544	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	9	71	\N	\N	\N	f	f	2010-04-08 15:05:51.307117-04	pdfs/C9M71.pdf	images/thumbs/C9M71_t.png	images/C9M71.png	\N	\N	\N
-1557	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	9	81	\N	\N	\N	f	f	2010-04-08 15:05:57.852913-04	pdfs/C9M81.pdf	images/thumbs/C9M81_t.png	images/C9M81.png	\N	\N	\N
-1559	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	9	83	\N	\N	\N	f	f	2010-04-08 15:05:59.074166-04	pdfs/C9M83.pdf	images/thumbs/C9M83_t.png	images/C9M83.png	\N	\N	\N
-1567	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	9	90	\N	\N	\N	f	f	2010-04-08 15:06:03.915501-04	pdfs/C9M90.pdf	images/thumbs/C9M90_t.png	images/C9M90.png	\N	\N	\N
-82	Overlay Areas	Overlay_Areas	\N	10	3	\N	\N	\N	f	f	2010-04-08 15:06:05.55702-04	pdfs/C10M3.pdf	images/thumbs/C10M3_t.png	images/C10M3.png	\N	\N	\N
-2	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	10	10	\N	\N	\N	f	f	2010-04-08 15:06:07.685357-04	pdfs/C10M10.pdf	images/thumbs/C10M10_t.png	images/C10M10.png	\N	\N	\N
-36	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	10	19	\N	2009	4	f	f	2010-04-08 15:06:09.149117-04	pdfs/C10M19d_09.pdf	images/thumbs/C10M19d_09_t.png	images/C10M19d_09.png	\N	\N	\N
-77	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	10	26	\N	\N	\N	f	f	2010-04-08 15:06:10.947557-04	pdfs/C10M26.pdf	images/thumbs/C10M26_t.png	images/C10M26.png	\N	\N	\N
-85	Youth Population Change	Youth_Population_Change	\N	10	32	\N	\N	\N	f	f	2010-04-08 15:06:12.571315-04	pdfs/C10M32.pdf	images/thumbs/C10M32_t.png	images/C10M32.png	\N	\N	\N
-88	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	10	35	\N	\N	\N	f	f	2010-04-08 15:06:13.437329-04	pdfs/C10M35.pdf	images/thumbs/C10M35_t.png	images/C10M35.png	\N	\N	\N
-92	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	10	39	\N	\N	\N	f	f	2010-04-08 15:06:14.583234-04	pdfs/C10M39.pdf	images/thumbs/C10M39_t.png	images/C10M39.png	\N	\N	\N
-98	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	10	44	\N	\N	\N	f	f	2010-04-08 15:06:16.063384-04	pdfs/C10M44.pdf	images/thumbs/C10M44_t.png	images/C10M44.png	\N	\N	\N
-110	Deaths	Deaths	\N	10	54	\N	\N	\N	f	f	2010-04-08 15:06:16.975919-04	pdfs/C10M54.pdf	images/thumbs/C10M54_t.png	images/C10M54.png	\N	\N	\N
-114	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	10	58	\N	\N	\N	f	f	2010-04-08 15:06:18.061698-04	pdfs/C10M58.pdf	images/thumbs/C10M58_t.png	images/C10M58.png	\N	\N	\N
-118	Registered Voters	Registered_Voters	\N	10	60	\N	\N	\N	f	f	2010-04-08 15:06:18.6575-04	pdfs/C10M60.pdf	images/thumbs/C10M60_t.png	images/C10M60.png	\N	\N	\N
-124	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	10	66	\N	\N	\N	f	f	2010-04-08 15:06:20.532419-04	pdfs/C10M66.pdf	images/thumbs/C10M66_t.png	images/C10M66.png	\N	\N	\N
-130	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	10	71	\N	\N	\N	f	f	2010-04-08 15:06:22.335299-04	pdfs/C10M71.pdf	images/thumbs/C10M71_t.png	images/C10M71.png	\N	\N	\N
-132	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	10	72	\N	\N	\N	f	f	2010-04-08 15:06:22.76846-04	pdfs/C10M72.pdf	images/thumbs/C10M72_t.png	images/C10M72.png	\N	\N	\N
-144	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	10	82	\N	\N	\N	f	f	2010-04-08 15:06:25.739685-04	pdfs/C10M82.pdf	images/thumbs/C10M82_t.png	images/C10M82.png	\N	\N	\N
-154	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	10	91	\N	\N	\N	f	f	2010-04-08 15:06:28.524822-04	pdfs/C10M91.pdf	images/thumbs/C10M91_t.png	images/C10M91.png	\N	\N	\N
-1255	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	8	11	\N	\N	\N	f	f	2010-04-08 15:06:36.073286-04	pdfs/C8M11.pdf	images/thumbs/C8M11_t.png	images/C8M11.png	\N	\N	\N
-1291	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	8	19	\N	2009	4	f	f	2010-04-08 15:06:40.376279-04	pdfs/C8M19d_09.pdf	images/thumbs/C8M19d_09_t.png	images/C8M19d_09.png	\N	\N	\N
-1304	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	8	20	\N	2009	4	f	f	2010-04-08 15:06:41.012943-04	pdfs/C8M20d_09.pdf	images/thumbs/C8M20d_09_t.png	images/C8M20d_09.png	\N	\N	\N
-1331	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	8	25	\N	\N	\N	f	f	2010-04-08 15:06:44.492433-04	pdfs/C8M25.pdf	images/thumbs/C8M25_t.png	images/C8M25.png	\N	\N	\N
-1341	Foreign Born Population	Foreign_Born_Population	\N	8	33	\N	\N	\N	f	f	2010-04-08 15:06:49.314048-04	pdfs/C8M33.pdf	images/thumbs/C8M33_t.png	images/C8M33.png	\N	\N	\N
-1349	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	8	40	\N	\N	\N	f	f	2010-04-08 15:06:54.236319-04	pdfs/C8M40.pdf	images/thumbs/C8M40_t.png	images/C8M40.png	\N	\N	\N
-1367	Dangerous Buildings	Dangerous_Buildings	\N	8	56	\N	\N	\N	f	f	2010-04-08 15:07:00.07493-04	pdfs/C8M56.pdf	images/thumbs/C8M56_t.png	images/C8M56.png	\N	\N	\N
-1375	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	8	62	\N	\N	\N	f	f	2010-04-08 15:07:04.363046-04	pdfs/C8M62.pdf	images/thumbs/C8M62_t.png	images/C8M62.png	\N	\N	\N
-1385	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	8	71	\N	\N	\N	f	f	2010-04-08 15:07:10.01362-04	pdfs/C8M71.pdf	images/thumbs/C8M71_t.png	images/C8M71.png	\N	\N	\N
-1387	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	8	72	\N	\N	\N	f	f	2010-04-08 15:07:10.677124-04	pdfs/C8M72.pdf	images/thumbs/C8M72_t.png	images/C8M72.png	\N	\N	\N
-1394	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	8	78	\N	\N	\N	f	f	2010-04-08 15:07:14.225893-04	pdfs/C8M78.pdf	images/thumbs/C8M78_t.png	images/C8M78.png	\N	\N	\N
-1402	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	8	85	\N	\N	\N	f	f	2010-04-08 15:07:18.774403-04	pdfs/C8M85.pdf	images/thumbs/C8M85_t.png	images/C8M85.png	\N	\N	\N
-547	Overlay Areas	Overlay_Areas	\N	3	3	\N	\N	\N	f	f	2010-04-08 15:07:23.125081-04	pdfs/C3M3.pdf	images/thumbs/C3M3_t.png	images/C3M3.png	\N	\N	\N
-468	City & State Ownership	City_&_State_Ownership	\N	3	15	\N	\N	\N	f	f	2010-04-08 15:07:26.424755-04	pdfs/C3M15.pdf	images/thumbs/C3M15_t.png	images/C3M15.png	\N	\N	\N
-538	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	3	22	\N	2009	4	f	f	2010-04-08 15:07:27.911739-04	pdfs/C3M22d_09.pdf	images/thumbs/C3M22d_09_t.png	images/C3M22d_09.png	\N	\N	\N
-541	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	3	25	\N	\N	\N	f	f	2010-04-08 15:07:28.732084-04	pdfs/C3M25.pdf	images/thumbs/C3M25_t.png	images/C3M25.png	\N	\N	\N
-550	Youth Population Change	Youth_Population_Change	\N	3	32	\N	\N	\N	f	f	2010-04-08 15:07:31.241761-04	pdfs/C3M32.pdf	images/thumbs/C3M32_t.png	images/C3M32.png	\N	\N	\N
-557	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	3	39	\N	\N	\N	f	f	2010-04-08 15:07:33.510244-04	pdfs/C3M39.pdf	images/thumbs/C3M39_t.png	images/C3M39.png	\N	\N	\N
-577	Dangerous Buildings	Dangerous_Buildings	\N	3	56	\N	\N	\N	f	f	2010-04-08 15:07:36.956533-04	pdfs/C3M56.pdf	images/thumbs/C3M56_t.png	images/C3M56.png	\N	\N	\N
-584	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	3	61	\N	\N	\N	f	f	2010-04-08 15:07:38.202524-04	pdfs/C3M61.pdf	images/thumbs/C3M61_t.png	images/C3M61.png	\N	\N	\N
-592	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	3	69	\N	\N	\N	f	f	2010-04-08 15:07:40.471333-04	pdfs/C3M69.pdf	images/thumbs/C3M69_t.png	images/C3M69.png	\N	\N	\N
-603	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	3	77	\N	\N	\N	f	f	2010-04-08 15:07:43.124439-04	pdfs/C3M77.pdf	images/thumbs/C3M77_t.png	images/C3M77.png	\N	\N	\N
-610	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	3	83	\N	\N	\N	f	f	2010-04-08 15:07:44.497566-04	pdfs/C3M83.pdf	images/thumbs/C3M83_t.png	images/C3M83.png	\N	\N	\N
-292	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	1	73	\N	\N	\N	f	f	2010-04-19 15:57:16.196555-04	pdfs/C1M73.pdf	images/thumbs/C1M73_t_.png	images/C1M73.png	\N	\N	\N
-367	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	2	21	\N	2009	4	f	f	2010-04-19 15:57:27.990997-04	pdfs/C2M21d_09.pdf	images/thumbs/C2M21d_09_t_.png	images/C2M21d_09.png	\N	\N	\N
-418	Dangerous Buildings	Dangerous_Buildings	\N	2	56	\N	\N	\N	f	f	2010-04-19 15:57:37.174715-04	pdfs/C2M56.pdf	images/thumbs/C2M56_t_.png	images/C2M56.png	\N	\N	\N
-744	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	4	63	\N	\N	\N	f	f	2010-04-19 15:58:27.021939-04	pdfs/C4M63.pdf	images/thumbs/C4M63_t_.png	images/C4M63.png	\N	\N	\N
-231	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2009	4	f	f	2010-04-19 16:02:08.109126-04	pdfs/C1M22d_09.pdf	images/thumbs/C1M22d_09_t_.png	images/C1M22d_09.png	\N	\N	\N
+176	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	1	17	\N	2009	4	f	f	2010-04-22 12:57:41.215116-04	pdfs/C1M17d_09.pdf	images/thumbs/C1M17d_09_t.jpg	images/C1M17d_09_.png	\N	\N	\N
+244	Foreign Born Population	Foreign_Born_Population	\N	1	33	\N	\N	\N	f	f	2010-04-22 12:57:41.468976-04	pdfs/C1M33.pdf	images/thumbs/C1M33_t.jpg	images/C1M33.png	\N	\N	\N
+250	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	1	39	\N	\N	\N	f	f	2010-04-22 12:57:41.564912-04	pdfs/C1M39.pdf	images/thumbs/C1M39_t.jpg	images/C1M39.png	\N	\N	\N
+270	Dangerous Buildings	Dangerous_Buildings	\N	1	56	\N	\N	\N	f	f	2010-04-22 12:57:41.777269-04	pdfs/C1M56.pdf	images/thumbs/C1M56_t.jpg	images/C1M56.png	\N	\N	\N
+285	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	1	69	\N	\N	\N	f	f	2010-04-22 12:57:42.024234-04	pdfs/C1M69.pdf	images/thumbs/C1M69_t.jpg	images/C1M69.png	\N	\N	\N
+195	Zoning	Zoning	\N	1	2	\N	\N	\N	f	f	2010-04-22 12:57:40.973368-04	pdfs/C1M2.pdf	images/thumbs/C1M2_t.jpg	images/C1M2____.png	\N	\N	\N
+290	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	1	72	\N	\N	\N	f	f	2010-04-22 12:57:42.072035-04	pdfs/C1M72.pdf	images/thumbs/C1M72_t.jpg	images/C1M72.png	\N	\N	\N
+299	Historic Sites	Historic_Sites	\N	1	8	\N	\N	\N	f	f	2010-04-22 12:57:41.061091-04	pdfs/C1M8.pdf	images/thumbs/C1M8_t.jpg	images/C1M8___.png	\N	\N	\N
+302	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	1	82	\N	\N	\N	f	f	2010-04-22 12:57:42.237523-04	pdfs/C1M82.pdf	images/thumbs/C1M82_t.jpg	images/C1M82.png	\N	\N	\N
+388	Overlay Areas	Overlay_Areas	\N	2	3	\N	\N	\N	f	f	2010-04-22 12:57:42.366743-04	pdfs/C2M3.pdf	images/thumbs/C2M3_t.jpg	images/C2M3.png	\N	\N	\N
+399	Transportation Network	Transportation_Network	\N	2	4	\N	\N	\N	f	f	2010-04-22 12:57:42.38335-04	pdfs/C2M4.pdf	images/thumbs/C2M4_t.jpg	images/C2M4.png	\N	\N	\N
+423	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	2	6	\N	\N	\N	f	f	2010-04-22 12:57:42.415023-04	pdfs/C2M6.pdf	images/thumbs/C2M6_t.jpg	images/C2M6.png	\N	\N	\N
+379	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	2	22	\N	2009	4	f	f	2010-04-22 12:57:42.696156-04	pdfs/C2M22d_09.pdf	images/thumbs/C2M22d_09_t.jpg	images/C2M22d_09.png	\N	\N	\N
+394	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	2	35	\N	\N	\N	f	f	2010-04-22 12:57:42.938388-04	pdfs/C2M35.pdf	images/thumbs/C2M35_t.jpg	images/C2M35.png	\N	\N	\N
+401	Elderly Population	Elderly_Population	\N	2	41	\N	\N	\N	f	f	2010-04-22 12:57:43.035485-04	pdfs/C2M41.pdf	images/thumbs/C2M41_t.jpg	images/C2M41.png	\N	\N	\N
+404	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	2	44	\N	\N	\N	f	f	2010-04-22 12:57:43.082653-04	pdfs/C2M44.pdf	images/thumbs/C2M44_t.jpg	images/C2M44.png	\N	\N	\N
+424	Registered Voters	Registered_Voters	\N	2	60	\N	\N	\N	f	f	2010-04-22 12:57:43.286785-04	pdfs/C2M60.pdf	images/thumbs/C2M60_t.jpg	images/C2M60.png	\N	\N	\N
+438	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	2	72	\N	\N	\N	f	f	2010-04-22 12:57:43.507894-04	pdfs/C2M72.pdf	images/thumbs/C2M72_t.jpg	images/C2M72.png	\N	\N	\N
+451	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	2	83	\N	\N	\N	f	f	2010-04-22 12:57:43.69543-04	pdfs/C2M83.pdf	images/thumbs/C2M83_t.jpg	images/C2M83.png	\N	\N	\N
+621	Future Land Use	Future_Land_Use	\N	4	1	\N	\N	\N	f	f	2010-04-22 12:57:43.889712-04	pdfs/C4M1.pdf	images/thumbs/C4M1_t.jpg	images/C4M1.png	\N	\N	\N
+660	Zoning	Zoning	\N	4	2	\N	\N	\N	f	f	2010-04-22 12:57:43.907094-04	pdfs/C4M2.pdf	images/thumbs/C4M2_t.jpg	images/C4M2.png	\N	\N	\N
+705	Overlay Areas	Overlay_Areas	\N	4	3	\N	\N	\N	f	f	2010-04-22 12:57:43.964128-04	pdfs/C4M3.pdf	images/thumbs/C4M3_t.jpg	images/C4M3.png	\N	\N	\N
+764	Historic Sites	Historic_Sites	\N	4	8	\N	\N	\N	f	f	2010-04-22 12:57:44.110338-04	pdfs/C4M8.pdf	images/thumbs/C4M8_t.jpg	images/C4M8.png	\N	\N	\N
+641	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	4	17	\N	2009	4	f	f	2010-04-22 12:57:44.277259-04	pdfs/C4M17d_09.pdf	images/thumbs/C4M17d_09_t.jpg	images/C4M17d_09.png	\N	\N	\N
+696	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	4	22	\N	2009	4	f	f	2010-04-22 12:57:44.382023-04	pdfs/C4M22d_09.pdf	images/thumbs/C4M22d_09_t.jpg	images/C4M22d_09.png	\N	\N	\N
+708	Youth Population Change	Youth_Population_Change	\N	4	32	\N	\N	\N	f	f	2010-04-22 12:57:44.647756-04	pdfs/C4M32.pdf	images/thumbs/C4M32_t.jpg	images/C4M32.png	\N	\N	\N
+715	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	4	39	\N	\N	\N	f	f	2010-04-22 12:57:44.819812-04	pdfs/C4M39.pdf	images/thumbs/C4M39_t.jpg	images/C4M39.png	\N	\N	\N
+734	Crime	Crime	\N	4	55	\N	\N	\N	f	f	2010-04-22 12:57:45.290242-04	pdfs/C4M55.pdf	images/thumbs/C4M55_t.jpg	images/C4M55.png	\N	\N	\N
+747	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	4	66	\N	\N	\N	f	f	2010-04-22 12:57:45.554204-04	pdfs/C4M66.pdf	images/thumbs/C4M66_t.jpg	images/C4M66.png	\N	\N	\N
+755	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	4	72	\N	\N	\N	f	f	2010-04-22 12:57:45.750698-04	pdfs/C4M72.pdf	images/thumbs/C4M72_t.jpg	images/C4M72.png	\N	\N	\N
+768	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	4	83	\N	\N	\N	f	f	2010-04-22 12:57:45.95757-04	pdfs/C4M83.pdf	images/thumbs/C4M83_t.jpg	images/C4M83.png	\N	\N	\N
+818	Zoning	Zoning	\N	5	2	\N	\N	\N	f	f	2010-04-22 12:57:47.341649-04	pdfs/C5M2.pdf	images/thumbs/C5M2_t.jpg	images/C5M2.png	\N	\N	\N
+240	Overlay Areas	Overlay_Areas	\N	1	3	\N	\N	\N	f	f	2010-04-22 12:57:40.987011-04	pdfs/C1M3.pdf	images/thumbs/C1M3_t.jpg	images/C1M3____.png	\N	\N	\N
+251	Transportation Network	Transportation_Network	\N	1	4	\N	\N	\N	f	f	2010-04-22 12:57:41.001974-04	pdfs/C1M4.pdf	images/thumbs/C1M4_t.jpg	images/C1M4____.png	\N	\N	\N
+874	Transportation Network	Transportation_Network	\N	5	4	\N	\N	\N	f	f	2010-04-22 12:57:47.388003-04	pdfs/C5M4.pdf	images/thumbs/C5M4_t.jpg	images/C5M4.png	\N	\N	\N
+780	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	5	10	\N	\N	\N	f	f	2010-04-22 12:57:47.490231-04	pdfs/C5M10.pdf	images/thumbs/C5M10_t.jpg	images/C5M10.png	\N	\N	\N
+799	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	5	17	\N	2009	4	f	f	2010-04-22 12:57:47.616905-04	pdfs/C5M17d_09.pdf	images/thumbs/C5M17d_09_t.jpg	images/C5M17d_09.png	\N	\N	\N
+817	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	5	19	\N	2009	4	f	f	2010-04-22 12:57:47.643848-04	pdfs/C5M19d_09.pdf	images/thumbs/C5M19d_09_t.jpg	images/C5M19d_09.png	\N	\N	\N
+866	Youth Population Change	Youth_Population_Change	\N	5	32	\N	\N	\N	f	f	2010-04-22 12:57:47.946176-04	pdfs/C5M32.pdf	images/thumbs/C5M32_t.jpg	images/C5M32.png	\N	\N	\N
+873	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	5	39	\N	\N	\N	f	f	2010-04-22 12:57:48.073242-04	pdfs/C5M39.pdf	images/thumbs/C5M39_t.jpg	images/C5M39.png	\N	\N	\N
+892	Crime	Crime	\N	5	55	\N	\N	\N	f	f	2010-04-22 12:57:48.307115-04	pdfs/C5M55.pdf	images/thumbs/C5M55_t.jpg	images/C5M55.png	\N	\N	\N
+895	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	5	58	\N	\N	\N	f	f	2010-04-22 12:57:48.512096-04	pdfs/C5M58.pdf	images/thumbs/C5M58_t.jpg	images/C5M58.png	\N	\N	\N
+156	Future Land Use	Future_Land_Use	\N	1	1	\N	\N	\N	f	f	2010-04-22 12:57:40.955022-04	pdfs/C1M1.pdf	images/thumbs/C1M1_t.jpg	images/C1M1____.png	\N	\N	\N
+1021	Overlay Areas	Overlay_Areas	\N	6	3	\N	\N	\N	f	f	2010-04-22 12:57:49.729416-04	pdfs/C6M3.pdf	images/thumbs/C6M3_t.jpg	images/C6M3.png	\N	\N	\N
+1044	Bus Routes	Bus_Routes	\N	6	5	\N	\N	\N	f	f	2010-04-22 12:57:49.784997-04	pdfs/C6M5.pdf	images/thumbs/C6M5_t.jpg	images/C6M5.png	\N	\N	\N
+1056	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	6	6	\N	\N	\N	f	f	2010-04-22 12:57:49.80147-04	pdfs/C6M6.pdf	images/thumbs/C6M6_t.jpg	images/C6M6.png	\N	\N	\N
+938	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	6	10	\N	\N	\N	f	f	2010-04-22 12:57:49.876495-04	pdfs/C6M10.pdf	images/thumbs/C6M10_t.jpg	images/C6M10.png	\N	\N	\N
+944	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	6	16	\N	\N	\N	f	f	2010-04-22 12:57:50.083097-04	pdfs/C6M16.pdf	images/thumbs/C6M16_t.jpg	images/C6M16.png	\N	\N	\N
+1019	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	6	29	\N	\N	\N	f	f	2010-04-22 12:57:51.478269-04	pdfs/C6M29.pdf	images/thumbs/C6M29_t.jpg	images/C6M29.png	\N	\N	\N
+1027	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	6	35	\N	\N	\N	f	f	2010-04-22 12:57:52.288431-04	pdfs/C6M35.pdf	images/thumbs/C6M35_t.jpg	images/C6M35.png	\N	\N	\N
+1037	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	6	44	\N	\N	\N	f	f	2010-04-22 12:57:54.207436-04	pdfs/C6M44.pdf	images/thumbs/C6M44_t.jpg	images/C6M44.png	\N	\N	\N
+1051	Dangerous Buildings	Dangerous_Buildings	\N	6	56	\N	\N	\N	f	f	2010-04-22 12:57:54.872135-04	pdfs/C6M56.pdf	images/thumbs/C6M56_t.jpg	images/C6M56.png	\N	\N	\N
+1058	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	6	61	\N	\N	\N	f	f	2010-04-22 12:57:55.246413-04	pdfs/C6M61.pdf	images/thumbs/C6M61_t.jpg	images/C6M61.png	\N	\N	\N
+1068	Parks Master Plan Update	Parks_Master_Plan_Update	\N	6	70	\N	\N	\N	f	f	2010-04-22 12:57:55.855817-04	pdfs/C6M70.pdf	images/thumbs/C6M70_t.jpg	images/C6M70.png	\N	\N	\N
+1084	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	6	83	\N	\N	\N	f	f	2010-04-22 12:57:56.671431-04	pdfs/C6M83.pdf	images/thumbs/C6M83_t.jpg	images/C6M83.png	\N	\N	\N
+1134	Zoning	Zoning	\N	7	2	\N	\N	\N	f	f	2010-04-22 12:57:57.669233-04	pdfs/C7M2.pdf	images/thumbs/C7M2_t.jpg	images/C7M2.png	\N	\N	\N
+1179	Overlay Areas	Overlay_Areas	\N	7	3	\N	\N	\N	f	f	2010-04-22 12:57:57.786085-04	pdfs/C7M3.pdf	images/thumbs/C7M3_t.jpg	images/C7M3.png	\N	\N	\N
+1190	Transportation Network	Transportation_Network	\N	7	4	\N	\N	\N	f	f	2010-04-22 12:57:57.815187-04	pdfs/C7M4.pdf	images/thumbs/C7M4_t.jpg	images/C7M4.png	\N	\N	\N
+1225	Insitutional Uses	Insitutional_Uses	\N	7	7	\N	\N	\N	f	f	2010-04-22 12:57:57.895506-04	pdfs/C7M7.pdf	images/thumbs/C7M7_t.jpg	images/C7M7.png	\N	\N	\N
+1249	2000 Aerial Photo	2000_Aerial_Photo	\N	7	9	\N	\N	\N	f	f	2010-04-22 12:57:57.951205-04	pdfs/C7M9.pdf	images/thumbs/C7M9_t.jpg	images/C7M9.png	\N	\N	\N
+1133	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	7	19	\N	2009	4	f	f	2010-04-22 12:57:58.117428-04	pdfs/C7M19d_09.pdf	images/thumbs/C7M19d_09_t.jpg	images/C7M19d_09.png	\N	\N	\N
+1170	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	7	22	\N	2009	4	f	f	2010-04-22 12:57:58.177088-04	pdfs/C7M22d_09.pdf	images/thumbs/C7M22d_09_t.jpg	images/C7M22d_09.png	\N	\N	\N
+1184	Employment Sites	Employment_Sites	\N	7	34	\N	\N	\N	f	f	2010-04-22 12:57:58.395609-04	pdfs/C7M34.pdf	images/thumbs/C7M34_t.jpg	images/C7M34.png	\N	\N	\N
+1189	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	7	39	\N	\N	\N	f	f	2010-04-22 12:57:58.508278-04	pdfs/C7M39.pdf	images/thumbs/C7M39_t.jpg	images/C7M39.png	\N	\N	\N
+1216	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	7	61	\N	\N	\N	f	f	2010-04-22 12:57:58.964988-04	pdfs/C7M61.pdf	images/thumbs/C7M61_t.jpg	images/C7M61.png	\N	\N	\N
+1221	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	7	66	\N	\N	\N	f	f	2010-04-22 12:57:59.061994-04	pdfs/C7M66.pdf	images/thumbs/C7M66_t.jpg	images/C7M66.png	\N	\N	\N
+1232	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	7	74	\N	\N	\N	f	f	2010-04-22 12:57:59.234905-04	pdfs/C7M74.pdf	images/thumbs/C7M74_t.jpg	images/C7M74.png	\N	\N	\N
+1411	Future Land Use	Future_Land_Use	\N	9	1	\N	\N	\N	f	f	2010-04-22 12:57:59.664064-04	pdfs/C9M1.pdf	images/thumbs/C9M1_t.jpg	images/C9M1.png	\N	\N	\N
+1450	Zoning	Zoning	\N	9	2	\N	\N	\N	f	f	2010-04-22 12:57:59.71527-04	pdfs/C9M2.pdf	images/thumbs/C9M2_t.jpg	images/C9M2.png	\N	\N	\N
+1496	Overlay Areas	Overlay_Areas	\N	9	3	\N	\N	\N	f	f	2010-04-22 12:57:59.735844-04	pdfs/C9M3.pdf	images/thumbs/C9M3_t.jpg	images/C9M3.png	\N	\N	\N
+1507	Transportation Network	Transportation_Network	\N	9	4	\N	\N	\N	f	f	2010-04-22 12:57:59.916063-04	pdfs/C9M4.pdf	images/thumbs/C9M4_t.jpg	images/C9M4.png	\N	\N	\N
+1566	2000 Aerial Photo	2000_Aerial_Photo	\N	9	9	\N	\N	\N	f	f	2010-04-22 12:58:00.125795-04	pdfs/C9M9.pdf	images/thumbs/C9M9_t.jpg	images/C9M9.png	\N	\N	\N
+1412	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	9	10	\N	\N	\N	f	f	2010-04-22 12:58:00.191024-04	pdfs/C9M10.pdf	images/thumbs/C9M10_t.jpg	images/C9M10.png	\N	\N	\N
+1474	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	9	21	\N	2009	4	f	f	2010-04-22 12:58:00.478779-04	pdfs/C9M21d_09.pdf	images/thumbs/C9M21d_09_t.jpg	images/C9M21d_09.png	\N	\N	\N
+1497	Households without Vehicles	Households_without_Vehicles	\N	9	30	\N	\N	\N	f	f	2010-04-22 12:58:00.760546-04	pdfs/C9M30.pdf	images/thumbs/C9M30_t.jpg	images/C9M30.png	\N	\N	\N
+1512	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	9	44	\N	\N	\N	f	f	2010-04-22 12:58:01.369264-04	pdfs/C9M44.pdf	images/thumbs/C9M44_t.jpg	images/C9M44.png	\N	\N	\N
+1528	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	9	58	\N	\N	\N	f	f	2010-04-22 12:58:01.785339-04	pdfs/C9M58.pdf	images/thumbs/C9M58_t.jpg	images/C9M58.png	\N	\N	\N
+1535	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	9	63	\N	\N	\N	f	f	2010-04-22 12:58:01.920567-04	pdfs/C9M63.pdf	images/thumbs/C9M63_t.jpg	images/C9M63.png	\N	\N	\N
+1546	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	9	72	\N	\N	\N	f	f	2010-04-22 12:58:02.225864-04	pdfs/C9M72.pdf	images/thumbs/C9M72_t.jpg	images/C9M72.png	\N	\N	\N
+1568	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	9	91	\N	\N	\N	f	f	2010-04-22 12:58:02.930966-04	pdfs/C9M91.pdf	images/thumbs/C9M91_t.jpg	images/C9M91.png	\N	\N	\N
+1	Future Land Use	Future_Land_Use	\N	10	1	\N	\N	\N	f	f	2010-04-22 12:58:03.055126-04	pdfs/C10M1.pdf	images/thumbs/C10M1_t.jpg	images/C10M1.png	\N	\N	\N
+93	Transportation Network	Transportation_Network	\N	10	4	\N	\N	\N	f	f	2010-04-22 12:58:03.283744-04	pdfs/C10M4.pdf	images/thumbs/C10M4_t.jpg	images/C10M4.png	\N	\N	\N
+152	2000 Aerial Photo	2000_Aerial_Photo	\N	10	9	\N	\N	\N	f	f	2010-04-22 12:58:03.559106-04	pdfs/C10M9.pdf	images/thumbs/C10M9_t.jpg	images/C10M9.png	\N	\N	\N
+3	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	10	11	\N	\N	\N	f	f	2010-04-22 12:58:03.602102-04	pdfs/C10M11.pdf	images/thumbs/C10M11_t.jpg	images/C10M11.png	\N	\N	\N
+73	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	10	22	\N	2009	4	f	f	2010-04-22 12:58:03.876671-04	pdfs/C10M22d_09.pdf	images/thumbs/C10M22d_09_t.jpg	images/C10M22d_09.png	\N	\N	\N
+926	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	5	83	\N	\N	\N	f	f	2010-04-22 12:57:49.051878-04	pdfs/C5M83.pdf	images/thumbs/C5M83_t.jpg	images/C5M83.png	\N	\N	\N
+927	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	5	84	\N	\N	\N	f	f	2010-04-22 12:57:49.071075-04	pdfs/C5M84.pdf	images/thumbs/C5M84_t.jpg	images/C5M84.png	\N	\N	\N
+153	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	10	90	\N	\N	\N	f	f	2010-04-22 12:58:05.602099-04	pdfs/C10M90.pdf	images/thumbs/C10M90_t.jpg	images/C10M90.png	\N	\N	\N
+1337	Overlay Areas	Overlay_Areas	\N	8	3	\N	\N	\N	f	f	2010-04-22 12:58:05.830091-04	pdfs/C8M3.pdf	images/thumbs/C8M3_t.jpg	images/C8M3.png	\N	\N	\N
+1348	Transportation Network	Transportation_Network	\N	8	4	\N	\N	\N	f	f	2010-04-22 12:58:05.855171-04	pdfs/C8M4.pdf	images/thumbs/C8M4_t.jpg	images/C8M4.png	\N	\N	\N
+1254	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	8	10	\N	\N	\N	f	f	2010-04-22 12:58:06.24083-04	pdfs/C8M10.pdf	images/thumbs/C8M10_t.jpg	images/C8M10.png	\N	\N	\N
+1273	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	8	17	\N	2009	4	f	f	2010-04-22 12:58:06.482599-04	pdfs/C8M17d_09.pdf	images/thumbs/C8M17d_09_t.jpg	images/C8M17d_09.png	\N	\N	\N
+1328	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	8	22	\N	2009	4	f	f	2010-04-22 12:58:06.618066-04	pdfs/C8M22d_09.pdf	images/thumbs/C8M22d_09_t.jpg	images/C8M22d_09.png	\N	\N	\N
+1343	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	8	35	\N	\N	\N	f	f	2010-04-22 12:58:07.100859-04	pdfs/C8M35.pdf	images/thumbs/C8M35_t.jpg	images/C8M35.png	\N	\N	\N
+1353	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	8	44	\N	\N	\N	f	f	2010-04-22 12:58:07.307798-04	pdfs/C8M44.pdf	images/thumbs/C8M44_t.jpg	images/C8M44.png	\N	\N	\N
+1369	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	8	58	\N	\N	\N	f	f	2010-04-22 12:58:07.622243-04	pdfs/C8M58.pdf	images/thumbs/C8M58_t.jpg	images/C8M58.png	\N	\N	\N
+1376	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	8	63	\N	\N	\N	f	f	2010-04-22 12:58:07.76481-04	pdfs/C8M63.pdf	images/thumbs/C8M63_t.jpg	images/C8M63.png	\N	\N	\N
+1398	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	8	81	\N	\N	\N	f	f	2010-04-22 12:58:08.443275-04	pdfs/C8M81.pdf	images/thumbs/C8M81_t.jpg	images/C8M81.png	\N	\N	\N
+1408	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	8	90	\N	\N	\N	f	f	2010-04-22 12:58:10.113747-04	pdfs/C8M90.pdf	images/thumbs/C8M90_t.jpg	images/C8M90.png	\N	\N	\N
+558	Transportation Network	Transportation_Network	\N	3	4	\N	\N	\N	f	f	2010-04-22 12:58:10.769993-04	pdfs/C3M4.pdf	images/thumbs/C3M4_t.jpg	images/C3M4.png	\N	\N	\N
+463	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	3	10	\N	\N	\N	f	f	2010-04-22 12:58:11.225193-04	pdfs/C3M10.pdf	images/thumbs/C3M10_t.jpg	images/C3M10.png	\N	\N	\N
+465	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	3	12	\N	\N	\N	f	f	2010-04-22 12:58:11.428747-04	pdfs/C3M12.pdf	images/thumbs/C3M12_t.jpg	images/C3M12.png	\N	\N	\N
+471	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	3	17	\N	\N	\N	f	f	2010-04-22 12:58:11.885259-04	pdfs/C3M17-22a-d_09.pdf	images/thumbs/C3M17-22a-d_09_t.jpg	images/C3M17-22a-d_09.png	\N	\N	\N
+553	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	3	35	\N	\N	\N	f	f	2010-04-22 12:58:12.428821-04	pdfs/C3M35.pdf	images/thumbs/C3M35_t.jpg	images/C3M35.png	\N	\N	\N
+563	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	3	44	\N	\N	\N	f	f	2010-04-22 12:58:12.914535-04	pdfs/C3M44.pdf	images/thumbs/C3M44_t.jpg	images/C3M44.png	\N	\N	\N
+579	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	3	58	\N	\N	\N	f	f	2010-04-22 12:58:13.272683-04	pdfs/C3M58.pdf	images/thumbs/C3M58_t.jpg	images/C3M58.png	\N	\N	\N
+589	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	3	66	\N	\N	\N	f	f	2010-04-22 12:58:13.552045-04	pdfs/C3M66.pdf	images/thumbs/C3M66_t.jpg	images/C3M66.png	\N	\N	\N
+595	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	3	71	\N	\N	\N	f	f	2010-04-22 12:58:13.706244-04	pdfs/C3M71.pdf	images/thumbs/C3M71_t.jpg	images/C3M71.png	\N	\N	\N
+609	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	3	82	\N	\N	\N	f	f	2010-04-22 12:58:13.964423-04	pdfs/C3M82.pdf	images/thumbs/C3M82_t.jpg	images/C3M82.png	\N	\N	\N
+619	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	3	91	\N	\N	\N	f	f	2010-04-22 12:58:14.350726-04	pdfs/C3M91.pdf	images/thumbs/C3M91_t.jpg	images/C3M91.png	\N	\N	\N
+275	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	1	6	\N	\N	\N	f	f	2010-04-22 12:57:41.032374-04	pdfs/C1M6.pdf	images/thumbs/C1M6_t.jpg	images/C1M6___.png	\N	\N	\N
+219	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	1	21	\N	2009	4	f	f	2010-04-22 12:57:41.274277-04	pdfs/C1M21d_09.pdf	images/thumbs/C1M21d_09_t.jpg	images/C1M21d_09.png	\N	\N	\N
+236	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	1	27	\N	\N	\N	f	f	2010-04-22 12:57:41.369826-04	pdfs/C1M27.pdf	images/thumbs/C1M27_t.jpg	images/C1M27.png	\N	\N	\N
+246	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	1	35	\N	\N	\N	f	f	2010-04-22 12:57:41.499596-04	pdfs/C1M35.pdf	images/thumbs/C1M35_t.jpg	images/C1M35.png	\N	\N	\N
+256	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	1	44	\N	\N	\N	f	f	2010-04-22 12:57:41.648608-04	pdfs/C1M44.pdf	images/thumbs/C1M44_t.jpg	images/C1M44.png	\N	\N	\N
+277	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	1	61	\N	\N	\N	f	f	2010-04-22 12:57:41.859312-04	pdfs/C1M61.pdf	images/thumbs/C1M61_t.jpg	images/C1M61.png	\N	\N	\N
+278	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	1	62	\N	\N	\N	f	f	2010-04-22 12:57:41.874737-04	pdfs/C1M62.pdf	images/thumbs/C1M62_t.jpg	images/C1M62.png	\N	\N	\N
+158	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	1	11	\N	\N	\N	f	f	2010-04-22 12:57:41.093891-04	pdfs/C1M11.pdf	images/thumbs/C1M11_t.jpg	images/C1M11__.png	\N	\N	\N
+287	Parks Master Plan Update	Parks_Master_Plan_Update	\N	1	70	\N	\N	\N	f	f	2010-04-22 12:57:42.041783-04	pdfs/C1M70.pdf	images/thumbs/C1M70_t.jpg	images/C1M70.png	\N	\N	\N
+301	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	1	81	\N	\N	\N	f	f	2010-04-22 12:57:42.217191-04	pdfs/C1M81.pdf	images/thumbs/C1M81_t.jpg	images/C1M81.png	\N	\N	\N
+310	City & State Ownership	City_&_State_Ownership	\N	2	15	\N	\N	\N	f	f	2010-04-22 12:57:42.593316-04	pdfs/C2M15.pdf	images/thumbs/C2M15_t.jpg	images/C2M15.png	\N	\N	\N
+311	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	2	16	\N	\N	\N	f	f	2010-04-22 12:57:42.609133-04	pdfs/C2M16.pdf	images/thumbs/C2M16_t.jpg	images/C2M16.png	\N	\N	\N
+355	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	2	20	\N	2009	4	f	f	2010-04-22 12:57:42.665471-04	pdfs/C2M20d_09.pdf	images/thumbs/C2M20d_09_t.jpg	images/C2M20d_09.png	\N	\N	\N
+384	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	2	27	\N	\N	\N	f	f	2010-04-22 12:57:42.782884-04	pdfs/C2M27.pdf	images/thumbs/C2M27_t.jpg	images/C2M27.png	\N	\N	\N
+395	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	2	36	\N	\N	\N	f	f	2010-04-22 12:57:42.955079-04	pdfs/C2M36.pdf	images/thumbs/C2M36_t.jpg	images/C2M36.png	\N	\N	\N
+403	Truck Routes	Truck_Routes	\N	2	43	\N	\N	\N	f	f	2010-04-22 12:57:43.067663-04	pdfs/C2M43.pdf	images/thumbs/C2M43_t.jpg	images/C2M43.png	\N	\N	\N
+120	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	10	62	\N	\N	\N	f	f	2010-04-22 12:58:04.758085-04	pdfs/C10M62.pdf	images/thumbs/C10M62_t.jpg	images/C10M62.png	\N	\N	\N
+143	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	10	81	\N	\N	\N	f	f	2010-04-22 12:58:05.299705-04	pdfs/C10M81.pdf	images/thumbs/C10M81_t.jpg	images/C10M81.png	\N	\N	\N
+160	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	1	13	\N	\N	\N	f	f	2010-04-22 12:57:41.152314-04	pdfs/C1M13.pdf	images/thumbs/C1M13_t.jpg	images/C1M13_.png	\N	\N	\N
+436	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	2	71	\N	\N	\N	f	f	2010-04-22 12:57:43.4906-04	pdfs/C2M71.pdf	images/thumbs/C2M71_t.jpg	images/C2M71.png	\N	\N	\N
+449	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	2	81	\N	\N	\N	f	f	2010-04-22 12:57:43.665346-04	pdfs/C2M81.pdf	images/thumbs/C2M81_t.jpg	images/C2M81.png	\N	\N	\N
+459	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	2	90	\N	\N	\N	f	f	2010-04-22 12:57:43.81501-04	pdfs/C2M90.pdf	images/thumbs/C2M90_t.jpg	images/C2M90.png	\N	\N	\N
+740	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	4	6	\N	\N	\N	f	f	2010-04-22 12:57:44.02131-04	pdfs/C4M6.pdf	images/thumbs/C4M6_t.jpg	images/C4M6.png	\N	\N	\N
+623	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	4	11	\N	\N	\N	f	f	2010-04-22 12:57:44.170401-04	pdfs/C4M11.pdf	images/thumbs/C4M11_t.jpg	images/C4M11.png	\N	\N	\N
+628	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	4	16	\N	\N	\N	f	f	2010-04-22 12:57:44.259963-04	pdfs/C4M16.pdf	images/thumbs/C4M16_t.jpg	images/C4M16.png	\N	\N	\N
+684	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	4	21	\N	2009	4	f	f	2010-04-22 12:57:44.364818-04	pdfs/C4M21d_09.pdf	images/thumbs/C4M21d_09_t.jpg	images/C4M21d_09.png	\N	\N	\N
+700	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	4	26	\N	\N	\N	f	f	2010-04-22 12:57:44.473759-04	pdfs/C4M26.pdf	images/thumbs/C4M26_t.jpg	images/C4M26.png	\N	\N	\N
+711	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	4	35	\N	\N	\N	f	f	2010-04-22 12:57:44.737897-04	pdfs/C4M35.pdf	images/thumbs/C4M35_t.jpg	images/C4M35.png	\N	\N	\N
+721	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	4	44	\N	\N	\N	f	f	2010-04-22 12:57:45.08833-04	pdfs/C4M44.pdf	images/thumbs/C4M44_t.jpg	images/C4M44.png	\N	\N	\N
+737	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	4	58	\N	\N	\N	f	f	2010-04-22 12:57:45.359286-04	pdfs/C4M58.pdf	images/thumbs/C4M58_t.jpg	images/C4M58.png	\N	\N	\N
+741	Registered Voters	Registered_Voters	\N	4	60	\N	\N	\N	f	f	2010-04-22 12:57:45.405805-04	pdfs/C4M60.pdf	images/thumbs/C4M60_t.jpg	images/C4M60.png	\N	\N	\N
+748	Human Services Programs	Human_Services_Programs	\N	4	67	\N	\N	\N	f	f	2010-04-22 12:57:45.572747-04	pdfs/C4M67.pdf	images/thumbs/C4M67_t.jpg	images/C4M67.png	\N	\N	\N
+761	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	4	77	\N	\N	\N	f	f	2010-04-22 12:57:45.84455-04	pdfs/C4M77.pdf	images/thumbs/C4M77_t.jpg	images/C4M77.png	\N	\N	\N
+769	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	4	84	\N	\N	\N	f	f	2010-04-22 12:57:45.975654-04	pdfs/C4M84.pdf	images/thumbs/C4M84_t.jpg	images/C4M84.png	\N	\N	\N
+430	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	2	66	\N	\N	\N	f	f	2010-04-22 12:57:43.41013-04	pdfs/C2M66.pdf	images/thumbs/C2M66_t.jpg	images/C2M66.png	\N	\N	\N
+933	2000 Aerial Photo	2000_Aerial_Photo	\N	5	9	\N	\N	\N	f	f	2010-04-22 12:57:47.473702-04	pdfs/C5M9.pdf	images/thumbs/C5M9_t.jpg	images/C5M9.png	\N	\N	\N
+781	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	5	11	\N	\N	\N	f	f	2010-04-22 12:57:47.507143-04	pdfs/C5M11.pdf	images/thumbs/C5M11_t.jpg	images/C5M11.png	\N	\N	\N
+830	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	5	20	\N	2009	4	f	f	2010-04-22 12:57:47.659811-04	pdfs/C5M20d_09.pdf	images/thumbs/C5M20d_09_t.jpg	images/C5M20d_09.png	\N	\N	\N
+857	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	5	25	\N	\N	\N	f	f	2010-04-22 12:57:47.790811-04	pdfs/C5M25.pdf	images/thumbs/C5M25_t.jpg	images/C5M25.png	\N	\N	\N
+861	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	5	29	\N	\N	\N	f	f	2010-04-22 12:57:47.870998-04	pdfs/C5M29.pdf	images/thumbs/C5M29_t.jpg	images/C5M29.png	\N	\N	\N
+868	Employment Sites	Employment_Sites	\N	5	34	\N	\N	\N	f	f	2010-04-22 12:57:47.983721-04	pdfs/C5M34.pdf	images/thumbs/C5M34_t.jpg	images/C5M34.png	\N	\N	\N
+875	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	5	40	\N	\N	\N	f	f	2010-04-22 12:57:48.090487-04	pdfs/C5M40.pdf	images/thumbs/C5M40_t.jpg	images/C5M40.png	\N	\N	\N
+893	Dangerous Buildings	Dangerous_Buildings	\N	5	56	\N	\N	\N	f	f	2010-04-22 12:57:48.323548-04	pdfs/C5M56.pdf	images/thumbs/C5M56_t.jpg	images/C5M56.png	\N	\N	\N
+901	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	5	62	\N	\N	\N	f	f	2010-04-22 12:57:48.578425-04	pdfs/C5M62.pdf	images/thumbs/C5M62_t.jpg	images/C5M62.png	\N	\N	\N
+905	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	5	66	\N	\N	\N	f	f	2010-04-22 12:57:48.697122-04	pdfs/C5M66.pdf	images/thumbs/C5M66_t.jpg	images/C5M66.png	\N	\N	\N
+913	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	5	72	\N	\N	\N	f	f	2010-04-22 12:57:48.823784-04	pdfs/C5M72.pdf	images/thumbs/C5M72_t.jpg	images/C5M72.png	\N	\N	\N
+924	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	5	81	\N	\N	\N	f	f	2010-04-22 12:57:49.016743-04	pdfs/C5M81.pdf	images/thumbs/C5M81_t.jpg	images/C5M81.png	\N	\N	\N
+930	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	5	87	\N	\N	\N	f	f	2010-04-22 12:57:49.140265-04	pdfs/C5M87.pdf	images/thumbs/C5M87_t.jpg	images/C5M87.png	\N	\N	\N
+1067	Insitutional Uses	Insitutional_Uses	\N	6	7	\N	\N	\N	f	f	2010-04-22 12:57:49.81945-04	pdfs/C6M7.pdf	images/thumbs/C6M7_t.jpg	images/C6M7.png	\N	\N	\N
+939	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	6	11	\N	\N	\N	f	f	2010-04-22 12:57:49.917662-04	pdfs/C6M11.pdf	images/thumbs/C6M11_t.jpg	images/C6M11.png	\N	\N	\N
+988	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	6	20	\N	2009	4	f	f	2010-04-22 12:57:50.200872-04	pdfs/C6M20d_09.pdf	images/thumbs/C6M20d_09_t.jpg	images/C6M20d_09.png	\N	\N	\N
+1012	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	6	22	\N	2009	4	f	f	2010-04-22 12:57:50.337366-04	pdfs/C6M22d_09.pdf	images/thumbs/C6M22d_09_t.jpg	images/C6M22d_09.png	\N	\N	\N
+1028	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	6	36	\N	\N	\N	f	f	2010-04-22 12:57:52.513298-04	pdfs/C6M36.pdf	images/thumbs/C6M36_t.jpg	images/C6M36.png	\N	\N	\N
+1038	Low/Moderate Income	Low/Moderate_Income	\N	6	45	\N	\N	\N	f	f	2010-04-22 12:57:54.279216-04	pdfs/C6M45.pdf	images/thumbs/C6M45_t.jpg	images/C6M45.png	\N	\N	\N
+1053	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	6	58	\N	\N	\N	f	f	2010-04-22 12:57:55.01719-04	pdfs/C6M58.pdf	images/thumbs/C6M58_t.jpg	images/C6M58.png	\N	\N	\N
+1060	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	6	63	\N	\N	\N	f	f	2010-04-22 12:57:55.538551-04	pdfs/C6M63.pdf	images/thumbs/C6M63_t.jpg	images/C6M63.png	\N	\N	\N
+1071	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	6	72	\N	\N	\N	f	f	2010-04-22 12:57:55.972974-04	pdfs/C6M72.pdf	images/thumbs/C6M72_t.jpg	images/C6M72.png	\N	\N	\N
+1077	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	6	77	\N	\N	\N	f	f	2010-04-22 12:57:56.224374-04	pdfs/C6M77.pdf	images/thumbs/C6M77_t.jpg	images/C6M77.png	\N	\N	\N
+1085	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	6	84	\N	\N	\N	f	f	2010-04-22 12:57:56.694066-04	pdfs/C6M84.pdf	images/thumbs/C6M84_t.jpg	images/C6M84.png	\N	\N	\N
+1096	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	7	10	\N	\N	\N	f	f	2010-04-22 12:57:57.967042-04	pdfs/C7M10.pdf	images/thumbs/C7M10_t.jpg	images/C7M10.png	\N	\N	\N
+426	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	2	62	\N	\N	\N	f	f	2010-04-22 12:57:43.31723-04	pdfs/C2M62.pdf	images/thumbs/C2M62_t.jpg	images/C2M62.png	\N	\N	\N
+1182	Youth Population Change	Youth_Population_Change	\N	7	32	\N	\N	\N	f	f	2010-04-22 12:57:58.361799-04	pdfs/C7M32.pdf	images/thumbs/C7M32_t.jpg	images/C7M32.png	\N	\N	\N
+1191	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	7	40	\N	\N	\N	f	f	2010-04-22 12:57:58.531019-04	pdfs/C7M40.pdf	images/thumbs/C7M40_t.jpg	images/C7M40.png	\N	\N	\N
+1209	Dangerous Buildings	Dangerous_Buildings	\N	7	56	\N	\N	\N	f	f	2010-04-22 12:57:58.827644-04	pdfs/C7M56.pdf	images/thumbs/C7M56_t.jpg	images/C7M56.png	\N	\N	\N
+1211	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	7	58	\N	\N	\N	f	f	2010-04-22 12:57:58.880676-04	pdfs/C7M58.pdf	images/thumbs/C7M58_t.jpg	images/C7M58.png	\N	\N	\N
+1224	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	7	69	\N	\N	\N	f	f	2010-04-22 12:57:59.142807-04	pdfs/C7M69.pdf	images/thumbs/C7M69_t.jpg	images/C7M69.png	\N	\N	\N
+1229	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	7	72	\N	\N	\N	f	f	2010-04-22 12:57:59.198567-04	pdfs/C7M72.pdf	images/thumbs/C7M72_t.jpg	images/C7M72.png	\N	\N	\N
+1242	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	7	83	\N	\N	\N	f	f	2010-04-22 12:57:59.393712-04	pdfs/C7M83.pdf	images/thumbs/C7M83_t.jpg	images/C7M83.png	\N	\N	\N
+1243	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	7	84	\N	\N	\N	f	f	2010-04-22 12:57:59.411895-04	pdfs/C7M84.pdf	images/thumbs/C7M84_t.jpg	images/C7M84.png	\N	\N	\N
+1531	2003/2004 Street Repaving	2003/2004_Street_Repaving	\N	9	6	\N	\N	\N	f	f	2010-04-22 12:58:00.03923-04	pdfs/C9M6.pdf	images/thumbs/C9M6_t.jpg	images/C9M6.png	\N	\N	\N
+1415	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	9	13	\N	\N	\N	f	f	2010-04-22 12:58:00.25056-04	pdfs/C9M13.pdf	images/thumbs/C9M13_t.jpg	images/C9M13.png	\N	\N	\N
+1431	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	9	17	\N	2009	4	f	f	2010-04-22 12:58:00.380977-04	pdfs/C9M17d_09.pdf	images/thumbs/C9M17d_09_t.jpg	images/C9M17d_09.png	\N	\N	\N
+1449	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	9	19	\N	2009	4	f	f	2010-04-22 12:58:00.429822-04	pdfs/C9M19d_09.pdf	images/thumbs/C9M19d_09_t.jpg	images/C9M19d_09.png	\N	\N	\N
+1492	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	9	27	\N	\N	\N	f	f	2010-04-22 12:58:00.685765-04	pdfs/C9M27.pdf	images/thumbs/C9M27_t.jpg	images/C9M27.png	\N	\N	\N
+1502	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	9	35	\N	\N	\N	f	f	2010-04-22 12:58:00.965264-04	pdfs/C9M35.pdf	images/thumbs/C9M35_t.jpg	images/C9M35.png	\N	\N	\N
+1508	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	9	40	\N	\N	\N	f	f	2010-04-22 12:58:01.262327-04	pdfs/C9M40.pdf	images/thumbs/C9M40_t.jpg	images/C9M40.png	\N	\N	\N
+1530	Sales	Sales	\N	9	59	\N	\N	\N	f	f	2010-04-22 12:58:01.805927-04	pdfs/C9M59.pdf	images/thumbs/C9M59_t.jpg	images/C9M59.png	\N	\N	\N
+1534	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	9	62	\N	\N	\N	f	f	2010-04-22 12:58:01.89495-04	pdfs/C9M62.pdf	images/thumbs/C9M62_t.jpg	images/C9M62.png	\N	\N	\N
+1544	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	9	71	\N	\N	\N	f	f	2010-04-22 12:58:02.209086-04	pdfs/C9M71.pdf	images/thumbs/C9M71_t.jpg	images/C9M71.png	\N	\N	\N
+1557	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	9	81	\N	\N	\N	f	f	2010-04-22 12:58:02.647454-04	pdfs/C9M81.pdf	images/thumbs/C9M81_t.jpg	images/C9M81.png	\N	\N	\N
+1559	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	9	83	\N	\N	\N	f	f	2010-04-22 12:58:02.726511-04	pdfs/C9M83.pdf	images/thumbs/C9M83_t.jpg	images/C9M83.png	\N	\N	\N
+1567	SEMCOG Capacity (Color)	SEMCOG_Capacity_(Color)	\N	9	90	\N	\N	\N	f	f	2010-04-22 12:58:02.91205-04	pdfs/C9M90.pdf	images/thumbs/C9M90_t.jpg	images/C9M90.png	\N	\N	\N
+82	Overlay Areas	Overlay_Areas	\N	10	3	\N	\N	\N	f	f	2010-04-22 12:58:03.206019-04	pdfs/C10M3.pdf	images/thumbs/C10M3_t.jpg	images/C10M3.png	\N	\N	\N
+2	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	10	10	\N	\N	\N	f	f	2010-04-22 12:58:03.58043-04	pdfs/C10M10.pdf	images/thumbs/C10M10_t.jpg	images/C10M10.png	\N	\N	\N
+77	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	10	26	\N	\N	\N	f	f	2010-04-22 12:58:03.978011-04	pdfs/C10M26.pdf	images/thumbs/C10M26_t.jpg	images/C10M26.png	\N	\N	\N
+85	Youth Population Change	Youth_Population_Change	\N	10	32	\N	\N	\N	f	f	2010-04-22 12:58:04.176018-04	pdfs/C10M32.pdf	images/thumbs/C10M32_t.jpg	images/C10M32.png	\N	\N	\N
+88	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	10	35	\N	\N	\N	f	f	2010-04-22 12:58:04.280342-04	pdfs/C10M35.pdf	images/thumbs/C10M35_t.jpg	images/C10M35.png	\N	\N	\N
+92	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	10	39	\N	\N	\N	f	f	2010-04-22 12:58:04.360051-04	pdfs/C10M39.pdf	images/thumbs/C10M39_t.jpg	images/C10M39.png	\N	\N	\N
+98	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	10	44	\N	\N	\N	f	f	2010-04-22 12:58:04.447053-04	pdfs/C10M44.pdf	images/thumbs/C10M44_t.jpg	images/C10M44.png	\N	\N	\N
+110	Deaths	Deaths	\N	10	54	\N	\N	\N	f	f	2010-04-22 12:58:04.558964-04	pdfs/C10M54.pdf	images/thumbs/C10M54_t.jpg	images/C10M54.png	\N	\N	\N
+114	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	10	58	\N	\N	\N	f	f	2010-04-22 12:58:04.676214-04	pdfs/C10M58.pdf	images/thumbs/C10M58_t.jpg	images/C10M58.png	\N	\N	\N
+118	Registered Voters	Registered_Voters	\N	10	60	\N	\N	\N	f	f	2010-04-22 12:58:04.721608-04	pdfs/C10M60.pdf	images/thumbs/C10M60_t.jpg	images/C10M60.png	\N	\N	\N
+124	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	10	66	\N	\N	\N	f	f	2010-04-22 12:58:04.887895-04	pdfs/C10M66.pdf	images/thumbs/C10M66_t.jpg	images/C10M66.png	\N	\N	\N
+130	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	10	71	\N	\N	\N	f	f	2010-04-22 12:58:05.025578-04	pdfs/C10M71.pdf	images/thumbs/C10M71_t.jpg	images/C10M71.png	\N	\N	\N
+132	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	10	72	\N	\N	\N	f	f	2010-04-22 12:58:05.08826-04	pdfs/C10M72.pdf	images/thumbs/C10M72_t.jpg	images/C10M72.png	\N	\N	\N
+144	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	10	82	\N	\N	\N	f	f	2010-04-22 12:58:05.367493-04	pdfs/C10M82.pdf	images/thumbs/C10M82_t.jpg	images/C10M82.png	\N	\N	\N
+154	SEMCOG Capacity (see appendix F)	SEMCOG_Capacity_(see_appendix_F)	\N	10	91	\N	\N	\N	f	f	2010-04-22 12:58:05.626657-04	pdfs/C10M91.pdf	images/thumbs/C10M91_t.jpg	images/C10M91.png	\N	\N	\N
+1255	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	8	11	\N	\N	\N	f	f	2010-04-22 12:58:06.257483-04	pdfs/C8M11.pdf	images/thumbs/C8M11_t.jpg	images/C8M11.png	\N	\N	\N
+1291	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	8	19	\N	2009	4	f	f	2010-04-22 12:58:06.507455-04	pdfs/C8M19d_09.pdf	images/thumbs/C8M19d_09_t.jpg	images/C8M19d_09.png	\N	\N	\N
+1304	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	8	20	\N	2009	4	f	f	2010-04-22 12:58:06.529114-04	pdfs/C8M20d_09.pdf	images/thumbs/C8M20d_09_t.jpg	images/C8M20d_09.png	\N	\N	\N
+1331	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	8	25	\N	\N	\N	f	f	2010-04-22 12:58:06.699283-04	pdfs/C8M25.pdf	images/thumbs/C8M25_t.jpg	images/C8M25.png	\N	\N	\N
+1341	Foreign Born Population	Foreign_Born_Population	\N	8	33	\N	\N	\N	f	f	2010-04-22 12:58:06.977805-04	pdfs/C8M33.pdf	images/thumbs/C8M33_t.jpg	images/C8M33.png	\N	\N	\N
+1158	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	7	21	\N	2009	4	f	f	2010-04-22 12:57:58.159252-04	pdfs/C7M21d_09.pdf	images/thumbs/C7M21d_09_t.jpg	images/C7M21d_09.png	\N	\N	\N
+577	Dangerous Buildings	Dangerous_Buildings	\N	3	56	\N	\N	\N	f	f	2010-04-22 12:58:13.212334-04	pdfs/C3M56.pdf	images/thumbs/C3M56_t.jpg	images/C3M56.png	\N	\N	\N
+928	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	5	85	\N	\N	\N	f	f	2010-04-22 12:57:49.089125-04	pdfs/C5M85.pdf	images/thumbs/C5M85_t.jpg	images/C5M85.png	\N	\N	\N
+1069	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	6	71	\N	\N	\N	f	f	2010-04-22 12:57:55.898918-04	pdfs/C6M71.pdf	images/thumbs/C6M71_t.jpg	images/C6M71.png	\N	\N	\N
+1097	Empowerment Zone & Renewal Community	Empowerment_Zone_&_Renewal_Community	\N	7	11	\N	\N	\N	f	f	2010-04-22 12:57:57.982735-04	pdfs/C7M11.pdf	images/thumbs/C7M11_t.jpg	images/C7M11.png	\N	\N	\N
+1185	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	7	35	\N	\N	\N	f	f	2010-04-22 12:57:58.414594-04	pdfs/C7M35.pdf	images/thumbs/C7M35_t.jpg	images/C7M35.png	\N	\N	\N
+36	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	10	19	\N	2009	4	f	f	2010-04-22 12:58:03.791828-04	pdfs/C10M19d_09.pdf	images/thumbs/C10M19d_09_t.jpg	images/C10M19d_09.png	\N	\N	\N
+1387	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	8	72	\N	\N	\N	f	f	2010-04-22 12:58:08.021816-04	pdfs/C8M72.pdf	images/thumbs/C8M72_t.jpg	images/C8M72.png	\N	\N	\N
+1394	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	8	78	\N	\N	\N	f	f	2010-04-22 12:58:08.145173-04	pdfs/C8M78.pdf	images/thumbs/C8M78_t.jpg	images/C8M78.png	\N	\N	\N
+1402	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	8	85	\N	\N	\N	f	f	2010-04-22 12:58:09.508141-04	pdfs/C8M85.pdf	images/thumbs/C8M85_t.jpg	images/C8M85.png	\N	\N	\N
+547	Overlay Areas	Overlay_Areas	\N	3	3	\N	\N	\N	f	f	2010-04-22 12:58:10.743347-04	pdfs/C3M3.pdf	images/thumbs/C3M3_t.jpg	images/C3M3.png	\N	\N	\N
+584	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	3	61	\N	\N	\N	f	f	2010-04-22 12:58:13.378524-04	pdfs/C3M61.pdf	images/thumbs/C3M61_t.jpg	images/C3M61.png	\N	\N	\N
+586	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	3	63	\N	\N	\N	f	f	2010-04-22 12:58:13.44309-04	pdfs/C3M63.pdf	images/thumbs/C3M63_t.jpg	images/C3M63.png	\N	\N	\N
+592	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	3	69	\N	\N	\N	f	f	2010-04-22 12:58:13.673238-04	pdfs/C3M69.pdf	images/thumbs/C3M69_t.jpg	images/C3M69.png	\N	\N	\N
+603	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	3	77	\N	\N	\N	f	f	2010-04-22 12:58:13.852099-04	pdfs/C3M77.pdf	images/thumbs/C3M77_t.jpg	images/C3M77.png	\N	\N	\N
+610	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	3	83	\N	\N	\N	f	f	2010-04-22 12:58:14.018185-04	pdfs/C3M83.pdf	images/thumbs/C3M83_t.jpg	images/C3M83.png	\N	\N	\N
+231	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	1	22	\N	2009	4	f	f	2010-04-22 12:57:41.289959-04	pdfs/C1M22d_09.pdf	images/thumbs/C1M22d_09_t.jpg	images/C1M22d_09.png	\N	\N	\N
+292	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	1	73	\N	\N	\N	f	f	2010-04-22 12:57:42.090104-04	pdfs/C1M73.pdf	images/thumbs/C1M73_t.jpg	images/C1M73.png	\N	\N	\N
+367	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	2	21	\N	2009	4	f	f	2010-04-22 12:57:42.681517-04	pdfs/C2M21d_09.pdf	images/thumbs/C2M21d_09_t.jpg	images/C2M21d_09.png	\N	\N	\N
+418	Dangerous Buildings	Dangerous_Buildings	\N	2	56	\N	\N	\N	f	f	2010-04-22 12:57:43.219614-04	pdfs/C2M56.pdf	images/thumbs/C2M56_t.jpg	images/C2M56.png	\N	\N	\N
+744	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	4	63	\N	\N	\N	f	f	2010-04-22 12:57:45.48773-04	pdfs/C4M63.pdf	images/thumbs/C4M63_t.jpg	images/C4M63.png	\N	\N	\N
+911	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	5	71	\N	\N	\N	f	f	2010-04-22 12:57:48.794686-04	pdfs/C5M71.pdf	images/thumbs/C5M71_t.jpg	images/C5M71.png	\N	\N	\N
+1349	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	8	40	\N	\N	\N	f	f	2010-04-22 12:58:07.229855-04	pdfs/C8M40.pdf	images/thumbs/C8M40_t.jpg	images/C8M40.png	\N	\N	\N
+1367	Dangerous Buildings	Dangerous_Buildings	\N	8	56	\N	\N	\N	f	f	2010-04-22 12:58:07.578959-04	pdfs/C8M56.pdf	images/thumbs/C8M56_t.jpg	images/C8M56.png	\N	\N	\N
+1375	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	8	62	\N	\N	\N	f	f	2010-04-22 12:58:07.697958-04	pdfs/C8M62.pdf	images/thumbs/C8M62_t.jpg	images/C8M62.png	\N	\N	\N
+1385	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	8	71	\N	\N	\N	f	f	2010-04-22 12:58:07.975277-04	pdfs/C8M71.pdf	images/thumbs/C8M71_t.jpg	images/C8M71.png	\N	\N	\N
+468	City & State Ownership	City_&_State_Ownership	\N	3	15	\N	\N	\N	f	f	2010-04-22 12:58:11.757855-04	pdfs/C3M15.pdf	images/thumbs/C3M15_t.jpg	images/C3M15.png	\N	\N	\N
+538	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	3	22	\N	2009	4	f	f	2010-04-22 12:58:11.984398-04	pdfs/C3M22d_09.pdf	images/thumbs/C3M22d_09_t.jpg	images/C3M22d_09.png	\N	\N	\N
+541	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	3	25	\N	\N	\N	f	f	2010-04-22 12:58:12.067776-04	pdfs/C3M25.pdf	images/thumbs/C3M25_t.jpg	images/C3M25.png	\N	\N	\N
+550	Youth Population Change	Youth_Population_Change	\N	3	32	\N	\N	\N	f	f	2010-04-22 12:58:12.322249-04	pdfs/C3M32.pdf	images/thumbs/C3M32_t.jpg	images/C3M32.png	\N	\N	\N
+557	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	3	39	\N	\N	\N	f	f	2010-04-22 12:58:12.64824-04	pdfs/C3M39.pdf	images/thumbs/C3M39_t.jpg	images/C3M39.png	\N	\N	\N
 \.
 
 
@@ -13872,45 +13872,45 @@ COPY core_mapfile (id, title, slug, narrative, cluster, map_num, latest, year, q
 --
 
 COPY core_maptype (id, map_id, title, slug, narrative, mpoly) FROM stdin;
-14	14	ONCR	ONCR	\N	\N
-15	15	City & State Ownership	City_&_State_Ownership	\N	\N
-16	16	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	\N
-19	19	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	\N
-21	21	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	\N
-23	23	Change in Housing Units	Change_in_Housing_Units	\N	\N
-24	24	Change in Population	Change_in_Population	\N	\N
-25	25	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	\N
-26	26	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	\N
-28	28	Median Rent	Median_Rent	\N	\N
-27	27	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	\N
-29	29	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	\N
-18	18	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	\N
-30	30	Households without Vehicles	Households_without_Vehicles	\N	\N
-31	31	Median Income	Median_Income	\N	\N
-32	32	Youth Population Change	Youth_Population_Change	\N	\N
-33	33	Foreign Born Population	Foreign_Born_Population	\N	\N
-34	34	Employment Sites	Employment_Sites	\N	\N
-35	35	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	\N
 36	36	Master Plan - Retail & Local Services	Master_Plan_-_Retail_&_Local_Services	\N	\N
-37	37	DPS Sites	DPS_Sites	\N	\N
 38	38	Other Schools	Other_Schools	\N	\N
-39	39	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	\N
+37	37	DPS Sites	DPS_Sites	\N	\N
 40	40	LISC and Skillman Target Areas	LISC_and_Skillman_Target_Areas	\N	\N
-41	41	Elderly Population	Elderly_Population	\N	\N
 42	42	Greenways	Greenways	\N	\N
 43	43	Truck Routes	Truck_Routes	\N	\N
 45	45	Low/Moderate Income	Low/Moderate_Income	\N	\N
 44	44	Master Plan Neighborhood Areas	Master_Plan_Neighborhood_Areas	\N	\N
 53	53	Births	Births	\N	\N
-54	54	Deaths	Deaths	\N	\N
 56	56	Dangerous Buildings	Dangerous_Buildings	\N	\N
+54	54	Deaths	Deaths	\N	\N
 55	55	Crime	Crime	\N	\N
+18	18	Development Projects (see appendix B)	Development_Projects_(see_appendix_B)	\N	\N
 57	57	Fires	Fires	\N	\N
 59	59	Sales	Sales	\N	\N
 60	60	Registered Voters	Registered_Voters	\N	\N
 61	61	Illegal Dumping & Street Ligths	Illegal_Dumping_&_Street_Ligths	\N	\N
-62	62	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	\N
 63	63	County & State Ownership - Det Land Bank	County_&_State_Ownership_-_Det_Land_Bank	\N	\N
+62	62	City Ownership - Detroit Land Bank	City_Ownership_-_Detroit_Land_Bank	\N	\N
+64	64	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	\N
+65	65	Licensed Businesses	Licensed_Businesses	\N	\N
+67	67	Human Services Programs	Human_Services_Programs	\N	\N
+66	66	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	\N
+68	68	Head Start	Head_Start	\N	\N
+69	69	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	\N
+70	70	Parks Master Plan Update	Parks_Master_Plan_Update	\N	\N
+71	71	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	\N
+74	74	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	\N
+73	73	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	\N
+75	75	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	\N
+76	76	120% Area Mean Income	120%_Area_Mean_Income	\N	\N
+78	78	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	\N
+77	77	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	\N
+79	79	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	\N
+80	80	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	\N
+81	81	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	\N
+82	82	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	\N
+83	83	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	\N
+84	84	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	\N
 46	46	Wayne County Tax Foreclosures - 2006	Wayne_County_Tax_Foreclosures_-_2006	\N	\N
 47	47	Traffic Counts	Traffic_Counts	\N	\N
 48	48	Consumer Expenditures (see appendix A)	Consumer_Expenditures_(see_appendix_A)	\N	\N
@@ -13918,26 +13918,6 @@ COPY core_maptype (id, map_id, title, slug, narrative, mpoly) FROM stdin;
 50	50	2005 Land Use (Color)	2005_Land_Use_(Color)	\N	\N
 51	51	2005 Aerail Photo (Color)	2005_Aerail_Photo_(Color)	\N	\N
 52	52	Zip Codes	Zip_Codes	\N	\N
-64	64	Delinquent Property Taxes	Delinquent_Property_Taxes	\N	\N
-65	65	Licensed Businesses	Licensed_Businesses	\N	\N
-66	66	Personal Property by Business Type	Personal_Property_by_Business_Type	\N	\N
-67	67	Human Services Programs	Human_Services_Programs	\N	\N
-68	68	Head Start	Head_Start	\N	\N
-69	69	DPS - May 2008 Update	DPS_-_May_2008_Update	\N	\N
-70	70	Parks Master Plan Update	Parks_Master_Plan_Update	\N	\N
-71	71	Social Compact - Neighborhood (see appendix D)	Social_Compact_-_Neighborhood_(see_appendix_D)	\N	\N
-73	73	Wayne County Tax Foreclosures - 2007	Wayne_County_Tax_Foreclosures_-_2007	\N	\N
-74	74	Mortgage Foreclosures - December 2007	Mortgage_Foreclosures_-_December_2007	\N	\N
-75	75	Foreclosure Problem Rate	Foreclosure_Problem_Rate	\N	\N
-76	76	120% Area Mean Income	120%_Area_Mean_Income	\N	\N
-77	77	HMDA High Cost Loan Rate	HMDA_High_Cost_Loan_Rate	\N	\N
-78	78	Postal Service Vacancy Rate	Postal_Service_Vacancy_Rate	\N	\N
-79	79	2006 Mortgage Foreclosures	2006_Mortgage_Foreclosures	\N	\N
-80	80	2007 Mortgage Foreclosures	2007_Mortgage_Foreclosures	\N	\N
-81	81	Mortgage Resets Prior to June 2008	Mortgage_Resets_Prior_to_June_2008	\N	\N
-82	82	Mortgage Resets Beginning June 2008	Mortgage_Resets_Beginning_June_2008	\N	\N
-83	83	Housing Rehab: Sponsoring Comm Org (Color)	Housing_Rehab:_Sponsoring_Comm_Org_(Color)	\N	\N
-84	84	Development Division: Special Project Areas	Development_Division:_Special_Project_Areas	\N	\N
 85	85	Wayne County Tax Foreclosures - 2008	Wayne_County_Tax_Foreclosures_-_2008	\N	\N
 86	86	2009 Street Paving	2009_Street_Paving	\N	\N
 87	87	Real Estate Owned (REO) 2006	Real_Estate_Owned_(REO)_2006	\N	\N
@@ -13955,15 +13935,32 @@ COPY core_maptype (id, map_id, title, slug, narrative, mpoly) FROM stdin;
 8	8	Historic Sites	Historic_Sites	\N	\N
 9	9	2000 Aerial Photo	2000_Aerial_Photo	\N	\N
 12	12	NEZs & Renaissance Zones	NEZs_&_Renaissance_Zones	\N	\N
+23	23	Change in Housing Units	Change_in_Housing_Units	\N	\N
 13	13	Obsolete Property & Brownfields	Obsolete_Property_&_Brownfields	\N	\N
+17	17	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	\N
+14	14	ONCR	ONCR	\N	\N
+15	15	City & State Ownership	City_&_State_Ownership	\N	\N
+16	16	Existing Land Use (Color)	Existing_Land_Use_(Color)	\N	\N
+19	19	Section 106; Quarterly (a-d)	Section_106;_Quarterly_(a-d)	\N	\N
+21	21	Site Plan Review; Quarterly (a-d)	Site_Plan_Review;_Quarterly_(a-d)	\N	\N
+20	20	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	\N
+24	24	Change in Population	Change_in_Population	\N	\N
+33	33	Foreign Born Population	Foreign_Born_Population	\N	\N
+25	25	Owner Occupied Housing Units	Owner_Occupied_Housing_Units	\N	\N
+29	29	Housing Unit Density (Color)	Housing_Unit_Density_(Color)	\N	\N
+26	26	Percent Occupied Housing Units	Percent_Occupied_Housing_Units	\N	\N
+28	28	Median Rent	Median_Rent	\N	\N
+27	27	Median Value of Housing Units	Median_Value_of_Housing_Units	\N	\N
+30	30	Households without Vehicles	Households_without_Vehicles	\N	\N
+32	32	Youth Population Change	Youth_Population_Change	\N	\N
+31	31	Median Income	Median_Income	\N	\N
+34	34	Employment Sites	Employment_Sites	\N	\N
+35	35	Master Plan - N'Hoods & Hsing Policies	Master_Plan_-_N'Hoods_&_Hsing_Policies	\N	\N
 94	\N	Social Compact Area	Social_Compact_Area	\N	\N
 93	\N	Community Foundation - N'hood Program	Community_Foundation_-_N'hood_Program	\N	\N
-20	20	Historic; Quarterly (a-d)	Historic;_Quarterly_(a-d)	\N	\N
+41	41	Elderly Population	Elderly_Population	\N	\N
 92	\N	MDOT Projects	MDOT_Projects	\N	\N
-17	17	Building Permits; Quarterly (a-d)	Building_Permits;_Quarterly_(a-d)	\N	\N
-1	1	Future Land Use	Future_Land_Use	\N	\N
-10	10	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	\N
-22	22	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	\N
+39	39	P&DD Projects in the Pipeline	P&DD_Projects_in_the_Pipeline	\N	\N
 97	\N	I-94 Rehabilitation Project	I-94_Rehabilitation_Project	\N	\N
 98	\N	Layout	Layout	\N	\N
 99	\N	Zoom	Zoom	\N	\N
@@ -13972,6 +13969,9 @@ COPY core_maptype (id, map_id, title, slug, narrative, mpoly) FROM stdin;
 102	\N	Window Y	Window_Y	\N	\N
 95	\N	Ann Arbor to Detroit Rail	Ann_Arbor_to_Detroit_Rail	\N	\N
 96	\N	Airport Area	Airport_Area	\N	\N
+1	1	Future Land Use	Future_Land_Use	\N	\N
+10	10	Act 344 (Urban Renewal)	Act_344_(Urban_Renewal)	\N	\N
+22	22	Master Plan Interpretations; Quarterly (a-d)	Master_Plan_Interpretations;_Quarterly_(a-d)	\N	\N
 58	58	Crime Update (see appendix C)	Crime_Update_(see_appendix_C)	\N	\N
 72	72	Social Compact - Census Comparison (see appendix E)	Social_Compact_-_Census_Comparison_(see_appendix_E)	\N	\N
 \.
