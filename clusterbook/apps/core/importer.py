@@ -20,7 +20,7 @@ PATH_TO_KEY = os.path.join(settings.SITE_ROOT, '../data/files/key.csv')
 # shapefile describing cluster boundaries
 PATH_TO_CLUSTERS = os.path.join(settings.SITE_ROOT, '../data/clusters/cluster_4326.shp')
 
-PATH_TO_THUMBS = os.path.join(settings.SITE_ROOT, 'assets/images/thumbs/')
+PATH_TO_THUMBS = os.path.join(settings.SITE_ROOT, 'assets/images/thumbs_old/')
 
 
 def fake_slug(string):
@@ -365,9 +365,9 @@ def resample_thumbs():
                     
                     in_file = open(jpg_path, 'r')
                     f = File(in_file)
-                    m.thumbnail = f
-                    m.save()
-                    print m.thumbnail                
+                    the_file.thumbnail = f
+                    the_file.save()
+                    print the_file.thumbnail                
             
                #     img.convert("L")   # converts to 8-bit pixels, black and white
                    # print "finished " + new_path
@@ -375,7 +375,3 @@ def resample_thumbs():
                     
                 except:
                     print "Error:", sys.exc_info()[0]
-            
-                
-                
-  #  os.system(command)

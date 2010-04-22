@@ -107,6 +107,9 @@ CACHE_MIDDLEWARE_KEY_PREFIX='clusterbook'
 CACHE_MIDDLEWARE_SECONDS=1 # was: 90 * 60 # 90 minutes
 CACHE_BACKEND="dummy:///"
 
+GOOGLE_MAPS_API_KEY = "ABQIAAAA8E1c1-rPGKc2CBMpfB181RRi_j0U6kJrkFvY4-OX2XYmEAa76BSaoAR4asWHI-09cjny8qBhexOvPw" # localhost
+
+
 # Logging
 logging.basicConfig(
     level=logging.DEBUG,

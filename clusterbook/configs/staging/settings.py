@@ -27,6 +27,10 @@ CACHE_BACKEND = 'memcached://127.0.0.1:11211/'
 # S3
 AWS_S3_URL = 's3://clusterbook/'
 
+
+GOOGLE_MAPS_API_KEY = "ABQIAAAA8E1c1-rPGKc2CBMpfB181RSTZLRs7D-Z-pQY-iUlzqRzHZ3ibRQ9BpQaTIeKZQgDsAxGDvNNK3omzw" # for all 'amazonaws.com'
+
+
 # Trib IPs for security
 INTERNAL_IPS = ()
 

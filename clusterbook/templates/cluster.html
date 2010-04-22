@@ -33,7 +33,8 @@
 
 {% block head %}
 
-<script src='http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA8E1c1-rPGKc2CBMpfB181RQCULP4XOMyhPd8d_NrQQEO8sT8XBRf1rJ17f4tMfExvM9_vY718ffevg'></script> 
+<!-- was ABQIAAAA8E1c1-rPGKc2CBMpfB181RQCULP4XOMyhPd8d_NrQQEO8sT8XBRf1rJ17f4tMfExvM9_vY718ffevg -->
+<script src='http://maps.google.com/maps?file=api&amp;v=2&amp;key={{ settings.GOOGLE_MAPS_API_KEY }}'></script> 
 <script src="http://openlayers.org/api/OpenLayers.js"></script> 
 <script type="text/javascript"> 
     var map;
