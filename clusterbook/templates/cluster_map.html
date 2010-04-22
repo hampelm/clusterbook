@@ -43,7 +43,7 @@
 <h2>Appendices</h2>
 <ul>
 {% for f in appendices %}
-<li>{{f}}</li>
+<li><a href="{% build_media_url f.the_file.path %}">Appendix</a></li>
 {% endfor %}
 </ul>
 {% endif %}
@@ -52,7 +52,7 @@
 <h2>Older maps</h2>
 <ul>
 {% for f in older_maps %}
-<li><a href="/assets/{{f.the_file}}">Quarter {{f.quarter}} {{f.year}}</a></li>
+<li><a href="{% build_media_url f.the_file.path %}">Quarter {{f.quarter}} {{f.year}}</a></li>
 {% endfor %}
 </ul>
 {% endif %}
