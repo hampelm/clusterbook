@@ -33,7 +33,7 @@ def build_media_url(uri):
     else:
         return uri
 
-@register.inclusion_tag("core/_gmap.html")
+@register.inclusion_tag("cluster.html")
 def gmap(gmap_api_version="2"):
     """Return the fragment of JS necessary to inline the Google Maps API on the page, assuming that the Django settings includes
        a value for GOOGLE_MAPS_API_KEY

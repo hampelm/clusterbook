@@ -8,24 +8,18 @@
 <div id="col-a">
 <h1>Cluster {{cluster}}</h1>
 
-<table id="map-list">
-	<thead>
-		<tr>
-			<th colspan="3">Map</th>
-		</tr>
-	</thead>
-	<tbody>
+<ul id="map-list">
 	{% for m in maps %}
-		<tr class="{% cycle odd,even %}">
-			<td>{% if m.map_id  %}{{m.map_id}}{% endif %}</td>
+		<li class="{% cycle odd,even %}">
+			<span class="map-id">{% if m.map_id  %}{{m.map_id}}{% endif %}</span>
 			{% if m.map_id  %}
-			<td><a href="/cluster/{{cluster}}/map/{{m.map_id}}">{{ m.title }}</a></td>
+			<span class="map-title"><a href="/cluster/{{cluster}}/map/{{m.map_id}}">{{ m.title }}</a></span>
 			{% else %}
-			<td><a href="/cluster/{{cluster}}/map/{{m.slug}}">{{ m.title }}</a></td>
+			<span class="map-title"><a href="/cluster/{{cluster}}/map/{{m.slug}}">{{ m.title }}</a></span>
 			{% endif %}
-		</tr>
+		</li>
 	{% endfor %}
-</table>
+</ul>
 </div>
 
 <div id="col-b">

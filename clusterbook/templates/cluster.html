@@ -5,23 +5,22 @@
 
 {% block content %}
 
+
 <div id="col-a">
 <h1>Cluster {{cluster}}</h1>
 
-<table id="map-list">
-	<thead>
-		<tr>
-			<th colspan="3">Map</th>
-		</tr>
-	</thead>
-	<tbody>
+<ul id="map-list">
 	{% for m in maps %}
-		<tr class="{% cycle odd,even %}">
-			<td>{% if m.map_id  %}{{m.map_id}}{% endif %}</td>
-			<td><a href="/cluster/{{cluster}}/map/{{m.map_id}}">{{ m.title }}</a></td>
-		</tr>
+		<li class="{% cycle odd,even %}">
+			<span class="map-id">{% if m.map_id  %}{{m.map_id}}{% endif %}</span>
+			{% if m.map_id  %}
+			<span class="map-title"><a href="/cluster/{{cluster}}/map/{{m.map_id}}">{{ m.title }}</a></span>
+			{% else %}
+			<span class="map-title"><a href="/cluster/{{cluster}}/map/{{m.slug}}">{{ m.title }}</a></span>
+			{% endif %}
+		</li>
 	{% endfor %}
-</table>
+</ul>
 </div>
 
 <div id="col-b">
@@ -33,32 +32,55 @@
 
 {% block head %}
 
-<!-- was ABQIAAAA8E1c1-rPGKc2CBMpfB181RQCULP4XOMyhPd8d_NrQQEO8sT8XBRf1rJ17f4tMfExvM9_vY718ffevg -->
-<script src='http://maps.google.com/maps?file=api&amp;v=2&amp;key={{ settings.GOOGLE_MAPS_API_KEY }}'></script> 
+<!-- was  -->
+<script src='http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA8E1c1-rPGKc2CBMpfB181RQCULP4XOMyhPd8d_NrQQEO8sT8XBRf1rJ17f4tMfExvM9_vY718ffevg'></script> 
 <script src="http://openlayers.org/api/OpenLayers.js"></script> 
+{{ gmap_api_version }}
 <script type="text/javascript"> 
-    var map;
+
+	google.load("maps", "2");
+ 
+	// Call this function when the page has been loaded
 
     function init() {
-        map = new OpenLayers.Map('map');
-      //  map.addControl(new OpenLayers.Control.LayerSwitcher());
-        
-        var gphy = new OpenLayers.Layer.Google(
-            "Google Physical",
-            {type: G_PHYSICAL_MAP}
-        );		
-
-
-	//	var clusters = new OpenLayers.Layer.GML("Clusters", "/kml/all.kml");
+      if (GBrowserIsCompatible()) {
+        var map = new GMap2(document.getElementById("map"));
+		map.setMapType(G_PHYSICAL_MAP);
+		map.addControl(new GSmallMapControl());
 		
-		var clusters = new OpenLayers.Layer.GML("KML", "/kml/single/{{cluster}}.kml", {
-		   format: OpenLayers.Format.KML
-		})
-		
-
-        map.addLayers([gphy, clusters]);
-        map.setCenter(new OpenLayers.LonLat(-83.143158, 42.3763), 11);
+        map.setCenter(new GLatLng(42.3763, -83.143158), 10);
+		geoXml = new GGeoXml("http://ec2-184-73-101-206.compute-1.amazonaws.com/kml/single/{{cluster}}.kml");
+		map.addOverlay(geoXml);
+      }
     }
+
+
+
+
+	
+      //  map = new OpenLayers.Map('map');      
+      //  var gphy = new OpenLayers.Layer.Google(
+      //      "Google Physical",
+      //      {type: G_PHYSICAL_MAP}
+      //  );			
+	  //  var clusters = new OpenLayers.Layer.GML("KML", "/kml/single/{{cluster}}.kml", {
+	//	   format: OpenLayers.Format.KML
+	//	});
+	//	
+	//    stationKML = new OpenLayers.Layer.GML("KML", "/kml/single/{{cluster}}.kml",
+	//    		       {
+	//    			    projection: new OpenLayers.Projection("EPSG:4326"), 
+	//    				format: OpenLayers.Format.KML, 
+	//    				formatOptions: {
+	//    				   extractAttributes: true
+	//    				}
+	//    });
+    // 
+	//	map.addLayer(stationKML);
+    //
+    //    map.addLayer(gphy);
+      // map.setCenter(new OpenLayers.LonLat(-83.143158, 42.3763), 11);
+
 </script> 
 
 	

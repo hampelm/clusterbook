@@ -25,7 +25,6 @@
 {% for cluster in clusters %}
 <Placemark>
     <name>{{ cluster.title }}</name>
-    <description></description>
     <styleUrl>#transBluePoly</styleUrl>
     {{ cluster.mpoly.kml|safe }}
 </Placemark>
