@@ -38,10 +38,17 @@ def cluster(request, cluster):
     clusters = Cluster.objects.all()
     
   #  maps_in_cluster = MapFile.objects.filter(cluster=cluster).order_by('map_num')    
-        
+    cluster_obj = Cluster.objects.get(cluster_id=int(cluster))
+    bbox = cluster_obj.mpoly.extent
+    
     response['maps'] = maps
     response['clusters'] = clusters
     response['cluster'] = cluster
+    response['x_min'] = bbox[0]
+    response['y_min'] = bbox[1]
+    response['x_max'] = bbox[2]
+    response['y_max'] = bbox[3]
+                        
     
     return render_to_response('cluster.html', response)
 

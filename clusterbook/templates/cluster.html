@@ -24,6 +24,7 @@
 </div>
 
 <div id="col-b">
+	
 	<div style="width:100%; height:300px" id="map"></div>
 </div>
 
@@ -48,38 +49,28 @@
 		map.setMapType(G_PHYSICAL_MAP);
 		map.addControl(new GSmallMapControl());
 		
-        map.setCenter(new GLatLng(42.3763, -83.143158), 10);
-		geoXml = new GGeoXml("http://ec2-184-73-101-206.compute-1.amazonaws.com/kml/hilight/{{cluster}}.kml");
+       // map.setCenter(new GLatLng(42.3763, -83.143158), 10);
+		geoXml = new GGeoXml("http://ec2-184-73-101-206.compute-1.amazonaws.com/kml/single/{{cluster}}.kml");
 		map.addOverlay(geoXml);
+		
+		
+		// Define the two corners of the bounding box
+		var sw = new GLatLng({{y_min}}, {{x_min}});
+		var ne = new GLatLng({{y_max}}, {{x_max}});
+
+		// Create a bounding box
+		var bounds = new GLatLngBounds(sw, ne);
+
+		// Center map in the center of the bounding box
+		// and calculate the appropriate zoom level
+		map.setCenter(bounds.getCenter(), map.getBoundsZoomLevel(bounds));
+		
+		
       }
     }
 
 
-
-
 	
-      //  map = new OpenLayers.Map('map');      
-      //  var gphy = new OpenLayers.Layer.Google(
-      //      "Google Physical",
-      //      {type: G_PHYSICAL_MAP}
-      //  );			
-	  //  var clusters = new OpenLayers.Layer.GML("KML", "/kml/single/{{cluster}}.kml", {
-	//	   format: OpenLayers.Format.KML
-	//	});
-	//	
-	//    stationKML = new OpenLayers.Layer.GML("KML", "/kml/single/{{cluster}}.kml",
-	//    		       {
-	//    			    projection: new OpenLayers.Projection("EPSG:4326"), 
-	//    				format: OpenLayers.Format.KML, 
-	//    				formatOptions: {
-	//    				   extractAttributes: true
-	//    				}
-	//    });
-    // 
-	//	map.addLayer(stationKML);
-    //
-    //    map.addLayer(gphy);
-      // map.setCenter(new OpenLayers.LonLat(-83.143158, 42.3763), 11);
 
 </script> 
 
