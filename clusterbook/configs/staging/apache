@@ -1,6 +1,6 @@
 <VirtualHost *:80>
-    ServerName clusterbook.foo.example.com
-    ServerAlias http://184.73.214.134
+    ServerName foo.example.com
+    ServerAlias 184.73.214.134
 
     WSGIScriptAlias / /home/newsapps/sites/clusterbook/repository/clusterbook/configs/staging/staging.wsgi
     
@@ -19,7 +19,7 @@
     RewriteEngine on
     # canonical hostname
     RewriteCond %{HTTP_HOST} ^www [NC] 
-    RewriteRule ^/(.*)  http://clusterbook.foo.example.com/$1 [L,R]
+    RewriteRule ^/(.*)  http://184.73.214.134/$1 [L,R]
     
     RewriteCond %{REQUEST_URI} /maintenance.html$ 
     RewriteRule $ / [R=302,L]
