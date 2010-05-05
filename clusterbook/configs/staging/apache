@@ -1,6 +1,6 @@
 <VirtualHost *:80>
     ServerName clusterbook.foo.example.com
-    ServerAlias 184.73.214.134
+    ServerAlias http://184.73.214.134
 
     WSGIScriptAlias / /home/newsapps/sites/clusterbook/repository/clusterbook/configs/staging/staging.wsgi
     
