@@ -27,6 +27,9 @@ class MapFile(models.Model):
     scribd_link = models.CharField(max_length=256, null=True)
     scribd_ak = models.CharField(max_length=256, null=True)
     
+    public = models.BooleanField() 
+    
+    
     
 class Cluster(models.Model):
     cluster_id = models.IntegerField(max_length = 2, null=True)
@@ -44,6 +47,9 @@ class MapType(models.Model):
     title = models.CharField(max_length=100)
     slug = models.SlugField(max_length=256, null=True)
     narrative = models.TextField(null=True)
+    tooltip = models.TextField()
+    public = models.BooleanField() 
+    
     
     # GeoDjango-specific: a geometry field (MultiPolygonField), and
     # overriding the default manager with a GeoManager instance.

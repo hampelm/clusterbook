@@ -22,6 +22,9 @@ PATH_TO_CLUSTERS = os.path.join(settings.SITE_ROOT, '../data/clusters/cluster_43
 
 PATH_TO_THUMBS = os.path.join(settings.SITE_ROOT, 'assets/images/thumbs_old/')
 
+# mapping of show-no-show keys
+PATH_TO_SHOW = os.path.join(settings.SITE_ROOT, '../data/show-list.csv')
+
 
 def fake_slug(string):
     '''
@@ -116,6 +119,41 @@ def get_details(fname):
     return results
     
     
+    
+def update_info():
+    # reads in a CSV file that has details
+    # I expect the format / type of data to change, so this function
+    # won't be well documented. 
+
+    key_reader = csv.reader(open(PATH_TO_SHOW), delimiter=',', quotechar='|')
+    for row in key_reader:
+        print row[1]
+        
+        maptype_to_update = MapType.objects.get(title = row[1])
+        
+        if maptype_to_update.title == "Insitutional Uses":
+            maptype_to_update.title = "Institutional Uses"
+        
+        if maptype_to_update.title == "2005 Aerail Photo (Color)":
+            maptype_to_update.title = "2005 Aerial Photo (Color)"            
+            
+        if maptype_to_update.title == "Illegal Dumping & Street Ligths":
+            maptype_to_update.title = "Illegal Dumping & Street Lights"
+            
+        
+        if row[2] == 'Y':
+            maptype_to_update.public = True
+        else:
+            maptype_to_update.public = False
+        
+        if row[3] is not None:
+            maptype_to_update.tooltip = row[3]
+        
+        maptype_to_update.save()
+        
+    
+    
+    
 def import_pdfs():
     
     # Reads the CSV key
@@ -137,7 +175,7 @@ def import_pdfs():
                 
                 print "trying " + pdf_name
                 
-                # create a slug from the filename
+                # create a slug for the map from the filename
                 slug = fake_slug(num_to_title[str(pdf_details['map'])])
                 
                 # read in the file from the file path

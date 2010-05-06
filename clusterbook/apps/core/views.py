@@ -14,19 +14,17 @@ from models import MapFile, MapType, Cluster
 from helpers import *
 
 def get_maps():
-    maps = MapType.objects.filter(map_id__isnull=False).order_by('map_id')
+    maps = MapType.objects.filter(map_id__isnull=False, public = True).order_by('map_id')
     return maps
 
 def home(request):
     response = {}
     
-    count = MapFile.objects.all().count()
     maps = get_maps()
     clusters = Cluster.objects.all()
     
     response['maps'] = maps
     response['clusters'] = clusters
-    response['count'] = count
             
     return render_to_response('home.html', response)
 
@@ -64,9 +62,12 @@ def cluster_map(request, cluster, map_id):
         map_id = int(map_id)
     except:
         pass
+        
+    
     
     if type(map_id) is IntType:
         map_title = MapType.objects.get(map_id=map_id).title
+        the_map = MapType.objects.get(map_id=map_id)
         
         # poor coding style -- should not be duped
         appendices = MapFile.objects.filter(
@@ -129,7 +130,10 @@ def cluster_map(request, cluster, map_id):
     response['clusters'] = clusters
     response['cluster'] = cluster
     
-    return render_to_response('cluster_map.html', response)
+    if the_map.public is True:
+        return render_to_response('cluster_map.html', response)
+    else:
+        raise Http404 
     
         
 def cluster_all_kml(request):
